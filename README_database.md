@@ -14,7 +14,10 @@ connected to the provisional database
 
 ### Summary of Process:
 This week our team has created [name of database]
-using data from https://www.basketball-reference.com/leagues/NBA_2021_advanced.html. After we cleaned the data, we uploaded our cleaned csv files to a Postgres database. We've utilized our ERD (see image) to created our database structure. Within [name of database], we created a schema file: [name of file] to create the tables.
+using data from https://www.basketball-reference.com/leagues/NBA_2021_advanced.html. After we cleaned the data, we uploaded our cleaned csv files to a Postgres database. We've utilized our ERD (see image file) to created our database structure. We also created a schema file: schema.sql to create the tables to be read into Postgres. See image below of database creation.
+
+#### NBA Analysis Database
+![](https://i.imgur.com/sZpdt5f.png)
 
 ### Database Column Acronyms:
 * Index = Unique Player rank
