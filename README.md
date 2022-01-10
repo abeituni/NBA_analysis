@@ -26,10 +26,12 @@ We hope to find out which NBA players have the most similar stats spanning acros
 ##### *Branches were created for each team*
 
 ## Machine Learning
-See Machine Learning branch
+See [Machine Learning branch](https://github.com/irameowlee/NBA_analysis/tree/machine_learning)
 
 ## Database
-See Database branch
+See [Database branch](https://github.com/irameowlee/NBA_analysis/tree/database_branch)
+	
+See [Technology branch](https://github.com/irameowlee/NBA_analysis/blob/technology_branch/README_technology.md)
 
 ## Dashboard
 N/A
