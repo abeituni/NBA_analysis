@@ -1,6 +1,7 @@
 CREATE TABLE players(
     Player VARCHAR NOT NULL,
     player_id int NOT NULL,
+    Season int,
     PRIMARY KEY (Player, player_id),
 	UNIQUE (Player,player_id)
 );
