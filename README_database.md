@@ -55,166 +55,171 @@ using data from https://www.basketball-reference.com/leagues/NBA_2021_advanced.h
 
 Players
 -
-Player_ID varchar pk fk - 201617_nbaavgs.Player_ID
-Player varchar pk fk - 201617_nbaavgs.Player
-Season
+- Player_ID varchar pk fk - 201617_nbaavgs.Player_ID
+- Player varchar pk fk - 201617_nbaavgs.Player
+- Season
 
 201617_nbaavgs
 -
-Player_ID varchar pk fk - 201718_nbaavgs.Player_ID
-Player varchar pk fk - 201718_nbaavgs.Player
-G int 
-GS int
-MP int
-FG int
-FGA int
-three_point_made int
-three_point_attempt int
-three_point_percent int 
-two_point_made int
-two_point_attempt int
-two_point_percent int
-eFG_percent int
-FT int
-FTA int
-FT_percent int
-ORB int
-DRB int
-TRB int
-AST int
-STL int
-BLK int
-TOV int
-PF int
-PTS int
-PER int
-BPM int
-VOPR int
+- Player_ID varchar pk fk - 201718_nbaavgs.Player_ID
+- Player varchar pk fk - 201718_nbaavgs.Player
+- G int 
+- GS int
+- MP int
+- FG int
+- FGA int
+- three_point_made int
+- three_point_attempt int
+- three_point_percent int 
+- two_point_made int
+- two_point_attempt int
+- two_point_percent int
+- eFG_percent int
+- FT int
+- FTA int
+- FT_percent int
+- ORB int
+- DRB int
+- TRB int
+- AST int
+- STL int
+- BLK int
+- TOV int
+- PF int
+- PTS int
+- PER int
+- BPM int
+- VOPR int
 
 201718_nbaavgs
 -
-Player_ID varchar pk fk - 201819_nbaavgs.Player_ID
-Player varchar pk fk - 201819_nbaavgs.Player
-G int 
-GS int
-MP int
-FG int
-FGA int
-three_point_made int
-three_point_attempt int
-three_point_percent int 
-two_point_made int
-two_point_attempt int
-two_point_percent int
-eFG_percent int
-FT int
-FTA int
-FT_percent int
-ORB int
-DRB int
-TRB int
-AST int
-STL int
-BLK int
-TOV int
-PF int
-PTS int
-PER int
-BPM int
-VOPR int
+- Player_ID varchar pk fk - 201718_nbaavgs.Player_ID
+- Player varchar pk fk - 201718_nbaavgs.Player
+- G int 
+- GS int
+- MP int
+- FG int
+- FGA int
+- three_point_made int
+- three_point_attempt int
+- three_point_percent int 
+- two_point_made int
+- two_point_attempt int
+- two_point_percent int
+- eFG_percent int
+- FT int
+- FTA int
+- FT_percent int
+- ORB int
+- DRB int
+- TRB int
+- AST int
+- STL int
+- BLK int
+- TOV int
+- PF int
+- PTS int
+- PER int
+- BPM int
+- VOPR int
 
 201819_nbaavgs
 -
-Player_ID varchar pk fk - 201920_nbaavgs.Player_ID
-Player varchar pk fk - 201920_nbaavgs.Player
-G int 
-GS int
-MP int
-FG int
-FGA int
-three_point_made int
-three_point_attempt int
-three_point_percent int 
-two_point_made int
-two_point_attempt int
-two_point_percent int
-eFG_percent int
-FT int
-FTA int
-FT_percent int
-ORB int
-DRB int
-TRB int
-AST int
-STL int
-BLK int
-TOV int
-PF int
-PTS int
-PER int
-BPM int
-VOPR int
+- Player_ID varchar pk fk - 201718_nbaavgs.Player_ID
+- Player varchar pk fk - 201718_nbaavgs.Player
+- G int 
+- GS int
+- MP int
+- FG int
+- FGA int
+- three_point_made int
+- three_point_attempt int
+- three_point_percent int 
+- two_point_made int
+- two_point_attempt int
+- two_point_percent int
+- eFG_percent int
+- FT int
+- FTA int
+- FT_percent int
+- ORB int
+- DRB int
+- TRB int
+- AST int
+- STL int
+- BLK int
+- TOV int
+- PF int
+- PTS int
+- PER int
+- BPM int
+- VOPR int
 
 201920_nbaavgs
 -
-Player_ID varchar pk fk - 202021_nbaavgs.Player_ID
-Player varchar pk fk - 202021_nbaavgs.Player
-G int 
-GS int
-MP int
-FG int
-FGA int
-three_point_made int
-three_point_attempt int
-three_point_percent int 
-two_point_made int
-two_point_attempt int
-two_point_percent int
-eFG_percent int
-FT int
-FTA int
-FT_percent int
-ORB int
-DRB int
-TRB int
-AST int
-STL int
-BLK int
-TOV int
-PF int
-PTS int
-PER int
-BPM int
-VOPR int
+- Player_ID varchar pk fk - 201718_nbaavgs.Player_ID
+- Player varchar pk fk - 201718_nbaavgs.Player
+- G int 
+- GS int
+- MP int
+- FG int
+- FGA int
+- three_point_made int
+- three_point_attempt int
+- three_point_percent int 
+- two_point_made int
+- two_point_attempt int
+- two_point_percent int
+- eFG_percent int
+- FT int
+- FTA int
+- FT_percent int
+- ORB int
+- DRB int
+- TRB int
+- AST int
+- STL int
+- BLK int
+- TOV int
+- PF int
+- PTS int
+- PER int
+- BPM int
+- VOPR int
 
 202021_nbaavgs
 -
-Player_ID varchar pk 
-Player varchar pk 
-G int 
-GS int
-MP int
-FG int
-FGA int
-three_point_made int
-three_point_attempt int
-three_point_percent int 
-two_point_made int
-two_point_attempt int
-two_point_percent int
-eFG_percent int
-FT int
-FTA int
-FT_percent int
-ORB int
-DRB int
-TRB int
-AST int
-STL int
-BLK int
-TOV int
-PF int
-PTS int
-PER int
-BPM int
-VOPR int
+- Player_ID varchar pk fk - 201718_nbaavgs.Player_ID
+- Player varchar pk fk - 201718_nbaavgs.Player
+- G int 
+- GS int
+- MP int
+- FG int
+- FGA int
+- three_point_made int
+- three_point_attempt int
+- three_point_percent int 
+- two_point_made int
+- two_point_attempt int
+- two_point_percent int
+- eFG_percent int
+- FT int
+- FTA int
+- FT_percent int
+- ORB int
+- DRB int
+- TRB int
+- AST int
+- STL int
+- BLK int
+- TOV int
+- PF int
+- PTS int
+- PER int
+- BPM int
+- VOPR int
+
+### image of ERD attached below
+
+![erd](nba_analysis_erd.png)
+
