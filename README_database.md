@@ -2,7 +2,7 @@
 ## Database: Segement 2
 
 ### Database Setup
-We have setup a database with Postgres and connected it through python with SQL Alchemy. 
+We have setup a database with Postgres and connected it through python with SQL Alchemy. We decided not to use AWS as a database and instead have everyone connect to their local computer.
 
 ### Rubric: 
 Team members present a provisional
