@@ -1,5 +1,8 @@
 # NBA_analysis
-## Database: Segement 1
+## Database: Segement 2
+
+### Database Setup
+We have setup a database with Postgres and connected it through python with SQL Alchemy. 
 
 ### Rubric: 
 Team members present a provisional
@@ -20,7 +23,7 @@ using data from https://www.basketball-reference.com/leagues/NBA_2021_advanced.h
 ![](https://i.imgur.com/sZpdt5f.png)
 
 ### Database Column Acronyms:
-* Index = Unique Player rank
+* Player_ID = Unique Player rank
 * MP = Minutes Played
 * G = Total Games
 * GS = Games Started
