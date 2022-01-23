@@ -8,7 +8,7 @@ We utilized NBA player statistics from basketball-reference.com. The website all
 We created a jupyter notebook file, "CleaningData," to read into CSVs files and re-format columns using Python. We used Pandas to create DataFrames from the CSVs and merge them into one DataFrame per season. We then exported new cleaned CSV files.
 
 #### Database Storage: 
-* Python to PostgreSQL/pgAdmin
+We created another jupyter notebook to take the clean CSV files and import them into a Postgres database using SQL Alchemy and Python. We also created a schema file to create two tables for our Analysis using SQL.
 #### Machine Learning: 
 * Python
 ##### Visualization Software: 
