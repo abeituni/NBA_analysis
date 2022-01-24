@@ -11,8 +11,8 @@ We created a jupyter notebook file, "CleaningData," to read into CSVs files and 
 We created another jupyter notebook to take the clean CSV files and import them into a Postgres database using SQL Alchemy and Python. We also created a schema file to create two tables for our Analysis using SQL.
 #### Machine Learning: 
 We created a python jupyter notebook file to conduct our machine learning models. We used SkLearn library to perform our PCA analysis. We've also decided to use an unsupervised learning model to predict player performance, and we used the SkLearn library for this as well.
-##### Visualization Software: 
-* Tableau
+##### Visualization: 
+We've decided to use Tableau to display our results and machine learning models. However, we are currently using Microsoft Visio to create our Storyboard. We hope to convert this to Tableau.
 ### Storyboard on Google Slides:
 ✓ Description of the tool(s) that will be
 used to create final dashboard
