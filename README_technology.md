@@ -14,7 +14,4 @@ We created a python jupyter notebook file to conduct our machine learning models
 ##### Visualization: 
 We've decided to use Tableau to display our results and machine learning models. However, we are currently using Microsoft Visio to create our Storyboard. We hope to convert this to Tableau.
 ### Storyboard on Google Slides:
-✓ Description of the tool(s) that will be
-used to create final dashboard
-✓ Description of interactive element(s)
-
+We are currently using Microsoft Visio to create a wireframe for our storyboard. We hope to display this in our Google Slides. We hope to convert the visualizations to Tableau and link the webpage to our presentation. We are thinking to switch to the Tableau webpage during the presentation so we can display the interactive elements of our visualizations.
