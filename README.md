@@ -36,3 +36,6 @@ See [Technology branch](https://github.com/irameowlee/NBA_analysis/blob/technolo
 
 ## Dashboard
 We are using Tableau to created our visualizations and storyboard. 
+
+##### Wireframe for our dashboard
+To  create our wireframe, we are using Microsoft Visio. 
