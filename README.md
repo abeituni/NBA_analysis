@@ -39,6 +39,6 @@ We are using Tableau to created our visualizations and storyboard.
 
 ##### Wireframe for our dashboard
 To create our wireframe, we are using Microsoft Visio. It was a rough draft of essentially what we want the dashboard to look like.  
-This is the wireframe we came up with using inspiration of a hand drawing made by a team member. 
+This is the wireframe we came up with using inspiration of a hand drawing made by a team member. The top of the webpage we want there to be a search option for individual players. Next to that search bar, we want to add in a bubble chart with a start and end search option, as well as a category option, so players can be compared by year. 
 ![wireframe1](Wireframe_1.png)
 ![wireframe2](Wireframe_2.png)
