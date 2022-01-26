@@ -4,13 +4,14 @@
 
 1) Description of preliminary data preprocessing
 
-* data selection
-* data processing
-* data transformation
+- split original dataframe into two dataframes, main and miscellaneous.
+- converted uppercase column names into lowercase for postgres.
+- used groupby() by player name.
 
 
 2)  Description of preliminary feature engineering and preliminary feature selection, including their decision-making process
 
+:  Decided to use PCA due to the high number of input features. Used PCA to reduce number of features. Got smaller sets of dimensions, 5 principal components.
 
 3)  Description of how data was split into training and testing sets
 
@@ -19,12 +20,10 @@
 
 4)  Explanation of model choice, including limitations and benefits
 
-* started machine learning process by using the elbow curve. Looped through 10 values for K and determined inertai. Created plot for the elbow curve and created k-means function.
-* Decided to use PCA due to the high number of input features. Used PCA to reduce number of features. Got smaller sets of dimensions, 5 principal components.
-* Used elbow curve with the newly generated principal components. 
+* started machine learning process by using the elbow curve. Looped through 10 values for K and determined inertia. Created plot for the elbow curve and created k-means function.
+* Used PCA to reduce number of features. Got smaller sets of dimensions, 5 principal components.
+* Used elbow curve with the newly generated principal components. K value is 3.
 * Plotted the clusters. 
-
-
 
 
 
