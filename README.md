@@ -29,6 +29,8 @@ We have included a link to our visualization & analysis for our Advanced Stats M
 
 ![tableau_screenshot](https://github.com/abeituni/NBA_analysis/blob/main/Dashboard/Images/tableau_nba_visual.png)
 
+![machine_learning_model](https://github.com/abeituni/NBA_analysis/blob/main/Dashboard/Images/advanced_stats_model.png)
+
 ## Machine Learning
 
 ## UPDATE - Segment 3
