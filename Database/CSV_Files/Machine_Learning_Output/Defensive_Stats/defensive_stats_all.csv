@@ -1,0 +1,2394 @@
+,player,year,drb,stl,blk,class
+15,Giannis Antetokounmpo,2016-17,7.0,1.6,1.9,elite
+89,DeMarcus Cousins,2016-17,8.9,1.4,1.3,elite
+99,Anthony Davis,2016-17,9.5,1.3,2.2,elite
+110,Gorgui Dieng,2016-17,5.6,1.1,1.2,elite
+114,Andre Drummond,2016-17,9.5,1.5,1.1,elite
+118,Kevin Durant,2016-17,7.6,1.1,1.6,elite
+123,Joel Embiid,2016-17,5.9,0.9,2.5,elite
+155,Rudy Gobert,2016-17,8.9,0.6,2.6,elite
+164,Draymond Green,2016-17,6.6,2.0,1.4,elite
+205,Dwight Howard,2016-17,8.7,0.9,1.2,elite
+220,LeBron James,2016-17,7.3,1.2,0.6,elite
+240,DeAndre Jordan,2016-17,10.1,0.6,1.7,elite
+272,Kevin Love,2016-17,8.6,0.9,0.4,elite
+305,Paul Millsap,2016-17,6.1,1.3,0.9,elite
+433,Karl-Anthony Towns,2016-17,8.7,0.7,1.3,elite
+436,Myles Turner,2016-17,5.6,0.9,2.1,elite
+447,Nikola Vučević,2016-17,8.0,1.0,1.0,elite
+460,Hassan Whiteside,2016-17,10.3,0.7,2.1,elite
+501,Giannis Antetokounmpo,2017-18,8.0,1.5,1.4,elite
+570,Clint Capela,2017-18,7.6,0.8,1.9,elite
+597,DeMarcus Cousins,2017-18,10.7,1.6,1.6,elite
+607,Anthony Davis,2017-18,8.6,1.5,2.6,elite
+625,Andre Drummond,2017-18,10.9,1.5,1.6,elite
+628,Kevin Durant,2017-18,6.4,0.7,1.8,elite
+632,Joel Embiid,2017-18,8.7,0.6,1.8,elite
+664,Rudy Gobert,2017-18,7.8,0.8,2.3,elite
+673,Draymond Green,2017-18,6.6,1.4,1.3,elite
+715,Dwight Howard,2017-18,9.3,0.6,1.6,elite
+734,LeBron James,2017-18,7.5,1.4,0.9,elite
+749,Nikola Jokić,2017-18,8.1,1.2,0.8,elite
+754,DeAndre Jordan,2017-18,10.9,0.5,0.9,elite
+859,Jusuf Nurkić,2017-18,6.6,0.8,1.4,elite
+896,Kristaps Porziņģis,2017-18,5.3,0.8,2.4,elite
+936,Ben Simmons,2017-18,6.3,1.7,0.9,elite
+969,Karl-Anthony Towns,2017-18,9.4,0.8,1.4,elite
+980,Nikola Vučević,2017-18,7.4,1.0,1.1,elite
+998,Hassan Whiteside,2017-18,8.2,0.7,1.7,elite
+1043,Giannis Antetokounmpo,2018-19,10.3,1.3,1.5,elite
+1050,Deandre Ayton,2018-19,7.1,0.9,0.9,elite
+1114,Clint Capela,2018-19,8.2,0.7,1.5,elite
+1140,DeMarcus Cousins,2018-19,6.8,1.3,1.5,elite
+1141,Robert Covington,2018-19,4.7,2.1,1.3,elite
+1151,Anthony Davis,2018-19,8.9,1.6,2.4,elite
+1155,Dewayne Dedmon,2018-19,5.9,1.1,1.1,elite
+1172,Andre Drummond,2018-19,10.2,1.7,1.7,elite
+1180,Joel Embiid,2018-19,11.1,0.7,1.9,elite
+1206,Marc Gasol,2018-19,6.9,1.1,1.1,elite
+1213,Rudy Gobert,2018-19,9.0,0.8,2.3,elite
+1224,Draymond Green,2018-19,6.4,1.4,1.1,elite
+1284,LeBron James,2018-19,7.4,1.3,0.6,elite
+1295,Nikola Jokić,2018-19,8.0,1.4,0.7,elite
+1302,DeAndre Jordan,2018-19,9.8,0.6,1.1,elite
+1406,Jusuf Nurkić,2018-19,7.0,1.0,1.4,elite
+1474,Ben Simmons,2018-19,6.6,1.4,0.8,elite
+1506,Karl-Anthony Towns,2018-19,9.0,0.9,1.6,elite
+1511,Myles Turner,2018-19,5.8,0.8,2.7,elite
+1518,Nikola Vučević,2018-19,9.2,1.0,1.1,elite
+1531,Russell Westbrook,2018-19,9.6,1.9,0.5,elite
+1534,Hassan Whiteside,2018-19,7.8,0.6,1.9,elite
+1557,Bam Adebayo,2019-20,7.8,1.1,1.3,elite
+1568,Giannis Antetokounmpo,2019-20,11.4,1.0,1.0,elite
+1576,Deandre Ayton,2019-20,7.6,0.7,1.5,elite
+1642,Clint Capela,2019-20,9.5,0.8,1.8,elite
+1663,John Collins,2019-20,7.3,0.8,1.6,elite
+1669,Robert Covington,2019-20,5.7,1.6,1.3,elite
+1678,Anthony Davis,2019-20,7.0,1.5,2.3,elite
+1695,Andre Drummond,2019-20,10.8,1.9,1.6,elite
+1701,Joel Embiid,2019-20,8.9,0.9,1.3,elite
+1732,Rudy Gobert,2019-20,10.1,0.8,2.0,elite
+1798,Jonathan Isaac,2019-20,5.1,1.6,2.3,elite
+1817,Nikola Jokić,2019-20,7.5,1.2,0.6,elite
+1929,Jusuf Nurkić,2019-20,7.4,1.4,2.0,elite
+1966,Kristaps Porziņģis,2019-20,7.7,0.7,2.0,elite
+1991,Domantas Sabonis,2019-20,9.4,0.8,0.5,elite
+2004,Pascal Siakam,2019-20,6.3,1.0,0.9,elite
+2019,Jayson Tatum,2019-20,6.0,1.4,0.9,elite
+2032,Karl-Anthony Towns,2019-20,8.1,0.9,1.2,elite
+2046,Nikola Vučević,2019-20,8.6,0.9,0.8,elite
+2064,Hassan Whiteside,2019-20,9.7,0.4,2.9,elite
+2088,Bam Adebayo,2020-21,6.7,1.2,1.0,elite
+2096,Giannis Antetokounmpo,2020-21,9.4,1.2,1.2,elite
+2175,Clint Capela,2020-21,9.6,0.7,2.0,elite
+2195,Robert Covington,2020-21,5.8,1.4,1.2,elite
+2202,Anthony Davis,2020-21,6.2,1.3,1.6,elite
+2221,Andre Drummond,2020-21,8.4,1.4,1.1,elite
+2230,Joel Embiid,2020-21,8.4,1.0,1.4,elite
+2264,Rudy Gobert,2020-21,10.1,0.6,2.7,elite
+2285,James Harden,2020-21,7.1,1.2,0.8,elite
+2336,LeBron James,2020-21,7.0,1.1,0.6,elite
+2347,Nikola Jokić,2020-21,8.0,1.3,0.7,elite
+2452,Nerlens Noel,2020-21,4.2,1.1,2.2,elite
+2457,Jusuf Nurkić,2020-21,6.6,1.0,1.1,elite
+2505,Julius Randle,2020-21,9.0,0.9,0.3,elite
+2520,Mitchell Robinson,2020-21,4.5,1.1,1.5,elite
+2528,Domantas Sabonis,2020-21,9.5,1.2,0.5,elite
+2575,Karl-Anthony Towns,2020-21,7.9,0.8,1.1,elite
+2579,Myles Turner,2020-21,5.2,0.9,3.4,elite
+2588,Nikola Vučević,2020-21,9.6,0.9,0.7,elite
+2596,P.J. Washington,2020-21,5.1,1.1,1.2,elite
+2601,Russell Westbrook,2020-21,9.9,1.4,0.4,elite
+2618,Christian Wood,2020-21,7.8,0.8,1.2,elite
+2,Steven Adams,2016-17,4.2,1.1,1.0,great
+6,LaMarcus Aldridge,2016-17,4.9,0.6,1.2,great
+9,Al-Farouq Aminu,2016-17,6.1,1.0,0.7,great
+45,Bismack Biyombo,2016-17,5.1,0.3,1.1,great
+50,Andrew Bogut,2016-17,6.0,0.5,0.9,great
+70,Clint Capela,2016-17,5.4,0.5,1.2,great
+76,Tyson Chandler,2016-17,8.2,0.7,0.5,great
+102,Dewayne Dedmon,2016-17,4.8,0.5,0.8,great
+145,Marc Gasol,2016-17,5.5,0.9,1.3,great
+146,Pau Gasol,2016-17,6.2,0.4,1.1,great
+153,Taj Gibson,2016-17,4.2,0.5,0.8,great
+159,Marcin Gortat,2016-17,7.5,0.5,0.7,great
+187,John Henson,2016-17,3.5,0.5,1.3,great
+201,Richaun Holmes,2016-17,3.8,0.7,1.0,great
+203,Al Horford,2016-17,5.4,0.8,1.3,great
+210,Serge Ibaka,2016-17,5.2,0.5,1.6,great
+228,James Johnson,2016-17,4.1,1.0,1.1,great
+233,Nikola Jokić,2016-17,6.9,0.8,0.8,great
+238,Terrence Jones,2016-17,4.5,0.7,1.0,great
+244,Michael Kidd-Gilchrist,2016-17,5.0,1.0,1.0,great
+259,Alex Len,2016-17,4.6,0.5,1.3,great
+270,Brook Lopez,2016-17,3.8,0.5,1.7,great
+271,Robin Lopez,2016-17,3.4,0.2,1.4,great
+327,Joakim Noah,2016-17,5.2,0.7,0.8,great
+329,Lucas Nogueira,2016-17,2.8,0.9,1.6,great
+331,Dirk Nowitzki,2016-17,6.1,0.6,0.7,great
+332,Jusuf Nurkić,2016-17,4.8,0.8,1.1,great
+335,Kyle O'Quinn,2016-17,3.6,0.5,1.3,great
+337,Jahlil Okafor,2016-17,3.2,0.4,1.0,great
+357,Mason Plumlee,2016-17,5.4,0.9,1.1,great
+362,Kristaps Porziņģis,2016-17,5.5,0.7,2.0,great
+370,Julius Randle,2016-17,6.6,0.7,0.5,great
+428,Tristan Thompson,2016-17,5.5,0.5,1.1,great
+440,Jonas Valančiūnas,2016-17,6.7,0.5,0.8,great
+467,Marvin Williams,2016-17,5.4,0.8,0.7,great
+492,LaMarcus Aldridge,2017-18,5.2,0.6,1.2,great
+493,Jarrett Allen,2017-18,3.4,0.4,1.2,great
+533,Bismack Biyombo,2017-18,4.0,0.3,1.2,great
+576,Willie Cauley-Stein,2017-18,5.2,1.1,0.9,great
+579,Tyson Chandler,2017-18,6.2,0.3,0.6,great
+581,Marquese Chriss,2017-18,4.4,0.7,1.0,great
+586,John Collins,2017-18,4.9,0.6,1.1,great
+609,Ed Davis,2017-18,5.0,0.4,0.7,great
+610,Dewayne Dedmon,2017-18,6.3,0.6,0.8,great
+640,Derrick Favors,2017-18,4.6,0.7,1.1,great
+651,Enes Freedom,2017-18,7.1,0.5,0.5,great
+656,Marc Gasol,2017-18,7.0,0.7,1.4,great
+657,Pau Gasol,2017-18,6.4,0.3,1.0,great
+665,Aaron Gordon,2017-18,6.4,1.0,0.8,great
+667,Marcin Gortat,2017-18,5.4,0.5,0.7,great
+672,Danny Green,2017-18,3.0,0.9,1.1,great
+696,John Henson,2017-18,4.8,0.6,1.4,great
+713,Al Horford,2017-18,5.9,0.6,1.1,great
+719,Serge Ibaka,2017-18,5.3,0.4,1.3,great
+777,Alex Len,2017-18,5.0,0.4,0.9,great
+787,Brook Lopez,2017-18,3.0,0.4,1.3,great
+789,Kevin Love,2017-18,7.5,0.7,0.4,great
+799,Lauri Markkanen,2017-18,6.3,0.6,0.6,great
+819,Salah Mejri,2017-18,2.6,0.4,1.1,great
+826,Paul Millsap,2017-18,4.7,1.0,1.2,great
+827,Nikola Mirotić,2017-18,6.3,0.8,0.7,great
+863,Kyle O'Quinn,2017-18,4.5,0.5,1.3,great
+890,Mason Plumlee,2017-18,3.6,0.7,1.1,great
+892,Jakob Poeltl,2017-18,2.8,0.5,1.2,great
+972,Myles Turner,2017-18,5.0,0.6,1.8,great
+975,Jonas Valančiūnas,2017-18,6.2,0.4,0.9,great
+1030,Bam Adebayo,2018-19,5.3,0.9,0.8,great
+1033,LaMarcus Aldridge,2018-19,6.1,0.5,1.3,great
+1036,Jarrett Allen,2018-19,6.0,0.5,1.5,great
+1045,Carmelo Anthony,2018-19,4.5,0.4,0.7,great
+1052,Marvin Bagley III,2018-19,5.0,0.5,1.0,great
+1056,Mo Bamba,2018-19,3.6,0.3,1.4,great
+1104,Thomas Bryant,2018-19,4.7,0.3,0.9,great
+1110,Bruno Caboclo,2018-19,3.4,0.4,1.0,great
+1118,Wendell Carter Jr.,2018-19,5.0,0.6,1.3,great
+1133,John Collins,2018-19,6.2,0.4,0.6,great
+1175,Kevin Durant,2018-19,5.9,0.7,1.1,great
+1188,Derrick Favors,2018-19,4.6,0.7,1.4,great
+1215,Aaron Gordon,2018-19,5.7,0.7,0.7,great
+1220,Jerami Grant,2018-19,4.0,0.8,1.3,great
+1234,Montrezl Harrell,2018-19,4.3,0.9,1.3,great
+1238,Tobias Harris,2018-19,7.0,0.6,0.5,great
+1260,Richaun Holmes,2018-19,3.1,0.6,1.1,great
+1262,Al Horford,2018-19,5.0,0.9,1.3,great
+1269,Serge Ibaka,2018-19,6.0,0.4,1.4,great
+1276,Jonathan Isaac,2018-19,4.2,0.8,1.3,great
+1280,Jaren Jackson Jr.,2018-19,3.4,0.9,1.4,great
+1308,Maxi Kleber,2018-19,3.4,0.5,1.1,great
+1325,Alex Len,2018-19,3.5,0.4,0.9,great
+1335,Brook Lopez,2018-19,4.5,0.6,2.2,great
+1337,Kevin Love,2018-19,9.4,0.3,0.2,great
+1351,Lauri Markkanen,2018-19,7.6,0.7,0.6,great
+1362,JaVale McGee,2018-19,4.9,0.6,2.0,great
+1378,Nikola Mirotić,2018-19,6.1,0.7,0.7,great
+1402,Nerlens Noel,2018-19,2.6,0.9,1.2,great
+1429,Mason Plumlee,2018-19,4.4,0.8,0.9,great
+1442,Julius Randle,2018-19,6.5,0.7,0.6,great
+1453,Mitchell Robinson,2018-19,3.7,0.8,2.4,great
+1514,Jonas Valančiūnas,2018-19,6.4,0.4,1.1,great
+1517,Noah Vonleh,2018-19,6.1,0.7,0.8,great
+1542,Robert Williams,2018-19,1.7,0.3,1.3,great
+1555,Ivica Zubac,2018-19,4.2,0.2,0.9,great
+1556,Steven Adams,2019-20,6.0,0.8,1.1,great
+1558,LaMarcus Aldridge,2019-20,5.5,0.7,1.6,great
+1562,Jarrett Allen,2019-20,6.5,0.6,1.3,great
+1578,Marvin Bagley III,2019-20,5.2,0.5,0.9,great
+1580,Mo Bamba,2019-20,3.3,0.4,1.4,great
+1632,Thomas Bryant,2019-20,5.1,0.5,1.1,great
+1646,Wendell Carter Jr.,2019-20,6.2,0.8,0.8,great
+1649,Willie Cauley-Stein,2019-20,4.3,0.9,1.1,great
+1655,Marquese Chriss,2019-20,4.3,0.7,1.1,great
+1657,Brandon Clarke,2019-20,4.4,0.6,0.8,great
+1681,Dewayne Dedmon,2019-20,4.3,0.6,0.9,great
+1686,Gorgui Dieng,2019-20,4.2,0.8,0.9,great
+1707,Derrick Favors,2019-20,6.6,0.6,0.9,great
+1719,Enes Freedom,2019-20,4.6,0.4,0.7,great
+1726,Marc Gasol,2019-20,5.5,0.8,0.9,great
+1757,Montrezl Harrell,2019-20,4.5,0.6,1.1,great
+1760,Tobias Harris,2019-20,5.9,0.7,0.6,great
+1767,John Henson,2019-20,2.9,0.6,1.1,great
+1782,Richaun Holmes,2019-20,5.3,0.9,1.3,great
+1784,Al Horford,2019-20,5.3,0.8,0.9,great
+1787,Dwight Howard,2019-20,4.9,0.4,1.1,great
+1792,Serge Ibaka,2019-20,6.1,0.5,0.8,great
+1801,Jaren Jackson Jr.,2019-20,3.6,0.7,1.6,great
+1821,DeAndre Jordan,2019-20,7.5,0.3,0.9,great
+1829,Maxi Kleber,2019-20,3.7,0.3,1.1,great
+1848,Alex Len,2019-20,4.0,0.4,0.9,great
+1855,Brook Lopez,2019-20,3.7,0.7,2.4,great
+1857,Kevin Love,2019-20,8.8,0.6,0.3,great
+1864,Ian Mahinmi,2019-20,3.7,0.8,1.2,great
+1882,JaVale McGee,2019-20,3.9,0.5,1.4,great
+1924,Nerlens Noel,2019-20,3.4,1.0,1.5,great
+1955,Norvel Pelle,2019-20,2.2,0.1,1.3,great
+1958,Jakob Poeltl,2019-20,3.7,0.6,1.4,great
+1983,Mitchell Robinson,2019-20,4.0,0.9,2.0,great
+2022,Daniel Theis,2019-20,4.4,0.6,1.3,great
+2027,Tristan Thompson,2019-20,6.2,0.6,0.9,great
+2038,Myles Turner,2019-20,5.2,0.7,2.1,great
+2040,Jonas Valančiūnas,2019-20,8.2,0.4,1.1,great
+2065,Andrew Wiggins,2019-20,3.9,0.8,1.0,great
+2071,Robert Williams,2019-20,3.0,0.8,1.2,great
+2076,Christian Wood,2019-20,4.6,0.5,0.9,great
+2084,Ivica Zubac,2019-20,4.8,0.2,0.9,great
+2089,LaMarcus Aldridge,2020-21,3.8,0.4,1.1,great
+2093,Jarrett Allen,2020-21,6.9,0.5,1.4,great
+2106,Deandre Ayton,2020-21,7.2,0.6,1.2,great
+2112,Mo Bamba,2020-21,4.1,0.3,1.3,great
+2121,Darius Bazley,2020-21,6.3,0.5,0.5,great
+2131,Goga Bitadze,2020-21,2.0,0.2,1.3,great
+2132,Bismack Biyombo,2020-21,3.2,0.3,1.1,great
+2143,Chris Boucher,2020-21,4.8,0.6,1.9,great
+2150,Miles Bridges,2020-21,4.8,0.7,0.8,great
+2152,Oshae Brissett,2020-21,4.1,0.9,1.0,great
+2159,Moses Brown,2020-21,5.3,0.7,1.1,great
+2164,Thomas Bryant,2020-21,4.3,0.4,0.8,great
+2178,Wendell Carter Jr.,2020-21,5.8,0.6,0.8,great
+2187,Nic Claxton,2020-21,3.8,0.7,1.3,great
+2189,John Collins,2020-21,5.5,0.5,1.0,great
+2224,Kevin Durant,2020-21,6.7,0.7,1.3,great
+2235,Derrick Favors,2020-21,3.5,0.5,1.0,great
+2249,Enes Freedom,2020-21,7.1,0.5,0.7,great
+2252,Daniel Gafford,2020-21,2.5,0.5,1.4,great
+2256,Marc Gasol,2020-21,3.4,0.5,1.1,great
+2259,Taj Gibson,2020-21,3.4,0.7,1.1,great
+2269,Jerami Grant,2020-21,4.0,0.6,1.1,great
+2292,Tobias Harris,2020-21,5.8,0.9,0.8,great
+2312,Richaun Holmes,2020-21,5.9,0.6,1.6,great
+2314,Al Horford,2020-21,5.7,0.9,0.9,great
+2317,Dwight Howard,2020-21,5.7,0.4,0.9,great
+2323,Serge Ibaka,2020-21,4.9,0.2,1.1,great
+2331,Jaren Jackson Jr.,2020-21,4.1,1.1,1.6,great
+2353,DeAndre Jordan,2020-21,5.4,0.3,1.1,great
+2384,Brook Lopez,2020-21,3.5,0.6,1.5,great
+2404,Kenyon Martin Jr.,2020-21,3.8,0.7,0.9,great
+2414,Jaden McDaniels,2020-21,2.9,0.6,1.0,great
+2418,JaVale McGee,2020-21,3.5,0.4,1.2,great
+2487,Mason Plumlee,2020-21,6.7,0.8,0.9,great
+2488,Jakob Poeltl,2020-21,4.8,0.7,1.8,great
+2490,Aleksej Pokusevski,2020-21,4.0,0.4,0.9,great
+2494,Michael Porter Jr.,2020-21,5.8,0.7,0.9,great
+2497,Kristaps Porziņģis,2020-21,7.0,0.5,1.3,great
+2509,Naz Reid,2020-21,3.4,0.5,1.1,great
+2553,Isaiah Stewart,2020-21,4.3,0.6,1.3,great
+2561,Daniel Theis,2020-21,4.0,0.6,0.9,great
+2580,Jonas Valančiūnas,2020-21,8.4,0.6,0.9,great
+2604,Hassan Whiteside,2020-21,4.3,0.3,1.3,great
+2606,Andrew Wiggins,2020-21,3.7,0.9,1.0,great
+2611,Robert Williams,2020-21,4.3,0.8,1.8,great
+2617,James Wiseman,2020-21,4.4,0.3,0.9,great
+2624,Ivica Zubac,2020-21,4.6,0.3,0.9,great
+16,Carmelo Anthony,2016-17,5.1,0.8,0.5,good
+18,Trevor Ariza,2016-17,5.1,1.8,0.3,good
+28,Matt Barnes,2016-17,4.2,0.6,0.4,good
+29,Will Barton,2016-17,3.4,0.8,0.5,good
+31,Nicolas Batum,2016-17,5.6,1.1,0.4,good
+34,Kent Bazemore,2016-17,2.5,1.2,0.7,good
+44,Patrick Beverley,2016-17,4.4,1.5,0.4,good
+48,Eric Bledsoe,2016-17,4.1,1.4,0.5,good
+53,Trevor Booker,2016-17,6.0,1.1,0.4,good
+54,Avery Bradley,2016-17,4.9,1.2,0.2,good
+65,Jimmy Butler,2016-17,4.5,1.9,0.4,good
+75,Willie Cauley-Stein,2016-17,3.4,0.7,0.6,good
+77,Wilson Chandler,2016-17,5.0,0.7,0.4,good
+78,Marquese Chriss,2016-17,3.1,0.8,0.9,good
+90,Robert Covington,2016-17,5.1,1.9,1.0,good
+94,Jae Crowder,2016-17,5.1,1.0,0.3,good
+106,Luol Deng,2016-17,4.1,0.9,0.4,good
+128,Kenneth Faried,2016-17,4.6,0.7,0.7,good
+130,Derrick Favors,2016-17,4.3,0.9,0.8,good
+147,Rudy Gay,2016-17,5.2,1.5,0.9,good
+150,Paul George,2016-17,5.8,1.6,0.4,good
+157,Aaron Gordon,2016-17,3.6,0.8,0.5,good
+163,Danny Green,2016-17,2.8,1.0,0.8,good
+166,JaMychal Green,2016-17,4.9,0.6,0.4,good
+168,Blake Griffin,2016-17,6.3,0.9,0.4,good
+172,James Harden,2016-17,7.0,1.5,0.5,good
+173,Maurice Harkless,2016-17,2.8,1.1,0.9,good
+180,Tobias Harris,2016-17,4.3,0.7,0.5,good
+185,Gordon Hayward,2016-17,4.7,1.0,0.3,good
+189,Willy Hernangómez,2016-17,4.6,0.6,0.5,good
+198,Jrue Holiday,2016-17,3.3,1.5,0.7,good
+200,Rondae Hollis-Jefferson,2016-17,4.6,1.1,0.6,good
+212,Ersan İlyasova,2016-17,4.5,0.7,0.3,good
+226,Amir Johnson,2016-17,3.1,0.6,0.8,good
+231,Tyler Johnson,2016-17,3.3,1.2,0.6,good
+242,Frank Kaminsky,2016-17,3.7,0.6,0.5,good
+248,Kosta Koufos,2016-17,4.0,0.5,0.7,good
+260,Kawhi Leonard,2016-17,4.7,1.8,0.7,good
+279,Ian Mahinmi,2016-17,3.3,1.1,0.8,good
+306,Nikola Mirotić,2016-17,4.6,0.8,0.8,good
+307,Greg Monroe,2016-17,4.5,1.1,0.5,good
+310,Markieff Morris,2016-17,5.1,1.1,0.6,good
+319,Larry Nance Jr.,2016-17,4.0,1.3,0.6,good
+328,Nerlens Noel,2016-17,3.9,1.3,1.0,good
+343,Zaza Pachulia,2016-17,3.9,0.8,0.5,good
+345,Jabari Parker,2016-17,4.6,1.0,0.4,good
+353,Elfrid Payton,2016-17,3.6,1.1,0.5,good
+360,Otto Porter Jr.,2016-17,5.0,1.5,0.5,good
+371,Zach Randolph,2016-17,5.7,0.5,0.1,good
+374,Josh Richardson,2016-17,2.5,1.1,0.7,good
+377,Andre Roberson,2016-17,3.9,1.2,1.0,good
+392,Dario Šarić,2016-17,5.0,0.7,0.4,good
+397,Thabo Sefolosha,2016-17,3.5,1.5,0.5,good
+449,Dwyane Wade,2016-17,3.5,1.4,0.7,good
+452,John Wall,2016-17,3.4,2.0,0.6,good
+453,T.J. Warren,2016-17,3.2,1.2,0.6,good
+457,Russell Westbrook,2016-17,9.0,1.6,0.4,good
+463,Alan Williams,2016-17,4.2,0.6,0.7,good
+480,Thaddeus Young,2016-17,4.3,1.5,0.4,good
+481,Cody Zeller,2016-17,4.4,1.0,0.9,good
+488,Steven Adams,2017-18,4.0,1.2,1.0,good
+489,Bam Adebayo,2017-18,3.8,0.5,0.6,good
+496,Al-Farouq Aminu,2017-18,6.2,1.1,0.6,good
+498,Kyle Anderson,2017-18,4.2,1.6,0.8,good
+502,Carmelo Anthony,2017-18,4.9,0.6,0.6,good
+514,Lonzo Ball,2017-18,5.6,1.7,0.8,good
+516,Harrison Barnes,2017-18,5.1,0.6,0.2,good
+517,Will Barton,2017-18,4.2,1.0,0.6,good
+518,Nicolas Batum,2017-18,3.9,1.0,0.4,good
+521,Kent Bazemore,2017-18,3.4,1.5,0.7,good
+524,Michael Beasley,2017-18,4.3,0.5,0.6,good
+526,Jordan Bell,2017-18,2.6,0.6,1.0,good
+537,Eric Bledsoe,2017-18,3.1,2.0,0.6,good
+555,Jaylen Brown,2017-18,4.0,1.0,0.4,good
+564,Jimmy Butler,2017-18,4.0,2.0,0.4,good
+571,DeMarre Carroll,2017-18,5.1,0.8,0.4,good
+580,Wilson Chandler,2017-18,4.0,0.6,0.5,good
+598,Robert Covington,2017-18,4.7,1.7,0.9,good
+599,Allen Crabbe,2017-18,3.9,0.6,0.5,good
+627,Kris Dunn,2017-18,3.8,2.0,0.5,good
+654,Danilo Gallinari,2017-18,4.4,0.6,0.5,good
+658,Rudy Gay,2017-18,3.8,0.8,0.7,good
+659,Paul George,2017-18,4.7,2.0,0.5,good
+662,Taj Gibson,2017-18,4.8,0.8,0.7,good
+675,JaMychal Green,2017-18,5.8,0.6,0.5,good
+677,Blake Griffin,2017-18,6.1,0.7,0.3,good
+680,James Harden,2017-18,4.8,1.8,0.7,good
+686,Tobias Harris,2017-18,4.7,0.9,0.4,good
+706,Jrue Holiday,2017-18,3.7,1.5,0.8,good
+709,Rondae Hollis-Jefferson,2017-18,5.3,1.0,0.7,good
+720,Andre Iguodala,2017-18,3.1,0.8,0.6,good
+721,Ersan İlyasova,2017-18,4.2,0.9,0.4,good
+724,Brandon Ingram,2017-18,4.4,0.8,0.7,good
+726,Jonathan Isaac,2017-18,3.1,1.2,1.1,good
+743,James Johnson,2017-18,4.1,1.0,0.7,good
+748,Wesley Johnson,2017-18,2.5,1.0,0.8,good
+764,Kosta Koufos,2017-18,4.5,0.7,0.5,good
+765,Kyle Kuzma,2017-18,5.1,0.6,0.4,good
+778,Kawhi Leonard,2017-18,4.0,2.0,1.0,good
+821,Khris Middleton,2017-18,4.7,1.5,0.3,good
+831,Greg Monroe,2017-18,4.7,0.9,0.5,good
+838,Markieff Morris,2017-18,4.6,0.8,0.5,good
+845,Dejounte Murray,2017-18,4.3,1.2,0.4,good
+849,Larry Nance Jr.,2017-18,4.4,1.3,0.6,good
+855,Nerlens Noel,2017-18,4.0,1.0,0.7,good
+857,Dirk Nowitzki,2017-18,5.4,0.6,0.6,good
+867,Victor Oladipo,2017-18,4.6,2.4,0.8,good
+868,Kelly Olynyk,2017-18,4.5,0.8,0.5,good
+881,Chris Paul,2017-18,4.8,1.7,0.2,good
+894,Otto Porter Jr.,2017-18,5.1,1.5,0.5,good
+895,Bobby Portis,2017-18,4.6,0.7,0.3,good
+897,Dwight Powell,2017-18,3.9,0.8,0.4,good
+900,Taurean Prince,2017-18,4.1,1.0,0.5,good
+906,Julius Randle,2017-18,5.8,0.5,0.5,good
+907,Zach Randolph,2017-18,5.1,0.7,0.2,good
+912,Josh Richardson,2017-18,2.7,1.5,0.9,good
+915,Andre Roberson,2017-18,2.8,1.2,0.9,good
+924,Domantas Sabonis,2017-18,5.5,0.5,0.4,good
+926,Dario Šarić,2017-18,4.7,0.7,0.3,good
+934,Pascal Siakam,2017-18,3.5,0.8,0.5,good
+954,Jayson Tatum,2017-18,4.4,1.0,0.7,good
+965,Klay Thompson,2017-18,3.4,0.8,0.5,good
+970,P.J. Tucker,2017-18,4.4,1.0,0.3,good
+973,Ekpe Udoh,2017-18,1.3,0.7,1.2,good
+981,Dwyane Wade,2017-18,3.0,0.9,0.7,good
+984,John Wall,2017-18,3.1,1.4,1.1,good
+988,T.J. Warren,2017-18,3.2,1.0,0.6,good
+992,David West,2017-18,2.4,0.6,1.0,good
+993,Russell Westbrook,2017-18,8.2,1.8,0.3,good
+999,Andrew Wiggins,2017-18,3.4,1.1,0.6,good
+1006,Marvin Williams,2017-18,3.8,0.7,0.5,good
+1011,Justise Winslow,2017-18,4.5,0.8,0.5,good
+1020,Thaddeus Young,2017-18,4.0,1.7,0.4,good
+1029,Steven Adams,2018-19,4.6,1.5,1.0,good
+1038,Al-Farouq Aminu,2018-19,6.1,0.8,0.4,good
+1040,Kyle Anderson,2018-19,4.7,1.3,0.9,good
+1048,Trevor Ariza,2018-19,4.7,1.3,0.3,good
+1055,Lonzo Ball,2018-19,4.2,1.5,0.4,good
+1061,Nicolas Batum,2018-19,4.3,0.9,0.6,good
+1064,Kent Bazemore,2018-19,3.3,1.3,0.6,good
+1065,Bradley Beal,2018-19,3.9,1.5,0.7,good
+1070,DeAndre' Bembry,2018-19,3.7,1.3,0.5,good
+1074,Patrick Beverley,2018-19,4.0,0.9,0.6,good
+1077,Nemanja Bjelica,2018-19,4.1,0.7,0.7,good
+1092,Miles Bridges,2018-19,3.2,0.7,0.6,good
+1109,Jimmy Butler,2018-19,3.4,1.9,0.6,good
+1122,Willie Cauley-Stein,2018-19,6.1,1.2,0.6,good
+1146,Jae Crowder,2018-19,4.1,0.8,0.4,good
+1149,Stephen Curry,2018-19,4.7,1.3,0.4,good
+1153,Ed Davis,2018-19,5.9,0.4,0.4,good
+1160,DeMar DeRozan,2018-19,5.3,1.1,0.5,good
+1162,Cheick Diallo,2018-19,4.0,0.5,0.5,good
+1167,Luka Dončić,2018-19,6.6,1.1,0.3,good
+1174,Kris Dunn,2018-19,3.7,1.5,0.5,good
+1187,Kenneth Faried,2018-19,4.1,0.5,0.6,good
+1196,De'Aaron Fox,2018-19,3.2,1.6,0.6,good
+1200,Enes Freedom,2018-19,6.0,0.5,0.4,good
+1203,Danilo Gallinari,2018-19,5.3,0.7,0.3,good
+1208,Rudy Gay,2018-19,5.9,0.8,0.5,good
+1209,Paul George,2018-19,6.8,2.2,0.4,good
+1210,Taj Gibson,2018-19,4.1,0.8,0.6,good
+1223,Danny Green,2018-19,3.2,0.9,0.7,good
+1226,JaMychal Green,2018-19,4.7,0.7,0.5,good
+1228,Blake Griffin,2018-19,6.2,0.7,0.4,good
+1232,James Harden,2018-19,5.8,2.0,0.7,good
+1233,Maurice Harkless,2018-19,3.2,1.1,0.9,good
+1241,Josh Hart,2018-19,3.2,1.0,0.6,good
+1245,John Henson,2018-19,3.9,0.5,0.8,good
+1256,Jrue Holiday,2018-19,3.9,1.6,0.8,good
+1259,Rondae Hollis-Jefferson,2018-19,3.8,0.7,0.5,good
+1264,Dwight Howard,2018-19,6.6,0.8,0.4,good
+1270,Andre Iguodala,2018-19,3.0,0.9,0.8,good
+1274,Brandon Ingram,2018-19,4.3,0.5,0.6,good
+1275,Kyrie Irving,2018-19,3.9,1.5,0.5,good
+1281,Josh Jackson,2018-19,3.6,0.9,0.7,good
+1297,Derrick Jones Jr.,2018-19,2.4,0.8,0.7,good
+1316,Kyle Kuzma,2018-19,4.6,0.6,0.4,good
+1318,Jeremy Lamb,2018-19,4.7,1.1,0.4,good
+1319,Zach LaVine,2018-19,4.0,1.0,0.4,good
+1326,Kawhi Leonard,2018-19,6.0,1.8,0.4,good
+1338,Kyle Lowry,2018-19,4.2,1.4,0.5,good
+1376,Paul Millsap,2018-19,5.0,1.2,0.8,good
+1386,Marcus Morris,2018-19,5.1,0.6,0.3,good
+1397,Larry Nance Jr.,2018-19,5.7,1.5,0.6,good
+1401,Joakim Noah,2018-19,4.3,0.5,0.7,good
+1414,Victor Oladipo,2018-19,5.0,1.7,0.3,good
+1415,Kelly Olynyk,2018-19,3.8,0.7,0.5,good
+1417,Kelly Oubre Jr.,2018-19,3.7,1.2,0.9,good
+1419,Jabari Parker,2018-19,5.3,0.7,0.5,good
+1426,Elfrid Payton,2018-19,4.1,1.0,0.4,good
+1433,Otto Porter Jr.,2018-19,4.6,1.5,0.6,good
+1434,Bobby Portis,2018-19,5.9,0.7,0.4,good
+1435,Dwight Powell,2018-19,3.5,0.6,0.6,good
+1460,Domantas Sabonis,2018-19,6.8,0.6,0.4,good
+1472,Pascal Siakam,2018-19,5.3,0.9,0.7,good
+1492,Jayson Tatum,2018-19,5.2,1.1,0.7,good
+1502,Klay Thompson,2018-19,3.4,1.1,0.6,good
+1503,Tristan Thompson,2018-19,6.2,0.7,0.4,good
+1509,P.J. Tucker,2018-19,4.4,1.6,0.5,good
+1524,John Wall,2018-19,3.2,1.5,0.9,good
+1527,T.J. Warren,2018-19,3.3,1.2,0.7,good
+1532,Derrick White,2018-19,3.2,1.0,0.7,good
+1535,Andrew Wiggins,2018-19,3.7,1.0,0.7,good
+1541,Marvin Williams,2018-19,4.4,0.9,0.8,good
+1545,Justise Winslow,2018-19,4.4,1.1,0.3,good
+1550,Thaddeus Young,2018-19,4.1,1.5,0.4,good
+1552,Cody Zeller,2018-19,4.6,0.8,0.8,good
+1566,Kyle Anderson,2019-20,3.4,0.8,0.6,good
+1571,Carmelo Anthony,2019-20,5.1,0.8,0.5,good
+1572,OG Anunoby,2019-20,4.1,1.4,0.7,good
+1579,Lonzo Ball,2019-20,5.0,1.4,0.6,good
+1584,Will Barton,2019-20,5.0,1.1,0.5,good
+1588,Kent Bazemore,2019-20,3.9,1.1,0.6,good
+1596,Dāvis Bertāns,2019-20,3.9,0.7,0.6,good
+1597,Patrick Beverley,2019-20,4.1,1.1,0.5,good
+1601,Nemanja Bjelica,2019-20,4.8,0.9,0.6,good
+1602,Eric Bledsoe,2019-20,3.9,0.9,0.4,good
+1619,Mikal Bridges,2019-20,3.1,1.4,0.6,good
+1620,Miles Bridges,2019-20,4.2,0.6,0.7,good
+1625,Bruce Brown,2019-20,3.7,1.1,0.5,good
+1627,Jaylen Brown,2019-20,5.3,1.1,0.4,good
+1637,Jimmy Butler,2019-20,4.8,1.8,0.6,good
+1664,Zach Collins,2019-20,4.0,0.5,0.5,good
+1673,Jae Crowder,2019-20,5.1,1.1,0.4,good
+1683,DeMar DeRozan,2019-20,4.9,1.0,0.3,good
+1689,Luka Dončić,2019-20,8.1,1.0,0.2,good
+1712,Dorian Finney-Smith,2019-20,3.7,0.6,0.5,good
+1727,Rudy Gay,2019-20,4.5,0.5,0.5,good
+1728,Paul George,2019-20,5.2,1.4,0.4,good
+1731,Shai Gilgeous-Alexander,2019-20,5.2,1.1,0.7,good
+1734,Aaron Gordon,2019-20,5.9,0.8,0.6,good
+1738,Jerami Grant,2019-20,2.7,0.7,0.8,good
+1742,Draymond Green,2019-20,5.7,1.4,0.8,good
+1743,JaMychal Green,2019-20,4.9,0.5,0.4,good
+1754,James Harden,2019-20,5.5,1.8,0.9,good
+1762,Josh Hart,2019-20,5.6,1.0,0.4,good
+1766,Gordon Hayward,2019-20,5.6,0.7,0.4,good
+1779,Jrue Holiday,2019-20,3.5,1.6,0.8,good
+1780,Justin Holiday,2019-20,2.8,1.2,0.6,good
+1789,Kevin Huerter,2019-20,3.4,0.9,0.5,good
+1793,Andre Iguodala,2019-20,2.9,0.7,1.0,good
+1796,Brandon Ingram,2019-20,5.3,1.0,0.6,good
+1797,Kyrie Irving,2019-20,4.1,1.4,0.5,good
+1806,LeBron James,2019-20,6.9,1.2,0.5,good
+1813,James Johnson,2019-20,2.9,0.8,1.0,good
+1839,Jeremy Lamb,2019-20,3.8,1.2,0.5,good
+1841,Zach LaVine,2019-20,4.1,1.5,0.5,good
+1849,Kawhi Leonard,2019-20,6.1,1.8,0.6,good
+1858,Kyle Lowry,2019-20,4.5,1.4,0.4,good
+1868,Lauri Markkanen,2019-20,5.1,0.8,0.5,good
+1878,CJ McCollum,2019-20,3.6,0.8,0.6,good
+1891,Khris Middleton,2019-20,5.5,0.9,0.1,good
+1896,Paul Millsap,2019-20,3.8,0.9,0.6,good
+1906,Marcus Morris,2019-20,4.1,0.8,0.5,good
+1912,Dejounte Murray,2019-20,4.8,1.7,0.3,good
+1918,Larry Nance Jr.,2019-20,5.4,1.0,0.4,good
+1931,Royce O'Neale,2019-20,5.1,0.8,0.5,good
+1942,Kelly Oubre Jr.,2019-20,5.3,1.3,0.7,good
+1945,Jabari Parker,2019-20,4.0,1.2,0.4,good
+1967,Dwight Powell,2019-20,3.8,0.9,0.6,good
+1969,Taurean Prince,2019-20,5.2,0.9,0.4,good
+1971,Julius Randle,2019-20,7.4,0.8,0.3,good
+1975,Naz Reid,2019-20,3.0,0.6,0.7,good
+1976,Josh Richardson,2019-20,2.4,0.9,0.7,good
+2006,Ben Simmons,2019-20,5.8,2.1,0.6,good
+2035,P.J. Tucker,2019-20,5.1,1.1,0.5,good
+2056,P.J. Washington,2019-20,4.4,0.9,0.8,good
+2061,Russell Westbrook,2019-20,6.2,1.6,0.4,good
+2063,Derrick White,2019-20,2.8,0.6,0.9,good
+2068,Kenrich Williams,2019-20,3.5,0.7,0.5,good
+2075,Justise Winslow,2019-20,5.2,0.6,0.5,good
+2081,Cody Zeller,2019-20,4.3,0.7,0.4,good
+2087,Steven Adams,2020-21,5.2,0.9,0.7,good
+2095,Kyle Anderson,2020-21,5.0,1.2,0.8,good
+2101,OG Anunoby,2020-21,4.3,1.5,0.7,good
+2103,Trevor Ariza,2020-21,3.9,1.0,0.6,good
+2109,Marvin Bagley III,2020-21,4.9,0.5,0.5,good
+2110,LaMelo Ball,2020-21,4.7,1.6,0.4,good
+2111,Lonzo Ball,2020-21,4.2,1.5,0.6,good
+2114,Harrison Barnes,2020-21,5.5,0.7,0.2,good
+2115,RJ Barrett,2020-21,4.8,0.7,0.3,good
+2118,Nicolas Batum,2020-21,4.0,1.0,0.6,good
+2127,Patrick Beverley,2020-21,2.4,0.8,0.8,good
+2130,Khem Birch,2020-21,3.2,0.7,0.7,good
+2149,Mikal Bridges,2020-21,3.2,1.1,0.9,good
+2158,Jaylen Brown,2020-21,4.8,1.2,0.6,good
+2168,Jimmy Butler,2020-21,5.1,2.1,0.3,good
+2185,Brandon Clarke,2020-21,3.9,1.0,0.9,good
+2194,DeMarcus Cousins,2020-21,5.1,0.8,0.6,good
+2197,Jae Crowder,2020-21,4.2,0.8,0.5,good
+2210,Hamidou Diallo,2020-21,4.1,0.8,0.5,good
+2214,Luka Dončić,2020-21,7.2,1.0,0.5,good
+2225,Anthony Edwards,2020-21,3.8,1.1,0.5,good
+2257,Rudy Gay,2020-21,4.1,0.7,0.6,good
+2258,Paul George,2020-21,5.8,1.1,0.4,good
+2261,Shai Gilgeous-Alexander,2020-21,4.2,0.8,0.7,good
+2263,Freddie Gillespie,2020-21,2.8,0.7,1.0,good
+2266,Aaron Gordon,2020-21,4.1,0.7,0.7,good
+2270,Danny Green,2020-21,3.0,1.3,0.8,good
+2271,Draymond Green,2020-21,6.3,1.7,0.8,good
+2288,Montrezl Harrell,2020-21,3.9,0.7,0.7,good
+2294,Josh Hart,2020-21,6.9,0.8,0.3,good
+2299,Gordon Hayward,2020-21,5.0,1.2,0.3,good
+2301,Willy Hernangómez,2020-21,4.6,0.5,0.5,good
+2302,Tyler Herro,2020-21,4.5,0.6,0.3,good
+2303,Buddy Hield,2020-21,4.3,0.9,0.4,good
+2309,Jrue Holiday,2020-21,3.3,1.6,0.6,good
+2310,Justin Holiday,2020-21,3.1,1.0,0.6,good
+2321,De'Andre Hunter,2020-21,4.0,0.8,0.5,good
+2324,Andre Iguodala,2020-21,2.9,0.9,0.6,good
+2327,Brandon Ingram,2020-21,4.3,0.7,0.6,good
+2328,Kyrie Irving,2020-21,3.8,1.4,0.7,good
+2332,Josh Jackson,2020-21,3.2,0.9,0.8,good
+2343,James Johnson,2020-21,2.8,0.8,0.8,good
+2344,Keldon Johnson,2020-21,4.6,0.6,0.3,good
+2359,Maxi Kleber,2020-21,4.3,0.5,0.7,good
+2366,Kyle Kuzma,2020-21,4.5,0.5,0.6,good
+2368,Jeremy Lamb,2020-21,2.9,0.9,0.6,good
+2370,Zach LaVine,2020-21,4.4,0.8,0.5,good
+2377,Kawhi Leonard,2020-21,5.4,1.6,0.4,good
+2379,Caris LeVert,2020-21,3.9,1.4,0.6,good
+2387,Kevin Love,2020-21,6.8,0.6,0.1,good
+2388,Kyle Lowry,2020-21,4.6,1.0,0.3,good
+2398,Lauri Markkanen,2020-21,4.6,0.5,0.3,good
+2430,Paul Millsap,2020-21,3.3,0.9,0.6,good
+2442,Dejounte Murray,2020-21,6.2,1.5,0.1,good
+2447,Larry Nance Jr.,2020-21,5.2,1.7,0.5,good
+2458,David Nwaba,2020-21,2.6,1.0,0.7,good
+2460,Royce O'Neale,2020-21,5.6,0.8,0.5,good
+2468,Victor Oladipo,2020-21,4.5,1.4,0.4,good
+2470,Kelly Olynyk,2020-21,5.7,1.1,0.6,good
+2474,Kelly Oubre Jr.,2020-21,4.5,1.0,0.8,good
+2479,Justin Patton,2020-21,2.7,0.9,1.1,good
+2496,Bobby Portis,2020-21,5.2,0.8,0.4,good
+2500,Taurean Prince,2020-21,3.0,0.7,0.6,good
+2521,Isaiah Roby,2020-21,4.1,0.9,0.6,good
+2539,Pascal Siakam,2020-21,5.5,1.1,0.7,good
+2541,Ben Simmons,2020-21,5.6,1.6,0.6,good
+2556,Jae'Sean Tate,2020-21,3.5,1.2,0.5,good
+2557,Jayson Tatum,2020-21,6.6,1.2,0.5,good
+2566,Tristan Thompson,2020-21,5.0,0.4,0.6,good
+2568,Matisse Thybulle,2020-21,1.4,1.6,1.1,good
+2570,Xavier Tillman Sr.,2020-21,3.1,0.7,0.6,good
+2573,Juan Toscano-Anderson,2020-21,3.9,0.8,0.5,good
+2582,Jarred Vanderbilt,2020-21,3.9,1.0,0.7,good
+2583,Fred VanVleet,2020-21,3.6,1.7,0.7,good
+2593,John Wall,2020-21,2.8,1.1,0.8,good
+2603,Derrick White,2020-21,2.6,0.7,1.0,good
+2610,Patrick Williams,2020-21,3.7,0.9,0.6,good
+2612,Zion Williamson,2020-21,4.5,0.9,0.6,good
+2615,Justise Winslow,2020-21,3.8,0.6,0.5,good
+2621,Thaddeus Young,2020-21,3.8,1.1,0.6,good
+2623,Cody Zeller,2020-21,4.4,0.6,0.4,good
+8,Tony Allen,2016-17,3.2,1.6,0.4,average
+27,Harrison Barnes,2016-17,3.8,0.8,0.2,average
+35,Bradley Beal,2016-17,2.4,1.1,0.3,average
+52,Devin Booker,2016-17,2.6,0.9,0.3,average
+56,Malcolm Brogdon,2016-17,2.2,1.1,0.2,average
+68,Kentavious Caldwell-Pope,2016-17,2.5,1.2,0.2,average
+71,DeMarre Carroll,2016-17,2.9,1.1,0.4,average
+72,Vince Carter,2016-17,2.6,0.8,0.5,average
+73,Michael Carter-Williams,2016-17,2.9,0.8,0.5,average
+82,Jordan Clarkson,2016-17,2.4,1.1,0.1,average
+84,Darren Collison,2016-17,1.9,1.0,0.1,average
+86,Mike Conley,2016-17,3.0,1.3,0.3,average
+96,Seth Curry,2016-17,2.2,1.1,0.1,average
+97,Stephen Curry,2016-17,3.7,1.8,0.2,average
+107,DeMar DeRozan,2016-17,4.3,1.1,0.2,average
+113,Goran Dragić,2016-17,3.0,1.2,0.2,average
+115,Jared Dudley,2016-17,3.0,0.7,0.3,average
+117,Kris Dunn,2016-17,1.8,1.0,0.5,average
+122,Monta Ellis,2016-17,2.5,1.1,0.4,average
+124,James Ennis III,2016-17,3.0,0.7,0.3,average
+126,Tyreke Evans,2016-17,3.1,0.9,0.2,average
+133,Raymond Felton,2016-17,2.3,0.8,0.3,average
+134,Yogi Ferrell,2016-17,2.0,0.9,0.2,average
+137,Evan Fournier,2016-17,2.4,1.0,0.1,average
+139,Tim Frazier,2016-17,2.1,0.9,0.1,average
+142,Danilo Gallinari,2016-17,4.5,0.6,0.2,average
+154,Manu Ginóbili,2016-17,1.9,1.2,0.2,average
+177,Gary Harris,2016-17,2.3,1.2,0.1,average
+193,Nenê,2016-17,2.8,0.8,0.6,average
+194,George Hill,2016-17,2.9,1.0,0.2,average
+196,Solomon Hill,2016-17,3.2,0.9,0.4,average
+199,Justin Holiday,2016-17,2.4,0.8,0.4,average
+211,Andre Iguodala,2016-17,3.3,1.0,0.5,average
+213,Joe Ingles,2016-17,2.9,1.2,0.1,average
+215,Kyrie Irving,2016-17,2.5,1.2,0.3,average
+224,Brandon Jennings,2016-17,2.1,0.9,0.0,average
+254,Zach LaVine,2016-17,3.0,0.9,0.2,average
+255,Ty Lawson,2016-17,2.0,1.1,0.1,average
+257,Courtney Lee,2016-17,2.7,1.1,0.3,average
+263,Caris LeVert,2016-17,2.9,0.9,0.1,average
+265,Damian Lillard,2016-17,4.3,0.9,0.3,average
+266,Jeremy Lin,2016-17,3.4,1.2,0.4,average
+273,Kyle Lowry,2016-17,4.0,1.5,0.3,average
+283,Wesley Matthews,2016-17,3.3,1.1,0.2,average
+284,Luc Mbah a Moute,2016-17,1.6,1.0,0.4,average
+287,CJ McCollum,2016-17,2.9,0.9,0.5,average
+288,T.J. McConnell,2016-17,2.6,1.7,0.1,average
+297,Jodie Meeks,2016-17,2.0,0.9,0.1,average
+300,Khris Middleton,2016-17,3.9,1.4,0.2,average
+309,Marcus Morris,2016-17,3.7,0.7,0.3,average
+338,Victor Oladipo,2016-17,3.8,1.2,0.3,average
+339,Kelly Olynyk,2016-17,3.8,0.6,0.4,average
+349,Patrick Patterson,2016-17,3.6,0.6,0.4,average
+350,Chris Paul,2016-17,4.3,2.0,0.1,average
+363,Dwight Powell,2016-17,2.8,0.8,0.5,average
+382,Rajon Rondo,2016-17,4.1,1.4,0.2,average
+384,Terrence Ross,2016-17,2.4,1.1,0.4,average
+386,Ricky Rubio,2016-17,3.2,1.7,0.1,average
+389,D'Angelo Russell,2016-17,3.0,1.4,0.3,average
+394,Dennis Schröder,2016-17,2.6,0.9,0.2,average
+401,Iman Shumpert,2016-17,2.4,0.8,0.4,average
+405,Marcus Smart,2016-17,2.9,1.6,0.4,average
+406,Ish Smith,2016-17,2.6,0.8,0.4,average
+407,J.R. Smith,2016-17,2.3,1.0,0.3,average
+420,Jeff Teague,2016-17,3.6,1.2,0.4,average
+422,Garrett Temple,2016-17,2.3,1.3,0.4,average
+424,Isaiah Thomas,2016-17,2.1,0.9,0.2,average
+427,Klay Thompson,2016-17,3.0,0.8,0.5,average
+434,P.J. Tucker,2016-17,4.4,1.4,0.2,average
+435,Evan Turner,2016-17,3.2,0.8,0.4,average
+450,Dion Waiters,2016-17,2.9,0.9,0.4,average
+451,Kemba Walker,2016-17,3.3,1.1,0.3,average
+461,Andrew Wiggins,2016-17,2.8,1.0,0.4,average
+466,Lou Williams,2016-17,2.2,1.0,0.2,average
+469,Troy Williams,2016-17,1.8,0.9,0.3,average
+471,Justise Winslow,2016-17,3.9,1.4,0.3,average
+476,Delon Wright,2016-17,1.2,1.0,0.4,average
+505,Trevor Ariza,2017-18,3.9,1.5,0.2,average
+522,Bradley Beal,2017-18,3.7,1.2,0.4,average
+527,DeAndre' Bembry,2017-18,2.5,0.8,0.5,average
+530,Patrick Beverley,2017-18,2.6,1.7,0.5,average
+534,Nemanja Bjelica,2017-18,3.3,0.7,0.2,average
+539,Bogdan Bogdanović,2017-18,2.5,0.9,0.2,average
+543,Devin Booker,2017-18,4.0,0.9,0.3,average
+546,Avery Bradley,2017-18,2.0,1.1,0.2,average
+548,Corey Brewer,2017-18,1.5,1.1,0.2,average
+549,Malcolm Brogdon,2017-18,2.8,0.9,0.3,average
+551,Dillon Brooks,2017-18,2.5,0.9,0.2,average
+552,MarShon Brooks,2017-18,1.9,1.6,0.4,average
+568,Kentavious Caldwell-Pope,2017-18,4.4,1.4,0.2,average
+578,Mario Chalmers,2017-18,2.2,1.2,0.2,average
+589,Darren Collison,2017-18,2.0,1.3,0.2,average
+591,Mike Conley,2017-18,2.3,1.0,0.3,average
+603,Jae Crowder,2017-18,2.7,0.8,0.3,average
+605,Stephen Curry,2017-18,4.4,1.6,0.2,average
+615,DeMar DeRozan,2017-18,3.2,1.1,0.3,average
+618,Spencer Dinwiddie,2017-18,2.7,0.9,0.3,average
+623,Goran Dragić,2017-18,3.4,0.8,0.2,average
+637,Tyreke Evans,2017-18,4.3,1.1,0.3,average
+645,Yogi Ferrell,2017-18,2.7,0.8,0.1,average
+648,Evan Fournier,2017-18,2.8,0.8,0.3,average
+649,De'Aaron Fox,2017-18,2.3,1.0,0.3,average
+653,Markelle Fultz,2017-18,2.3,0.9,0.3,average
+670,Jerian Grant,2017-18,1.9,0.9,0.1,average
+679,Tim Hardaway Jr.,2017-18,3.4,1.1,0.2,average
+681,Maurice Harkless,2017-18,2.0,0.8,0.7,average
+684,Gary Harris,2017-18,2.1,1.8,0.2,average
+687,Aaron Harrison,2017-18,2.2,1.0,0.2,average
+689,Shaquille Harrison,2017-18,2.3,1.1,0.3,average
+690,Josh Hart,2017-18,3.5,0.7,0.3,average
+695,Myke Henry,2017-18,1.4,1.6,0.3,average
+699,Mario Hezonja,2017-18,3.2,1.1,0.4,average
+701,Buddy Hield,2017-18,3.2,1.1,0.3,average
+703,George Hill,2017-18,2.1,0.9,0.4,average
+707,Justin Holiday,2017-18,3.6,1.1,0.4,average
+711,Rodney Hood,2017-18,2.4,0.8,0.2,average
+722,Joe Ingles,2017-18,3.9,1.1,0.2,average
+725,Kyrie Irving,2017-18,3.2,1.1,0.3,average
+731,Josh Jackson,2017-18,3.3,1.0,0.5,average
+746,Stanley Johnson,2017-18,3.2,1.4,0.2,average
+747,Tyler Johnson,2017-18,3.0,0.8,0.5,average
+753,Tyus Jones,2017-18,1.4,1.2,0.1,average
+755,Cory Joseph,2017-18,2.7,1.0,0.2,average
+758,Michael Kidd-Gilchrist,2017-18,2.9,0.7,0.4,average
+768,Jeremy Lamb,2017-18,3.4,0.8,0.4,average
+771,Zach LaVine,2017-18,3.5,1.0,0.2,average
+774,Courtney Lee,2017-18,2.6,1.1,0.2,average
+775,Damion Lee,2017-18,4.0,1.3,0.1,average
+781,Caris LeVert,2017-18,2.9,1.2,0.3,average
+783,Damian Lillard,2017-18,3.6,1.1,0.4,average
+790,Kyle Lowry,2017-18,4.7,1.1,0.2,average
+803,Wesley Matthews,2017-18,2.7,1.2,0.3,average
+804,Luc Mbah a Moute,2017-18,2.7,1.2,0.4,average
+807,CJ McCollum,2017-18,3.3,1.0,0.4,average
+808,T.J. McConnell,2017-18,2.5,1.2,0.2,average
+828,Donovan Mitchell,2017-18,3.1,1.5,0.3,average
+834,E'Twaun Moore,2017-18,2.2,1.0,0.1,average
+837,Marcus Morris,2017-18,4.6,0.6,0.2,average
+846,Jamal Murray,2017-18,2.7,1.0,0.3,average
+847,Mike Muscala,2017-18,3.3,0.6,0.5,average
+850,Shabazz Napier,2017-18,1.9,1.1,0.2,average
+860,David Nwaba,2017-18,3.4,0.8,0.4,average
+871,Kelly Oubre Jr.,2017-18,3.8,1.0,0.4,average
+875,Jabari Parker,2017-18,3.5,0.8,0.3,average
+883,Cameron Payne,2017-18,2.0,1.0,0.4,average
+884,Elfrid Payton,2017-18,3.3,1.3,0.3,average
+914,Austin Rivers,2017-18,1.9,1.2,0.3,average
+918,Rajon Rondo,2017-18,3.6,1.1,0.2,average
+920,Terrence Ross,2017-18,2.6,1.1,0.5,average
+921,Terry Rozier,2017-18,3.9,1.0,0.2,average
+922,Ricky Rubio,2017-18,4.0,1.6,0.1,average
+923,D'Angelo Russell,2017-18,3.3,0.8,0.4,average
+928,Dennis Schröder,2017-18,2.4,1.1,0.1,average
+930,Thabo Sefolosha,2017-18,3.5,1.4,0.3,average
+937,Jonathon Simmons,2017-18,2.6,0.8,0.2,average
+940,Marcus Smart,2017-18,2.7,1.3,0.4,average
+941,Dennis Smith Jr.,2017-18,3.0,1.0,0.3,average
+942,Ish Smith,2017-18,2.4,0.8,0.2,average
+943,J.R. Smith,2017-18,2.6,0.9,0.1,average
+949,Lance Stephenson,2017-18,4.4,0.6,0.2,average
+956,Jeff Teague,2017-18,2.6,1.5,0.3,average
+959,Garrett Temple,2017-18,2.0,0.9,0.4,average
+974,Tyler Ulis,2017-18,1.5,1.0,0.1,average
+976,Denzel Valentine,2017-18,4.5,0.8,0.1,average
+977,Fred VanVleet,2017-18,2.1,0.9,0.3,average
+982,Dion Waiters,2017-18,2.3,0.8,0.3,average
+983,Kemba Walker,2017-18,2.7,1.1,0.3,average
+985,Tyrone Wallace,2017-18,2.8,0.9,0.4,average
+991,Briante Weber,2017-18,1.5,1.0,0.3,average
+1005,Lou Williams,2017-18,2.0,1.1,0.2,average
+1008,Troy Williams,2017-18,2.0,1.0,0.2,average
+1015,Delon Wright,2017-18,2.2,1.0,0.5,average
+1058,Harrison Barnes,2018-19,3.9,0.6,0.2,average
+1079,Eric Bledsoe,2018-19,3.6,1.5,0.4,average
+1081,Bogdan Bogdanović,2018-19,2.9,1.0,0.2,average
+1082,Bojan Bogdanović,2018-19,3.7,0.9,0.0,average
+1086,Devin Booker,2018-19,3.5,0.9,0.2,average
+1090,Corey Brewer,2018-19,1.6,1.0,0.2,average
+1091,Mikal Bridges,2018-19,2.5,1.6,0.5,average
+1095,Malcolm Brogdon,2018-19,3.5,0.7,0.2,average
+1099,Jaylen Brown,2018-19,3.4,0.9,0.4,average
+1112,Kentavious Caldwell-Pope,2018-19,2.3,0.9,0.2,average
+1120,Alex Caruso,2018-19,1.9,1.0,0.4,average
+1135,Darren Collison,2018-19,2.6,1.4,0.1,average
+1137,Mike Conley,2018-19,2.8,1.3,0.3,average
+1169,Damyean Dotson,2018-19,3.1,0.8,0.1,average
+1179,Wayne Ellington,2018-19,1.8,1.0,0.1,average
+1185,Tyreke Evans,2018-19,2.4,0.8,0.3,average
+1193,Dorian Finney-Smith,2018-19,3.1,0.9,0.4,average
+1195,Evan Fournier,2018-19,2.7,0.9,0.1,average
+1202,Markelle Fultz,2018-19,2.3,0.9,0.3,average
+1212,Shai Gilgeous-Alexander,2018-19,2.1,1.2,0.5,average
+1227,Jeff Green,2018-19,3.3,0.6,0.5,average
+1231,Tim Hardaway Jr.,2018-19,2.9,0.8,0.1,average
+1236,Gary Harris,2018-19,2.1,1.0,0.3,average
+1240,Shaquille Harrison,2018-19,2.6,1.2,0.4,average
+1244,Gordon Hayward,2018-19,3.8,0.9,0.3,average
+1248,Mario Hezonja,2018-19,3.6,1.0,0.1,average
+1250,Buddy Hield,2018-19,3.7,0.7,0.4,average
+1257,Justin Holiday,2018-19,3.4,1.5,0.4,average
+1265,Kevin Huerter,2018-19,2.5,0.9,0.3,average
+1272,Joe Ingles,2018-19,3.6,1.2,0.2,average
+1292,Stanley Johnson,2018-19,2.8,0.9,0.2,average
+1293,Tyler Johnson,2018-19,2.4,0.9,0.5,average
+1301,Tyus Jones,2018-19,1.6,1.2,0.1,average
+1303,Cory Joseph,2018-19,2.9,1.1,0.3,average
+1310,Kevin Knox,2018-19,3.7,0.6,0.3,average
+1315,Rodions Kurucs,2018-19,3.0,0.7,0.4,average
+1329,Caris LeVert,2018-19,2.9,1.1,0.4,average
+1330,Damian Lillard,2018-19,3.8,1.1,0.4,average
+1359,CJ McCollum,2018-19,3.1,0.8,0.4,average
+1360,T.J. McConnell,2018-19,1.9,1.0,0.2,average
+1369,De'Anthony Melton,2018-19,2.2,1.4,0.5,average
+1371,Khris Middleton,2018-19,5.3,1.0,0.1,average
+1379,Donovan Mitchell,2018-19,3.3,1.4,0.4,average
+1387,Markieff Morris,2018-19,3.5,0.6,0.4,average
+1392,Jamal Murray,2018-19,3.4,0.9,0.4,average
+1408,Royce O'Neale,2018-19,3.2,0.7,0.3,average
+1413,Josh Okogie,2018-19,2.4,1.2,0.4,average
+1416,Cedi Osman,2018-19,4.1,0.8,0.1,average
+1421,Chandler Parsons,2018-19,2.6,0.8,0.2,average
+1424,Chris Paul,2018-19,3.9,2.0,0.3,average
+1438,Taurean Prince,2018-19,3.2,1.0,0.3,average
+1446,Josh Richardson,2018-19,2.9,1.1,0.5,average
+1454,Rajon Rondo,2018-19,4.5,1.2,0.2,average
+1456,Terrence Ross,2018-19,3.1,0.9,0.4,average
+1457,Terry Rozier,2018-19,3.5,0.9,0.3,average
+1458,Ricky Rubio,2018-19,3.1,1.3,0.1,average
+1459,D'Angelo Russell,2018-19,3.2,1.2,0.2,average
+1463,Dario Šarić,2018-19,4.1,0.6,0.1,average
+1464,Tomáš Satoranský,2018-19,2.5,1.0,0.2,average
+1465,Dennis Schröder,2018-19,3.1,0.8,0.2,average
+1467,Thabo Sefolosha,2018-19,2.3,0.9,0.1,average
+1471,Iman Shumpert,2018-19,2.5,1.0,0.4,average
+1478,Marcus Smart,2018-19,2.2,1.8,0.4,average
+1479,Dennis Smith Jr.,2018-19,2.3,1.3,0.4,average
+1481,J.R. Smith,2018-19,1.6,1.0,0.3,average
+1493,Jeff Teague,2018-19,2.1,1.0,0.4,average
+1494,Garrett Temple,2018-19,2.5,1.0,0.4,average
+1516,Fred VanVleet,2018-19,2.3,0.9,0.3,average
+1519,Dwyane Wade,2018-19,3.0,0.8,0.5,average
+1522,Kemba Walker,2018-19,3.8,1.2,0.4,average
+1539,Kenrich Williams,2018-19,3.6,1.0,0.4,average
+1547,Delon Wright,2018-19,2.6,1.2,0.4,average
+1551,Trae Young,2018-19,2.9,0.9,0.2,average
+1564,Al-Farouq Aminu,2019-20,3.5,1.0,0.4,average
+1574,Trevor Ariza,2019-20,4.0,1.3,0.3,average
+1582,Harrison Barnes,2019-20,3.9,0.6,0.2,average
+1583,RJ Barrett,2019-20,4.1,1.0,0.3,average
+1586,Nicolas Batum,2019-20,3.4,0.8,0.4,average
+1590,Bradley Beal,2019-20,3.3,1.2,0.4,average
+1594,DeAndre' Bembry,2019-20,2.7,1.3,0.4,average
+1603,Bogdan Bogdanović,2019-20,3.0,1.0,0.2,average
+1610,Devin Booker,2019-20,3.8,0.7,0.3,average
+1613,Ky Bowman,2019-20,2.2,1.0,0.2,average
+1614,Avery Bradley,2019-20,2.0,0.9,0.1,average
+1623,Malcolm Brogdon,2019-20,4.0,0.6,0.2,average
+1624,Dillon Brooks,2019-20,2.4,0.9,0.4,average
+1630,Troy Brown Jr.,2019-20,4.4,1.2,0.1,average
+1633,Reggie Bullock,2019-20,1.9,0.9,0.1,average
+1635,Alec Burks,2019-20,3.5,0.9,0.3,average
+1647,Michael Carter-Williams,2019-20,2.2,1.1,0.5,average
+1648,Alex Caruso,2019-20,1.7,1.1,0.3,average
+1674,Jarrett Culver,2019-20,2.3,0.9,0.6,average
+1685,Hamidou Diallo,2019-20,2.7,0.8,0.2,average
+1688,Donte DiVincenzo,2019-20,3.8,1.3,0.3,average
+1697,Kris Dunn,2019-20,3.2,2.0,0.3,average
+1714,Evan Fournier,2019-20,2.3,1.1,0.2,average
+1715,De'Aaron Fox,2019-20,3.2,1.5,0.5,average
+1720,Markelle Fultz,2019-20,2.7,1.3,0.2,average
+1723,Danilo Gallinari,2019-20,4.6,0.7,0.1,average
+1736,Devonte' Graham,2019-20,2.7,1.0,0.2,average
+1741,Danny Green,2019-20,2.6,1.3,0.5,average
+1749,Rui Hachimura,2019-20,4.5,0.8,0.2,average
+1755,Maurice Harkless,2019-20,3.0,0.9,0.5,average
+1758,Gary Harris,2019-20,2.4,1.4,0.3,average
+1774,Buddy Hield,2019-20,3.8,0.9,0.2,average
+1781,Rondae Hollis-Jefferson,2019-20,2.9,0.8,0.4,average
+1783,Rodney Hood,2019-20,3.0,0.8,0.2,average
+1786,Danuel House Jr.,2019-20,3.3,1.1,0.5,average
+1790,De'Andre Hunter,2019-20,3.8,0.7,0.3,average
+1791,Chandler Hutchison,2019-20,3.2,1.0,0.3,average
+1795,Joe Ingles,2019-20,3.5,0.9,0.2,average
+1802,Josh Jackson,2019-20,2.5,0.8,0.4,average
+1814,Keldon Johnson,2019-20,2.8,0.8,0.1,average
+1819,Derrick Jones Jr.,2019-20,2.8,1.0,0.6,average
+1847,Damion Lee,2019-20,4.2,1.0,0.1,average
+1851,Caris LeVert,2019-20,3.1,1.2,0.2,average
+1852,Damian Lillard,2019-20,3.8,1.1,0.3,average
+1870,Cody Martin,2019-20,2.5,0.8,0.2,average
+1877,Patrick McCaw,2019-20,1.8,1.1,0.1,average
+1885,Jordan McLaughlin,2019-20,1.4,1.1,0.1,average
+1889,De'Anthony Melton,2019-20,3.0,1.3,0.3,average
+1893,C.J. Miles,2019-20,0.8,1.0,0.4,average
+1898,Donovan Mitchell,2019-20,3.6,1.0,0.2,average
+1904,Ja Morant,2019-20,3.1,0.9,0.3,average
+1913,Jamal Murray,2019-20,3.2,1.1,0.3,average
+1919,Shabazz Napier,2019-20,2.4,1.2,0.2,average
+1927,Frank Ntilikina,2019-20,1.7,0.9,0.3,average
+1928,Kendrick Nunn,2019-20,2.4,0.8,0.2,average
+1936,Josh Okogie,2019-20,2.9,1.1,0.4,average
+1938,Victor Oladipo,2019-20,3.5,0.9,0.2,average
+1939,Kelly Olynyk,2019-20,3.9,0.7,0.3,average
+1941,Cedi Osman,2019-20,3.0,0.8,0.2,average
+1951,Chris Paul,2019-20,4.6,1.6,0.2,average
+1952,Cameron Payne,2019-20,3.4,1.0,0.3,average
+1953,Elfrid Payton,2019-20,3.6,1.6,0.4,average
+1954,Gary Payton II,2019-20,1.9,1.1,0.2,average
+1962,Kevin Porter Jr.,2019-20,2.8,0.9,0.3,average
+1964,Otto Porter Jr.,2019-20,2.5,1.1,0.4,average
+1968,Norman Powell,2019-20,3.2,1.2,0.4,average
+1973,Cam Reddish,2019-20,3.1,1.1,0.5,average
+1980,Glenn Robinson III,2019-20,3.0,0.9,0.3,average
+1987,Terrence Ross,2019-20,3.0,1.1,0.3,average
+1988,Terry Rozier,2019-20,3.6,1.0,0.2,average
+1989,Ricky Rubio,2019-20,4.0,1.4,0.2,average
+1990,D'Angelo Russell,2019-20,3.6,1.1,0.3,average
+1994,Dario Šarić,2019-20,4.6,0.6,0.2,average
+1995,Tomáš Satoranský,2019-20,2.7,1.2,0.1,average
+1997,Dennis Schröder,2019-20,3.3,0.7,0.2,average
+2000,Collin Sexton,2019-20,2.2,1.0,0.1,average
+2003,Iman Shumpert,2019-20,1.9,0.9,0.2,average
+2009,Marcus Smart,2019-20,3.1,1.7,0.5,average
+2011,Ish Smith,2019-20,2.8,0.9,0.4,average
+2015,Omari Spellman,2019-20,2.9,0.7,0.5,average
+2021,Garrett Temple,2019-20,3.0,0.8,0.5,average
+2029,Matisse Thybulle,2019-20,1.0,1.4,0.7,average
+2031,Juan Toscano-Anderson,2019-20,3.3,1.0,0.4,average
+2043,Fred VanVleet,2019-20,3.4,1.9,0.3,average
+2048,Moritz Wagner,2019-20,3.6,0.6,0.4,average
+2050,Kemba Walker,2019-20,3.2,0.9,0.5,average
+2054,Brad Wanamaker,2019-20,1.7,0.9,0.2,average
+2055,T.J. Warren,2019-20,3.2,1.2,0.5,average
+2062,Coby White,2019-20,3.1,0.8,0.1,average
+2073,Zion Williamson,2019-20,3.6,0.7,0.4,average
+2077,Delon Wright,2019-20,2.9,1.2,0.3,average
+2079,Thaddeus Young,2019-20,3.5,1.4,0.4,average
+2080,Trae Young,2019-20,3.7,1.1,0.1,average
+2091,Nickeil Alexander-Walker,2020-21,2.8,1.0,0.5,average
+2092,Grayson Allen,2020-21,2.8,0.9,0.2,average
+2094,Al-Farouq Aminu,2020-21,3.8,0.8,0.4,average
+2099,Carmelo Anthony,2020-21,2.6,0.7,0.6,average
+2100,Cole Anthony,2020-21,3.9,0.6,0.4,average
+2105,Deni Avdija,2020-21,4.4,0.6,0.3,average
+2116,Will Barton,2020-21,3.3,0.9,0.4,average
+2120,Kent Bazemore,2020-21,3.0,1.0,0.5,average
+2122,Bradley Beal,2020-21,3.5,1.2,0.4,average
+2123,Malik Beasley,2020-21,3.6,0.8,0.2,average
+2125,DeAndre' Bembry,2020-21,2.2,1.0,0.4,average
+2128,Saddiq Bey,2020-21,3.9,0.7,0.2,average
+2134,Eric Bledsoe,2020-21,3.0,0.8,0.3,average
+2136,Bogdan Bogdanović,2020-21,3.2,1.1,0.3,average
+2142,Devin Booker,2020-21,3.7,0.8,0.2,average
+2153,Malcolm Brogdon,2020-21,4.2,0.9,0.3,average
+2155,Dillon Brooks,2020-21,2.1,1.2,0.4,average
+2156,Bruce Brown,2020-21,3.7,0.9,0.4,average
+2160,Sterling Brown,2020-21,3.6,0.7,0.2,average
+2165,Reggie Bullock,2020-21,3.2,0.8,0.2,average
+2167,Alec Burks,2020-21,4.2,0.6,0.3,average
+2171,Kentavious Caldwell-Pope,2020-21,2.3,0.9,0.4,average
+2172,Facundo Campazzo,2020-21,1.7,1.2,0.2,average
+2179,Michael Carter-Williams,2020-21,3.2,0.8,0.5,average
+2180,Alex Caruso,2020-21,2.4,1.1,0.3,average
+2186,Jordan Clarkson,2020-21,3.3,0.9,0.1,average
+2190,Mike Conley,2020-21,2.8,1.4,0.2,average
+2191,Pat Connaughton,2020-21,3.9,0.7,0.3,average
+2200,Stephen Curry,2020-21,5.0,1.2,0.1,average
+2206,Dewayne Dedmon,2020-21,3.6,0.6,0.4,average
+2208,DeMar DeRozan,2020-21,3.6,0.9,0.2,average
+2213,Donte DiVincenzo,2020-21,4.5,1.1,0.2,average
+2215,Luguentz Dort,2020-21,2.9,0.9,0.4,average
+2231,James Ennis III,2020-21,3.0,0.8,0.2,average
+2240,Dorian Finney-Smith,2020-21,3.8,0.9,0.4,average
+2245,Evan Fournier,2020-21,2.8,1.1,0.5,average
+2246,De'Aaron Fox,2020-21,2.9,1.5,0.5,average
+2250,Markelle Fultz,2020-21,2.5,1.0,0.3,average
+2255,Darius Garland,2020-21,2.0,1.2,0.1,average
+2268,Devonte' Graham,2020-21,2.3,0.9,0.1,average
+2276,Blake Griffin,2020-21,4.1,0.7,0.3,average
+2278,Rui Hachimura,2020-21,4.6,0.8,0.1,average
+2280,Tyrese Haliburton,2020-21,2.3,1.3,0.5,average
+2286,Maurice Harkless,2020-21,2.1,0.8,0.5,average
+2298,Killian Hayes,2020-21,2.4,1.0,0.4,average
+2315,Talen Horton-Tucker,2020-21,2.2,1.0,0.3,average
+2319,Kevin Huerter,2020-21,2.8,1.2,0.3,average
+2326,Joe Ingles,2020-21,3.2,0.7,0.2,average
+2345,Stanley Johnson,2020-21,2.0,0.9,0.3,average
+2354,Cory Joseph,2020-21,2.0,1.0,0.3,average
+2363,Furkan Korkmaz,2020-21,1.7,0.9,0.2,average
+2381,Damian Lillard,2020-21,3.7,0.9,0.3,average
+2393,Théo Maledon,2020-21,2.9,0.9,0.2,average
+2399,Naji Marshall,2020-21,4.2,0.8,0.3,average
+2412,CJ McCollum,2020-21,3.3,0.9,0.4,average
+2413,T.J. McConnell,2020-21,2.9,1.9,0.3,average
+2421,Jordan McLaughlin,2020-21,1.7,1.0,0.1,average
+2424,De'Anthony Melton,2020-21,2.5,1.2,0.6,average
+2427,Khris Middleton,2020-21,5.2,1.1,0.1,average
+2432,Donovan Mitchell,2020-21,3.5,1.0,0.3,average
+2436,Ja Morant,2020-21,3.1,0.9,0.2,average
+2443,Jamal Murray,2020-21,3.3,1.3,0.3,average
+2449,Raul Neto,2020-21,2.0,1.1,0.1,average
+2455,Kendrick Nunn,2020-21,2.8,0.9,0.3,average
+2463,Chuma Okeke,2020-21,3.1,1.1,0.5,average
+2464,Josh Okogie,2020-21,1.6,0.9,0.5,average
+2466,Isaac Okoro,2020-21,2.1,0.9,0.4,average
+2472,Cedi Osman,2020-21,2.8,0.9,0.2,average
+2480,Chris Paul,2020-21,4.1,1.4,0.3,average
+2493,Kevin Porter Jr.,2020-21,3.0,0.7,0.3,average
+2495,Otto Porter Jr.,2020-21,4.4,0.6,0.1,average
+2499,Norman Powell,2020-21,2.5,1.2,0.3,average
+2506,Cam Reddish,2020-21,3.2,1.3,0.3,average
+2512,Josh Richardson,2020-21,2.4,1.0,0.4,average
+2523,Derrick Rose,2020-21,2.2,1.0,0.4,average
+2524,Terrence Ross,2020-21,3.1,1.0,0.5,average
+2525,Terry Rozier,2020-21,3.7,1.3,0.4,average
+2526,Ricky Rubio,2020-21,2.9,1.4,0.1,average
+2527,D'Angelo Russell,2020-21,2.3,1.1,0.4,average
+2533,Dennis Schröder,2020-21,3.0,1.1,0.2,average
+2536,Collin Sexton,2020-21,2.2,1.0,0.2,average
+2545,Marcus Smart,2020-21,2.7,1.5,0.5,average
+2546,Dennis Smith Jr.,2020-21,1.9,1.0,0.6,average
+2547,Ish Smith,2020-21,2.9,0.7,0.3,average
+2559,Garrett Temple,2020-21,2.3,0.8,0.5,average
+2576,Gary Trent Jr.,2020-21,2.2,1.0,0.2,average
+2577,P.J. Tucker,2020-21,2.9,0.8,0.4,average
+2591,Kemba Walker,2020-21,3.6,1.1,0.3,average
+2608,Kenrich Williams,2020-21,2.9,0.8,0.3,average
+2620,Delon Wright,2020-21,3.2,1.6,0.5,average
+2622,Trae Young,2020-21,3.3,0.8,0.2,average
+1,Quincy Acy,2016-17,2.5,0.4,0.4,below average
+4,Alexis Ajinça,2016-17,3.4,0.5,0.6,below average
+5,Cole Aldrich,2016-17,1.7,0.4,0.4,below average
+7,Lavoy Allen,2016-17,1.9,0.3,0.4,below average
+10,Chris Andersen,2016-17,1.8,0.4,0.6,below average
+12,Justin Anderson,2016-17,2.3,0.5,0.3,below average
+13,Kyle Anderson,2016-17,2.4,0.7,0.4,below average
+14,Ryan Anderson,2016-17,3.0,0.4,0.2,below average
+19,Darrell Arthur,2016-17,2.1,0.5,0.5,below average
+20,Ömer Aşık,2016-17,3.7,0.2,0.3,below average
+23,Ron Baker,2016-17,1.7,0.7,0.2,below average
+33,Aron Baynes,2016-17,3.0,0.2,0.5,below average
+37,Michael Beasley,2016-17,2.7,0.5,0.5,below average
+38,Marco Belinelli,2016-17,2.2,0.6,0.1,below average
+40,Dragan Bender,2016-17,1.9,0.2,0.5,below average
+46,Nemanja Bjelica,2016-17,2.9,0.6,0.3,below average
+47,Tarik Black,2016-17,3.0,0.4,0.7,below average
+49,Bojan Bogdanović,2016-17,3.0,0.4,0.1,below average
+55,Corey Brewer,2016-17,1.6,0.7,0.2,below average
+58,Anthony Brown,2016-17,2.3,0.5,0.1,below average
+60,Jaylen Brown,2016-17,2.2,0.4,0.2,below average
+62,Reggie Bullock,2016-17,1.6,0.6,0.1,below average
+64,Alec Burks,2016-17,2.5,0.4,0.1,below average
+74,Omri Casspi,2016-17,2.4,0.6,0.1,below average
+91,Allen Crabbe,2016-17,2.6,0.7,0.3,below average
+92,Jamal Crawford,2016-17,1.4,0.7,0.2,below average
+93,Jordan Crawford,2016-17,1.6,0.6,0.1,below average
+95,Dante Cunningham,2016-17,3.3,0.6,0.4,below average
+101,Ed Davis,2016-17,3.2,0.3,0.5,below average
+103,Sam Dekker,2016-17,2.5,0.5,0.3,below average
+105,Matthew Dellavedova,2016-17,1.6,0.7,0.0,below average
+108,Cheick Diallo,2016-17,2.9,0.2,0.4,below average
+111,Spencer Dinwiddie,2016-17,2.3,0.7,0.4,below average
+112,Toney Douglas,2016-17,2.0,0.8,0.2,below average
+121,Wayne Ellington,2016-17,1.8,0.6,0.1,below average
+132,Cristiano Felício,2016-17,2.8,0.4,0.3,below average
+135,Dorian Finney-Smith,2016-17,2.1,0.6,0.3,below average
+138,Randy Foye,2016-17,2.1,0.5,0.1,below average
+140,Enes Freedom,2016-17,4.0,0.4,0.5,below average
+141,Channing Frye,2016-17,3.4,0.4,0.5,below average
+143,Langston Galloway,2016-17,1.7,0.6,0.1,below average
+158,Eric Gordon,2016-17,2.3,0.6,0.5,below average
+161,Jerami Grant,2016-17,2.1,0.4,1.0,below average
+162,Jerian Grant,2016-17,1.5,0.7,0.1,below average
+167,Jeff Green,2016-17,2.5,0.5,0.2,below average
+169,Justin Hamilton,2016-17,3.0,0.5,0.7,below average
+171,Tim Hardaway Jr.,2016-17,2.4,0.7,0.2,below average
+175,Montrezl Harrell,2016-17,2.4,0.3,0.7,below average
+176,Devin Harris,2016-17,1.8,0.7,0.1,below average
+178,Joe Harris,2016-17,2.5,0.6,0.2,below average
+182,Andrew Harrison,2016-17,1.6,0.7,0.3,below average
+184,Spencer Hawes,2016-17,2.8,0.3,0.6,below average
+186,Gerald Henderson,2016-17,2.1,0.6,0.2,below average
+188,Juancho Hernangómez,2016-17,2.3,0.5,0.2,below average
+190,Mario Hezonja,2016-17,1.9,0.5,0.2,below average
+191,Roy Hibbert,2016-17,2.0,0.2,1.0,below average
+192,Buddy Hield,2016-17,2.9,0.5,0.1,below average
+202,Rodney Hood,2016-17,3.2,0.6,0.2,below average
+208,Kris Humphries,2016-17,2.6,0.3,0.4,below average
+214,Brandon Ingram,2016-17,3.2,0.6,0.5,below average
+219,Reggie Jackson,2016-17,1.8,0.7,0.1,below average
+221,Al Jefferson,2016-17,3.1,0.3,0.2,below average
+225,Jonas Jerebko,2016-17,2.7,0.3,0.2,below average
+229,Joe Johnson,2016-17,2.7,0.5,0.2,below average
+230,Stanley Johnson,2016-17,2.0,0.7,0.3,below average
+232,Wesley Johnson,2016-17,2.3,0.4,0.4,below average
+236,Derrick Jones Jr.,2016-17,1.3,0.4,0.4,below average
+239,Tyus Jones,2016-17,1.0,0.8,0.1,below average
+241,Cory Joseph,2016-17,2.3,0.8,0.2,below average
+245,Sean Kilpatrick,2016-17,3.7,0.6,0.1,below average
+247,Kyle Korver,2016-17,2.7,0.5,0.3,below average
+250,Skal Labissière,2016-17,3.4,0.5,0.4,below average
+251,Jeremy Lamb,2016-17,3.8,0.4,0.4,below average
+253,Joffrey Lauvergne,2016-17,2.6,0.4,0.1,below average
+258,David Lee,2016-17,3.7,0.4,0.5,below average
+261,Meyers Leonard,2016-17,2.8,0.2,0.4,below average
+262,Jon Leuer,2016-17,4.0,0.4,0.3,below average
+264,DeAndre Liggins,2016-17,1.4,0.8,0.2,below average
+267,Shaun Livingston,2016-17,1.6,0.5,0.3,below average
+268,Shawn Long,2016-17,2.4,0.5,0.5,below average
+275,Timothé Luwawu-Cabarrot,2016-17,1.8,0.5,0.1,below average
+276,Trey Lyles,2016-17,2.6,0.4,0.3,below average
+278,Shelvin Mack,2016-17,1.9,0.8,0.1,below average
+281,Boban Marjanović,2016-17,2.4,0.2,0.3,below average
+282,Jarell Martin,2016-17,2.9,0.4,0.2,below average
+285,James Michael McAdoo,2016-17,1.1,0.3,0.6,below average
+290,K.J. McDaniels,2016-17,1.4,0.4,0.4,below average
+292,JaVale McGee,2016-17,1.9,0.2,0.9,below average
+293,Rodney McGruder,2016-17,2.1,0.6,0.2,below average
+294,Ben McLemore,2016-17,1.8,0.5,0.1,below average
+296,Josh McRoberts,2016-17,2.3,0.5,0.2,below average
+298,Salah Mejri,2016-17,2.9,0.4,0.8,below average
+301,C.J. Miles,2016-17,2.6,0.6,0.3,below average
+303,Patty Mills,2016-17,1.5,0.8,0.0,below average
+308,E'Twaun Moore,2016-17,1.6,0.7,0.4,below average
+312,Donatas Motiejūnas,2016-17,2.2,0.5,0.3,below average
+313,Timofey Mozgov,2016-17,3.0,0.3,0.6,below average
+314,Emmanuel Mudiay,2016-17,2.7,0.7,0.2,below average
+317,Jamal Murray,2016-17,2.1,0.6,0.3,below average
+318,Mike Muscala,2016-17,2.3,0.4,0.6,below average
+321,Maurice Ndour,2016-17,1.3,0.5,0.3,below average
+323,Jameer Nelson,2016-17,2.2,0.7,0.1,below average
+333,David Nwaba,2016-17,2.3,0.7,0.4,below average
+342,Kelly Oubre Jr.,2016-17,2.5,0.7,0.2,below average
+344,Georgios Papagiannis,2016-17,2.8,0.1,0.8,below average
+347,Chandler Parsons,2016-17,2.3,0.6,0.1,below average
+351,Adreian Payne,2016-17,1.3,0.4,0.4,below average
+361,Bobby Portis,2016-17,3.5,0.3,0.2,below average
+364,Norman Powell,2016-17,1.9,0.7,0.2,below average
+367,Taurean Prince,2016-17,2.2,0.7,0.5,below average
+372,J.J. Redick,2016-17,2.1,0.7,0.2,below average
+373,Willie Reed,2016-17,2.9,0.3,0.7,below average
+376,Austin Rivers,2016-17,1.9,0.6,0.1,below average
+379,Glenn Robinson III,2016-17,2.7,0.6,0.3,below average
+380,Thomas Robinson,2016-17,2.9,0.5,0.2,below average
+381,Sergio Rodríguez,2016-17,2.0,0.7,0.1,below average
+383,Derrick Rose,2016-17,2.8,0.7,0.3,below average
+385,Terry Rozier,2016-17,2.5,0.6,0.1,below average
+388,Brandon Rush,2016-17,1.8,0.5,0.5,below average
+390,Domantas Sabonis,2016-17,3.0,0.5,0.4,below average
+395,Luis Scola,2016-17,2.4,0.4,0.1,below average
+402,Pascal Siakam,2016-17,2.2,0.5,0.8,below average
+403,Jonathon Simmons,2016-17,1.8,0.6,0.3,below average
+408,Jason Smith,2016-17,2.6,0.3,0.7,below average
+409,Tony Snell,2016-17,2.8,0.7,0.2,below average
+410,Marreese Speights,2016-17,3.5,0.3,0.5,below average
+412,Nik Stauskas,2016-17,2.6,0.6,0.4,below average
+413,Lance Stephenson,2016-17,2.7,0.3,0.2,below average
+423,Jason Terry,2016-17,1.2,0.6,0.3,below average
+425,Lance Thomas,2016-17,2.4,0.5,0.1,below average
+426,Hollis Thompson,2016-17,2.3,0.5,0.2,below average
+429,Marcus Thornton,2016-17,1.6,0.6,0.1,below average
+431,Anthony Tolliver,2016-17,2.9,0.5,0.3,below average
+438,Tyler Ulis,2016-17,1.2,0.8,0.1,below average
+441,Denzel Valentine,2016-17,2.5,0.5,0.1,below average
+446,Noah Vonleh,2016-17,3.5,0.4,0.4,below average
+456,David West,2016-17,2.3,0.6,0.7,below average
+459,Isaiah Whitehead,2016-17,2.1,0.6,0.5,below average
+464,Deron Williams,2016-17,2.1,0.5,0.1,below average
+472,Jeff Withey,2016-17,1.4,0.3,0.6,below average
+475,Brandan Wright,2016-17,1.7,0.4,0.7,below average
+479,Nick Young,2016-17,1.9,0.6,0.2,below average
+484,Paul Zipser,2016-17,2.5,0.3,0.4,below average
+485,Ivica Zubac,2016-17,3.1,0.4,0.9,below average
+487,Quincy Acy,2017-18,3.1,0.5,0.4,below average
+499,Ryan Anderson,2017-18,3.6,0.4,0.3,below average
+503,OG Anunoby,2017-18,1.9,0.7,0.2,below average
+509,D.J. Augustin,2017-18,1.7,0.7,0.0,below average
+512,Ron Baker,2017-18,0.9,0.9,0.2,below average
+515,J.J. Barea,2017-18,2.7,0.5,0.0,below average
+519,Jerryd Bayless,2017-18,1.7,0.6,0.2,below average
+520,Aron Baynes,2017-18,3.8,0.3,0.6,below average
+525,Marco Belinelli,2017-18,1.6,0.8,0.2,below average
+528,Dragan Bender,2017-18,3.9,0.3,0.6,below average
+529,Dāvis Bertāns,2017-18,1.8,0.3,0.4,below average
+531,Khem Birch,2017-18,2.6,0.4,0.5,below average
+535,Tarik Black,2017-18,2.0,0.4,0.6,below average
+540,Bojan Bogdanović,2017-18,3.0,0.7,0.1,below average
+541,Andrew Bogut,2017-18,2.2,0.2,0.5,below average
+544,Trevor Booker,2017-18,3.0,0.4,0.3,below average
+558,Sterling Brown,2017-18,2.1,0.6,0.2,below average
+561,Reggie Bullock,2017-18,2.0,0.8,0.2,below average
+562,Trey Burke,2017-18,1.6,0.7,0.1,below average
+563,Alec Burks,2017-18,2.7,0.6,0.1,below average
+569,Isaiah Canaan,2017-18,2.0,0.8,0.1,below average
+572,Vince Carter,2017-18,2.2,0.7,0.4,below average
+573,Michael Carter-Williams,2017-18,1.9,0.8,0.4,below average
+574,Alex Caruso,2017-18,1.4,0.6,0.3,below average
+575,Omri Casspi,2017-18,3.2,0.3,0.4,below average
+583,Jordan Clarkson,2017-18,2.0,0.7,0.1,below average
+587,Zach Collins,2017-18,2.7,0.3,0.5,below average
+588,Kyle Collinsworth,2017-18,2.3,0.5,0.3,below average
+600,Torrey Craig,2017-18,2.2,0.3,0.4,below average
+604,Dante Cunningham,2017-18,3.0,0.5,0.4,below average
+608,Deyonta Davis,2017-18,2.8,0.2,0.6,below average
+612,Malcolm Delaney,2017-18,1.7,0.6,0.1,below average
+616,Cheick Diallo,2017-18,3.2,0.2,0.4,below average
+617,Gorgui Dieng,2017-18,3.2,0.6,0.5,below average
+621,Milton Doyle,2017-18,1.5,0.6,0.2,below average
+626,Jared Dudley,2017-18,1.8,0.5,0.2,below average
+631,Wayne Ellington,2017-18,2.5,0.7,0.1,below average
+633,James Ennis III,2017-18,2.1,0.7,0.3,below average
+634,Tyler Ennis,2017-18,1.4,0.6,0.2,below average
+635,Jawun Evans,2017-18,1.6,0.8,0.1,below average
+638,Dante Exum,2017-18,1.6,0.6,0.2,below average
+639,Kenneth Faried,2017-18,2.7,0.4,0.4,below average
+642,Cristiano Felício,2017-18,2.7,0.3,0.2,below average
+643,Raymond Felton,2017-18,1.6,0.6,0.2,below average
+646,Dorian Finney-Smith,2017-18,2.5,0.5,0.2,below average
+650,Tim Frazier,2017-18,1.6,0.8,0.1,below average
+652,Channing Frye,2017-18,2.3,0.3,0.2,below average
+663,Manu Ginóbili,2017-18,1.9,0.7,0.2,below average
+666,Eric Gordon,2017-18,2.1,0.6,0.4,below average
+669,Jerami Grant,2017-18,2.9,0.4,1.0,below average
+674,Gerald Green,2017-18,2.9,0.6,0.4,below average
+676,Jeff Green,2017-18,2.4,0.5,0.4,below average
+682,Montrezl Harrell,2017-18,2.7,0.5,0.7,below average
+683,Devin Harris,2017-18,1.6,0.7,0.2,below average
+685,Joe Harris,2017-18,2.7,0.4,0.3,below average
+688,Andrew Harrison,2017-18,1.9,0.7,0.5,below average
+698,Willy Hernangómez,2017-18,2.5,0.4,0.3,below average
+702,Nenê,2017-18,2.3,0.5,0.3,below average
+704,Solomon Hill,2017-18,2.3,0.6,0.1,below average
+710,Richaun Holmes,2017-18,3.2,0.4,0.6,below average
+714,Danuel House Jr.,2017-18,2.7,0.3,0.3,below average
+716,Josh Huestis,2017-18,1.7,0.2,0.6,below average
+727,Wes Iwundu,2017-18,1.6,0.5,0.2,below average
+728,Jarrett Jack,2017-18,2.7,0.6,0.1,below average
+732,Justin Jackson,2017-18,2.4,0.4,0.2,below average
+733,Reggie Jackson,2017-18,2.1,0.6,0.1,below average
+735,Mike James,2017-18,2.1,0.8,0.2,below average
+736,Al Jefferson,2017-18,3.1,0.4,0.6,below average
+738,Brandon Jennings,2017-18,1.9,0.4,0.3,below average
+739,Jonas Jerebko,2017-18,2.6,0.3,0.2,below average
+740,Amir Johnson,2017-18,2.8,0.6,0.6,below average
+744,Joe Johnson,2017-18,2.9,0.3,0.1,below average
+756,Frank Kaminsky,2017-18,3.1,0.5,0.2,below average
+757,Luke Kennard,2017-18,2.1,0.6,0.2,below average
+760,Maxi Kleber,2017-18,2.3,0.4,0.7,below average
+762,Luke Kornet,2017-18,2.7,0.3,0.8,below average
+763,Kyle Korver,2017-18,2.1,0.4,0.4,below average
+767,Skal Labissière,2017-18,3.2,0.4,0.8,below average
+780,Jon Leuer,2017-18,3.1,0.1,0.4,below average
+782,DeAndre Liggins,2017-18,1.2,0.6,0.2,below average
+785,Shaun Livingston,2017-18,1.4,0.5,0.3,below average
+786,Kevon Looney,2017-18,2.0,0.5,0.8,below average
+788,Robin Lopez,2017-18,2.4,0.2,0.8,below average
+793,Trey Lyles,2017-18,4.0,0.4,0.5,below average
+794,Shelvin Mack,2017-18,2.1,0.8,0.1,below average
+796,Ian Mahinmi,2017-18,2.3,0.5,0.5,below average
+797,Thon Maker,2017-18,2.0,0.5,0.7,below average
+798,Boban Marjanović,2017-18,2.5,0.3,0.3,below average
+800,Jarell Martin,2017-18,3.0,0.5,0.7,below average
+801,Frank Mason III,2017-18,1.9,0.7,0.2,below average
+806,Patrick McCaw,2017-18,1.2,0.8,0.2,below average
+812,JaVale McGee,2017-18,1.7,0.3,0.9,below average
+816,Ben McLemore,2017-18,1.9,0.7,0.3,below average
+820,Jordan Mickey,2017-18,2.7,0.3,0.4,below average
+822,C.J. Miles,2017-18,1.9,0.5,0.3,below average
+825,Patty Mills,2017-18,1.6,0.7,0.1,below average
+835,Eric Moreland,2017-18,2.9,0.5,0.8,below average
+840,Johnathan Motley,2017-18,3.2,0.3,0.2,below average
+841,Timofey Mozgov,2017-18,2.1,0.2,0.4,below average
+842,Emmanuel Mudiay,2017-18,2.0,0.6,0.2,below average
+851,Jameer Nelson,2017-18,1.8,0.5,0.1,below average
+856,Lucas Nogueira,2017-18,1.4,0.5,0.9,below average
+858,Frank Ntilikina,2017-18,1.8,0.8,0.2,below average
+862,Royce O'Neale,2017-18,3.1,0.5,0.2,below average
+865,Emeka Okafor,2017-18,2.8,0.3,1.0,below average
+866,Jahlil Okafor,2017-18,2.3,0.1,0.6,below average
+872,Zaza Pachulia,2017-18,3.4,0.6,0.2,below average
+877,Chandler Parsons,2017-18,2.1,0.5,0.3,below average
+878,Patrick Patterson,2017-18,2.0,0.6,0.3,below average
+891,Miles Plumlee,2017-18,2.7,0.3,0.5,below average
+905,Ivan Rabb,2017-18,2.9,0.3,0.4,below average
+909,J.J. Redick,2017-18,2.4,0.5,0.1,below average
+910,Davon Reed,2017-18,1.8,0.5,0.1,below average
+911,Willie Reed,2017-18,2.0,0.2,0.5,below average
+925,JaKarr Sampson,2017-18,2.6,0.4,1.0,below average
+927,Tomáš Satoranský,2017-18,2.2,0.7,0.2,below average
+929,Mike Scott,2017-18,2.6,0.3,0.1,below average
+933,Iman Shumpert,2017-18,2.4,0.6,0.3,below average
+946,Tony Snell,2017-18,1.8,0.6,0.4,below average
+947,Marreese Speights,2017-18,2.2,0.2,0.4,below average
+960,Miloš Teodosić,2017-18,2.4,0.5,0.1,below average
+961,Jason Terry,2017-18,0.8,0.8,0.3,below average
+962,Daniel Theis,2017-18,2.9,0.5,0.8,below average
+966,Tristan Thompson,2017-18,4.3,0.3,0.3,below average
+967,Sindarius Thornwell,2017-18,1.5,0.7,0.3,below average
+968,Anthony Tolliver,2017-18,2.4,0.4,0.3,below average
+971,Evan Turner,2017-18,2.7,0.6,0.4,below average
+979,Noah Vonleh,2017-18,4.5,0.4,0.3,below average
+1003,C.J. Williams,2017-18,1.2,0.8,0.3,below average
+1010,Jamil Wilson,2017-18,1.9,0.3,0.5,below average
+1014,Brandan Wright,2017-18,2.2,0.5,0.9,below average
+1021,Cody Zeller,2017-18,3.3,0.4,0.6,below average
+1022,Tyler Zeller,2017-18,3.0,0.2,0.5,below average
+1023,Paul Zipser,2017-18,2.2,0.4,0.3,below average
+1037,Kadeem Allen,2018-19,2.3,0.8,0.2,below average
+1039,Justin Anderson,2018-19,1.3,0.5,0.3,below average
+1046,OG Anunoby,2018-19,2.1,0.7,0.3,below average
+1047,Ryan Arcidiacono,2018-19,2.4,0.8,0.0,below average
+1049,D.J. Augustin,2018-19,2.0,0.6,0.0,below average
+1057,J.J. Barea,2018-19,2.2,0.6,0.0,below average
+1059,Will Barton,2018-19,3.9,0.4,0.5,below average
+1060,Keita Bates-Diop,2018-19,2.2,0.6,0.5,below average
+1063,Aron Baynes,2018-19,3.0,0.2,0.7,below average
+1066,Malik Beasley,2018-19,2.0,0.7,0.1,below average
+1067,Michael Beasley,2018-19,1.8,0.3,0.4,below average
+1068,Marco Belinelli,2018-19,2.3,0.4,0.1,below average
+1069,Jordan Bell,2018-19,1.9,0.3,0.8,below average
+1071,Dragan Bender,2018-19,3.2,0.4,0.5,below average
+1073,Dāvis Bertāns,2018-19,3.2,0.5,0.4,below average
+1075,Khem Birch,2018-19,2.2,0.4,0.6,below average
+1076,Bismack Biyombo,2018-19,3.1,0.2,0.8,below average
+1080,Jaron Blossomgame,2018-19,2.7,0.3,0.3,below average
+1083,Andrew Bogut,2018-19,3.9,0.3,0.7,below average
+1084,Jonah Bolden,2018-19,2.7,0.4,0.9,below average
+1087,Chris Boucher,2018-19,1.4,0.2,0.9,below average
+1088,Avery Bradley,2018-19,2.1,0.7,0.3,below average
+1096,Dillon Brooks,2018-19,1.2,0.6,0.2,below average
+1098,Bruce Brown,2018-19,1.9,0.5,0.5,below average
+1101,Sterling Brown,2018-19,2.7,0.4,0.1,below average
+1103,Jalen Brunson,2018-19,2.0,0.5,0.1,below average
+1105,Reggie Bullock,2018-19,2.4,0.6,0.2,below average
+1107,Alec Burks,2018-19,3.2,0.6,0.3,below average
+1115,DeMarre Carroll,2018-19,4.2,0.5,0.1,below average
+1116,Jevon Carter,2018-19,1.3,0.7,0.3,below average
+1117,Vince Carter,2018-19,2.1,0.6,0.4,below average
+1119,Michael Carter-Williams,2018-19,1.8,0.7,0.5,below average
+1121,Omri Casspi,2018-19,2.7,0.6,0.3,below average
+1125,Tyson Chandler,2018-19,3.9,0.4,0.4,below average
+1126,Wilson Chandler,2018-19,3.3,0.5,0.4,below average
+1129,Marquese Chriss,2018-19,2.4,0.4,0.3,below average
+1130,Gary Clark,2018-19,1.8,0.4,0.5,below average
+1132,Jordan Clarkson,2018-19,2.3,0.7,0.2,below average
+1134,Zach Collins,2018-19,2.8,0.3,0.9,below average
+1136,Bonzie Colson,2018-19,2.8,0.6,0.1,below average
+1138,Pat Connaughton,2018-19,3.2,0.5,0.4,below average
+1142,Allen Crabbe,2018-19,3.1,0.5,0.3,below average
+1143,Torrey Craig,2018-19,2.3,0.5,0.6,below average
+1147,Dante Cunningham,2018-19,2.2,0.4,0.2,below average
+1152,Deyonta Davis,2018-19,2.9,0.3,0.6,below average
+1156,Sam Dekker,2018-19,2.0,0.8,0.1,below average
+1159,Luol Deng,2018-19,2.4,0.7,0.4,below average
+1164,Gorgui Dieng,2018-19,3.0,0.6,0.5,below average
+1165,Spencer Dinwiddie,2018-19,2.1,0.6,0.3,below average
+1166,Donte DiVincenzo,2018-19,1.8,0.5,0.2,below average
+1171,Goran Dragić,2018-19,2.5,0.8,0.1,below average
+1173,Jared Dudley,2018-19,2.1,0.6,0.3,below average
+1178,Henry Ellenson,2018-19,3.2,0.4,0.1,below average
+1181,James Ennis III,2018-19,2.1,0.7,0.4,below average
+1194,Bryn Forbes,2018-19,2.7,0.5,0.0,below average
+1198,Tim Frazier,2018-19,2.2,0.5,0.1,below average
+1207,Pau Gasol,2018-19,3.8,0.2,0.5,below average
+1211,Harry Giles,2018-19,2.7,0.5,0.4,below average
+1216,Eric Gordon,2018-19,1.9,0.6,0.4,below average
+1217,Marcin Gortat,2018-19,4.1,0.1,0.5,below average
+1219,Treveon Graham,2018-19,2.4,0.4,0.2,below average
+1221,Jerian Grant,2018-19,1.3,0.7,0.1,below average
+1225,Gerald Green,2018-19,2.1,0.5,0.4,below average
+1237,Joe Harris,2018-19,3.1,0.5,0.2,below average
+1246,Juancho Hernangómez,2018-19,2.9,0.4,0.3,below average
+1247,Willy Hernangómez,2018-19,3.3,0.3,0.3,below average
+1252,Nenê,2018-19,2.1,0.4,0.4,below average
+1253,George Hill,2018-19,1.8,0.9,0.1,below average
+1254,Solomon Hill,2018-19,2.3,0.5,0.2,below average
+1261,Rodney Hood,2018-19,1.8,0.8,0.2,below average
+1263,Danuel House Jr.,2018-19,2.9,0.5,0.3,below average
+1268,Chandler Hutchison,2018-19,3.5,0.5,0.1,below average
+1271,Ersan İlyasova,2018-19,3.1,0.5,0.3,below average
+1277,Wes Iwundu,2018-19,2.2,0.4,0.3,below average
+1282,Justin Jackson,2018-19,2.1,0.4,0.2,below average
+1283,Reggie Jackson,2018-19,2.1,0.7,0.1,below average
+1287,Jonas Jerebko,2018-19,3.0,0.4,0.2,below average
+1289,Amir Johnson,2018-19,2.0,0.3,0.3,below average
+1291,James Johnson,2018-19,2.8,0.6,0.5,below average
+1294,Wesley Johnson,2018-19,1.6,0.4,0.3,below average
+1296,Damian Jones,2018-19,1.8,0.5,1.0,below average
+1304,Frank Kaminsky,2018-19,2.6,0.3,0.3,below average
+1305,Luke Kennard,2018-19,2.7,0.4,0.2,below average
+1306,Michael Kidd-Gilchrist,2018-19,2.5,0.5,0.6,below average
+1311,Furkan Korkmaz,2018-19,1.9,0.6,0.0,below average
+1312,Luke Kornet,2018-19,2.3,0.6,0.9,below average
+1313,Kyle Korver,2018-19,2.2,0.4,0.2,below average
+1314,Kosta Koufos,2018-19,3.0,0.4,0.4,below average
+1320,Jake Layman,2018-19,2.3,0.4,0.4,below average
+1327,Meyers Leonard,2018-19,3.0,0.2,0.1,below average
+1331,Jeremy Lin,2018-19,2.1,0.6,0.2,below average
+1332,Shaun Livingston,2018-19,1.2,0.5,0.4,below average
+1334,Kevon Looney,2018-19,2.8,0.6,0.7,below average
+1336,Robin Lopez,2018-19,2.0,0.1,1.1,below average
+1343,Trey Lyles,2018-19,3.2,0.5,0.4,below average
+1345,Shelvin Mack,2018-19,1.5,0.8,0.1,below average
+1348,Ian Mahinmi,2018-19,2.4,0.7,0.5,below average
+1349,Thon Maker,2018-19,2.5,0.3,0.8,below average
+1350,Boban Marjanović,2018-19,3.1,0.3,0.5,below average
+1355,Wesley Matthews,2018-19,2.0,0.8,0.2,below average
+1358,Patrick McCaw,2018-19,1.4,0.8,0.1,below average
+1363,Rodney McGruder,2018-19,2.7,0.5,0.2,below average
+1364,Alfonzo McKinnie,2018-19,2.3,0.3,0.2,below average
+1366,Jordan McRae,2018-19,1.3,0.5,0.3,below average
+1368,Salah Mejri,2018-19,2.6,0.3,0.7,below average
+1372,C.J. Miles,2018-19,1.5,0.5,0.3,below average
+1373,Darius Miller,2018-19,1.7,0.6,0.3,below average
+1375,Patty Mills,2018-19,1.9,0.6,0.1,below average
+1377,Shake Milton,2018-19,1.3,0.4,0.4,below average
+1381,Malik Monk,2018-19,1.7,0.5,0.3,below average
+1382,Greg Monroe,2018-19,2.4,0.3,0.2,below average
+1383,E'Twaun Moore,2018-19,1.7,0.8,0.2,below average
+1388,Monte Morris,2018-19,1.9,0.9,0.0,below average
+1391,Emmanuel Mudiay,2018-19,2.8,0.7,0.3,below average
+1394,Mike Muscala,2018-19,2.9,0.3,0.6,below average
+1398,Shabazz Napier,2018-19,1.5,0.7,0.3,below average
+1403,Dirk Nowitzki,2018-19,3.0,0.2,0.4,below average
+1404,Frank Ntilikina,2018-19,1.7,0.7,0.3,below average
+1407,David Nwaba,2018-19,2.4,0.7,0.3,below average
+1409,Kyle O'Quinn,2018-19,2.0,0.2,0.6,below average
+1411,Jahlil Okafor,2018-19,3.3,0.3,0.7,below average
+1412,Elie Okobo,2018-19,1.6,0.6,0.1,below average
+1418,Zaza Pachulia,2018-19,2.4,0.5,0.3,below average
+1425,Cameron Payne,2018-19,1.5,0.7,0.2,below average
+1431,Jakob Poeltl,2018-19,3.0,0.4,0.9,below average
+1436,Norman Powell,2018-19,2.1,0.7,0.2,below average
+1437,Alex Poythress,2018-19,2.2,0.2,0.5,below average
+1440,Ivan Rabb,2018-19,2.8,0.3,0.3,below average
+1443,J.J. Redick,2018-19,2.2,0.4,0.2,below average
+1448,Austin Rivers,2018-19,1.8,0.6,0.3,below average
+1449,Devin Robinson,2018-19,2.0,0.6,0.9,below average
+1455,Derrick Rose,2018-19,2.1,0.6,0.2,below average
+1466,Mike Scott,2018-19,2.9,0.3,0.2,below average
+1468,Wayne Selden,2018-19,1.9,0.4,0.2,below average
+1469,Collin Sexton,2018-19,2.2,0.5,0.1,below average
+1475,Jonathon Simmons,2018-19,1.8,0.5,0.3,below average
+1480,Ish Smith,2018-19,2.2,0.5,0.2,below average
+1485,Ray Spalding,2018-19,2.4,0.6,0.6,below average
+1486,Omari Spellman,2018-19,2.7,0.6,0.5,below average
+1489,Lance Stephenson,2018-19,2.7,0.6,0.1,below average
+1498,Daniel Theis,2018-19,2.1,0.3,0.6,below average
+1501,Lance Thomas,2018-19,2.1,0.4,0.2,below average
+1505,Anthony Tolliver,2018-19,2.5,0.3,0.3,below average
+1508,Allonzo Trier,2018-19,2.6,0.4,0.2,below average
+1510,Evan Turner,2018-19,4.0,0.5,0.2,below average
+1521,Dion Waiters,2018-19,2.5,0.7,0.2,below average
+1528,Julian Washburn,2018-19,1.8,0.7,0.1,below average
+1538,Johnathan Williams,2018-19,2.1,0.3,0.3,below average
+1540,Lou Williams,2018-19,2.4,0.8,0.1,below average
+1543,Troy Williams,2018-19,2.2,0.5,0.4,below average
+1544,D.J. Wilson,2018-19,3.7,0.4,0.4,below average
+1546,Christian Wood,2018-19,3.1,0.3,0.5,below average
+1554,Ante Žižić,2018-19,3.6,0.2,0.4,below average
+1575,D.J. Augustin,2019-20,1.8,0.6,0.0,below average
+1577,Dwayne Bacon,2019-20,2.2,0.6,0.1,below average
+1585,Keita Bates-Diop,2019-20,2.3,0.4,0.5,below average
+1587,Aron Baynes,2019-20,4.0,0.2,0.5,below average
+1589,Darius Bazley,2019-20,3.5,0.4,0.7,below average
+1591,Malik Beasley,2019-20,2.4,0.7,0.1,below average
+1595,Dragan Bender,2019-20,3.6,0.3,0.6,below average
+1598,Khem Birch,2019-20,2.7,0.4,0.5,below average
+1599,Goga Bitadze,2019-20,1.5,0.2,0.7,below average
+1600,Bismack Biyombo,2019-20,3.5,0.2,0.9,below average
+1604,Bojan Bogdanović,2019-20,3.5,0.5,0.1,below average
+1605,Bol Bol,2019-20,2.0,0.3,0.9,below average
+1609,Isaac Bonga,2019-20,2.3,0.7,0.3,below average
+1611,Chris Boucher,2019-20,2.7,0.4,1.0,below average
+1615,Tony Bradley,2019-20,2.7,0.2,0.6,below average
+1616,Jarrell Brantley,2019-20,2.0,0.3,0.6,below average
+1622,Ryan Broekhoff,2019-20,2.2,0.3,0.2,below average
+1629,Sterling Brown,2019-20,2.9,0.6,0.1,below average
+1638,Bruno Caboclo,2019-20,1.2,0.5,0.6,below average
+1640,Kentavious Caldwell-Pope,2019-20,1.5,0.8,0.2,below average
+1644,Jevon Carter,2019-20,1.5,0.8,0.3,below average
+1645,Vince Carter,2019-20,1.8,0.4,0.4,below average
+1651,Wilson Chandler,2019-20,3.8,0.5,0.3,below average
+1654,Chris Chiozza,2019-20,1.6,0.8,0.1,below average
+1658,Jordan Clarkson,2019-20,1.9,0.6,0.2,below average
+1665,Mike Conley,2019-20,2.5,0.8,0.1,below average
+1666,Pat Connaughton,2019-20,3.3,0.4,0.5,below average
+1671,Torrey Craig,2019-20,2.2,0.4,0.6,below average
+1675,Seth Curry,2019-20,1.8,0.6,0.1,below average
+1679,Ed Davis,2019-20,2.5,0.4,0.3,below average
+1680,Terence Davis,2019-20,2.6,0.5,0.2,below average
+1687,Spencer Dinwiddie,2019-20,3.0,0.6,0.3,below average
+1690,Luguentz Dort,2019-20,1.6,0.9,0.1,below average
+1692,Sekou Doumbouya,2019-20,2.6,0.5,0.2,below average
+1693,PJ Dozier,2019-20,1.6,0.5,0.2,below average
+1694,Goran Dragić,2019-20,2.7,0.7,0.2,below average
+1702,James Ennis III,2019-20,2.5,0.5,0.3,below average
+1703,Drew Eubanks,2019-20,2.6,0.2,0.8,below average
+1706,Tacko Fall,2019-20,2.0,0.1,0.6,below average
+1708,Cristiano Felício,2019-20,2.1,0.5,0.1,below average
+1710,Bruno Fernando,2019-20,2.3,0.3,0.3,below average
+1722,Daniel Gafford,2019-20,1.3,0.3,1.3,below average
+1724,Langston Galloway,2019-20,1.8,0.7,0.2,below average
+1725,Darius Garland,2019-20,1.4,0.7,0.1,below average
+1729,Taj Gibson,2019-20,2.5,0.4,0.5,below average
+1730,Harry Giles,2019-20,3.2,0.5,0.4,below average
+1735,Eric Gordon,2019-20,1.7,0.6,0.4,below average
+1745,Jeff Green,2019-20,2.3,0.5,0.4,below average
+1746,Blake Griffin,2019-20,3.7,0.4,0.4,below average
+1751,Donta Hall,2019-20,2.7,0.3,0.7,below average
+1753,Tim Hardaway Jr.,2019-20,2.9,0.6,0.1,below average
+1759,Joe Harris,2019-20,3.4,0.6,0.2,below average
+1761,Shaquille Harrison,2019-20,1.5,0.8,0.4,below average
+1763,Isaiah Hartenstein,2019-20,2.7,0.4,0.5,below average
+1765,Jaxson Hayes,2019-20,2.5,0.4,0.9,below average
+1769,Juancho Hernangómez,2019-20,3.2,0.4,0.2,below average
+1770,Willy Hernangómez,2019-20,2.9,0.3,0.2,below average
+1771,Tyler Herro,2019-20,3.8,0.6,0.2,below average
+1773,Mario Hezonja,2019-20,2.9,0.7,0.2,below average
+1775,George Hill,2019-20,2.2,0.8,0.1,below average
+1776,Solomon Hill,2019-20,2.3,0.7,0.2,below average
+1778,Aaron Holiday,2019-20,2.0,0.8,0.2,below average
+1794,Ersan İlyasova,2019-20,3.8,0.4,0.3,below average
+1799,Wes Iwundu,2019-20,2.1,0.5,0.3,below average
+1804,Reggie Jackson,2019-20,2.4,0.4,0.2,below average
+1812,Cameron Johnson,2019-20,2.4,0.6,0.4,below average
+1818,Damian Jones,2019-20,2.4,0.5,0.7,below average
+1820,Tyus Jones,2019-20,1.4,0.9,0.1,below average
+1822,Cory Joseph,2019-20,2.0,0.7,0.3,below average
+1824,Frank Kaminsky,2019-20,3.6,0.4,0.3,below average
+1825,Luke Kennard,2019-20,3.2,0.4,0.2,below average
+1831,Kevin Knox,2019-20,2.4,0.4,0.4,below average
+1833,Furkan Korkmaz,2019-20,2.1,0.6,0.2,below average
+1834,Luke Kornet,2019-20,1.7,0.3,0.7,below average
+1836,Rodions Kurucs,2019-20,2.4,0.5,0.1,below average
+1837,Kyle Kuzma,2019-20,3.6,0.5,0.4,below average
+1838,Skal Labissière,2019-20,3.2,0.2,0.9,below average
+1843,Jake Layman,2019-20,1.7,0.7,0.4,below average
+1846,Courtney Lee,2019-20,1.0,0.8,0.3,below average
+1850,Meyers Leonard,2019-20,4.5,0.3,0.3,below average
+1854,Kevon Looney,2019-20,1.9,0.6,0.3,below average
+1856,Robin Lopez,2019-20,1.6,0.2,0.7,below average
+1860,Trey Lyles,2019-20,4.6,0.4,0.4,below average
+1865,Thon Maker,2019-20,1.9,0.4,0.7,below average
+1867,Boban Marjanović,2019-20,3.0,0.2,0.2,below average
+1869,Caleb Martin,2019-20,1.6,0.7,0.4,below average
+1871,Jeremiah Martin,2019-20,1.0,0.8,0.2,below average
+1872,Kelan Martin,2019-20,2.7,0.2,0.3,below average
+1873,Frank Mason III,2019-20,1.6,0.6,0.1,below average
+1875,Wesley Matthews,2019-20,2.1,0.6,0.1,below average
+1879,T.J. McConnell,2019-20,2.1,0.8,0.2,below average
+1880,Jalen McDaniels,2019-20,3.1,0.5,0.2,below average
+1883,Rodney McGruder,2019-20,2.2,0.5,0.1,below average
+1884,Alfonzo McKinnie,2019-20,1.9,0.6,0.2,below average
+1886,Ben McLemore,2019-20,1.9,0.6,0.2,below average
+1887,Jordan McRae,2019-20,2.9,0.6,0.4,below average
+1888,Nicolò Melli,2019-20,2.4,0.6,0.4,below average
+1895,Patty Mills,2019-20,1.3,0.8,0.1,below average
+1897,Shake Milton,2019-20,1.8,0.5,0.2,below average
+1901,Malik Monk,2019-20,2.4,0.5,0.3,below average
+1903,E'Twaun Moore,2019-20,1.8,0.6,0.2,below average
+1907,Markieff Morris,2019-20,3.1,0.5,0.3,below average
+1908,Monte Morris,2019-20,1.5,0.8,0.2,below average
+1910,Emmanuel Mudiay,2019-20,2.0,0.4,0.2,below average
+1911,Mychal Mulder,2019-20,2.9,0.3,0.1,below average
+1916,Svi Mykhailiuk,2019-20,1.6,0.7,0.1,below average
+1917,Abdel Nader,2019-20,1.6,0.4,0.4,below average
+1930,David Nwaba,2019-20,1.9,0.6,0.6,below average
+1932,Kyle O'Quinn,2019-20,2.8,0.2,0.8,below average
+1934,Jahlil Okafor,2019-20,2.6,0.2,0.7,below average
+1947,Eric Paschall,2019-20,3.2,0.5,0.2,below average
+1948,Anžejs Pasečņiks,2019-20,2.4,0.3,0.4,below average
+1957,Mason Plumlee,2019-20,3.6,0.5,0.6,below average
+1961,Jordan Poole,2019-20,1.9,0.6,0.2,below average
+1963,Michael Porter Jr.,2019-20,3.5,0.5,0.5,below average
+1965,Bobby Portis,2019-20,3.9,0.5,0.3,below average
+1974,J.J. Redick,2019-20,2.4,0.3,0.2,below average
+1977,Austin Rivers,2019-20,2.2,0.7,0.1,below average
+1978,Andre Roberson,2019-20,2.9,0.1,0.4,below average
+1979,Duncan Robinson,2019-20,3.0,0.5,0.3,below average
+1981,Jerome Robinson,2019-20,1.8,0.4,0.3,below average
+1985,Rajon Rondo,2019-20,2.5,0.8,0.0,below average
+1986,Derrick Rose,2019-20,1.9,0.8,0.3,below average
+1993,JaKarr Sampson,2019-20,2.0,0.5,0.4,below average
+1998,Mike Scott,2019-20,2.7,0.3,0.1,below average
+1999,Thabo Sefolosha,2019-20,1.8,0.6,0.3,below average
+2010,Dennis Smith Jr.,2019-20,1.7,0.8,0.2,below average
+2014,Tony Snell,2019-20,1.7,0.5,0.3,below average
+2018,Caleb Swanigan,2019-20,2.7,0.1,0.3,below average
+2020,Jeff Teague,2019-20,1.9,0.7,0.3,below average
+2030,Anthony Tolliver,2019-20,2.2,0.3,0.2,below average
+2033,Gary Trent Jr.,2019-20,1.2,0.8,0.3,below average
+2037,Evan Turner,2019-20,1.6,0.5,0.4,below average
+2041,Denzel Valentine,2019-20,1.8,0.7,0.2,below average
+2045,Noah Vonleh,2019-20,2.4,0.3,0.2,below average
+2049,Dion Waiters,2019-20,2.2,0.4,0.6,below average
+2051,Lonnie Walker IV,2019-20,1.9,0.5,0.2,below average
+2058,Tremont Waters,2019-20,1.1,0.9,0.2,below average
+2066,Grant Williams,2019-20,1.7,0.4,0.5,below average
+2067,Johnathan Williams,2019-20,2.7,0.1,0.5,below average
+2069,Lou Williams,2019-20,2.6,0.7,0.2,below average
+2070,Marvin Williams,2019-20,2.6,0.6,0.5,below average
+2083,Ante Žižić,2019-20,2.2,0.3,0.2,below average
+2085,Precious Achiuwa,2020-21,2.2,0.3,0.5,below average
+2108,Dwayne Bacon,2020-21,2.7,0.6,0.1,below average
+2113,Desmond Bane,2020-21,2.6,0.6,0.2,below average
+2119,Aron Baynes,2020-21,3.5,0.3,0.4,below average
+2126,Dāvis Bertāns,2020-21,2.6,0.6,0.2,below average
+2133,Nemanja Bjelica,2020-21,2.6,0.4,0.1,below average
+2137,Bojan Bogdanović,2020-21,3.3,0.6,0.1,below average
+2145,Avery Bradley,2020-21,1.8,0.8,0.1,below average
+2146,Tony Bradley,2020-21,3.7,0.4,0.7,below average
+2148,Ignas Brazdeikis,2020-21,2.6,0.3,0.2,below average
+2154,Armoni Brooks,2020-21,2.9,0.6,0.3,below average
+2161,Troy Brown Jr.,2020-21,2.5,0.3,0.2,below average
+2162,Jalen Brunson,2020-21,3.0,0.5,0.0,below average
+2181,Willie Cauley-Stein,2020-21,3.2,0.4,0.8,below average
+2196,Torrey Craig,2020-21,2.8,0.6,0.5,below average
+2198,Jarrett Culver,2020-21,2.1,0.5,0.3,below average
+2199,Seth Curry,2020-21,2.2,0.8,0.1,below average
+2203,Ed Davis,2020-21,3.0,0.6,0.6,below average
+2204,Terence Davis,2020-21,2.2,0.7,0.2,below average
+2205,Gabriel Deck,2020-21,2.4,0.8,0.0,below average
+2209,Mamadi Diakite,2020-21,1.9,0.5,0.4,below average
+2211,Gorgui Dieng,2020-21,2.6,0.7,0.4,below average
+2218,Sekou Doumbouya,2020-21,1.9,0.4,0.2,below average
+2219,PJ Dozier,2020-21,2.9,0.6,0.4,below average
+2220,Goran Dragić,2020-21,2.9,0.7,0.2,below average
+2232,Drew Eubanks,2020-21,3.1,0.3,0.9,below average
+2234,Tacko Fall,2020-21,1.9,0.1,1.1,below average
+2239,Yogi Ferrell,2020-21,1.4,0.7,0.3,below average
+2242,Malachi Flynn,2020-21,2.3,0.8,0.1,below average
+2251,Wenyen Gabriel,2020-21,1.6,0.4,0.4,below average
+2253,Danilo Gallinari,2020-21,3.8,0.6,0.2,below average
+2260,Harry Giles,2020-21,2.7,0.2,0.3,below average
+2267,Eric Gordon,2020-21,1.9,0.5,0.5,below average
+2272,JaMychal Green,2020-21,3.3,0.4,0.4,below average
+2274,Jeff Green,2020-21,3.4,0.5,0.4,below average
+2281,Donta Hall,2020-21,2.9,0.4,0.8,below average
+2283,R.J. Hampton,2020-21,2.9,0.4,0.2,below average
+2284,Tim Hardaway Jr.,2020-21,3.0,0.4,0.2,below average
+2289,Gary Harris,2020-21,1.5,0.7,0.3,below average
+2291,Joe Harris,2020-21,3.0,0.7,0.2,below average
+2295,Isaiah Hartenstein,2020-21,2.5,0.4,0.8,below average
+2297,Jaxson Hayes,2020-21,2.8,0.4,0.6,below average
+2300,Juancho Hernangómez,2020-21,3.1,0.4,0.1,below average
+2304,George Hill,2020-21,1.5,0.8,0.2,below average
+2305,Solomon Hill,2020-21,2.4,0.7,0.2,below average
+2307,Jaylen Hoard,2020-21,2.3,0.7,0.3,below average
+2308,Aaron Holiday,2020-21,1.1,0.7,0.2,below average
+2316,Danuel House Jr.,2020-21,3.2,0.6,0.4,below average
+2322,Chandler Hutchison,2020-21,2.9,0.5,0.2,below average
+2325,Ersan İlyasova,2020-21,1.3,0.6,0.2,below average
+2334,Reggie Jackson,2020-21,2.5,0.6,0.1,below average
+2337,Mike James,2020-21,2.2,0.5,0.1,below average
+2338,DaQuan Jeffries,2020-21,1.7,0.5,0.3,below average
+2339,Ty Jerome,2020-21,2.5,0.6,0.2,below average
+2341,Alize Johnson,2020-21,3.5,0.3,0.3,below average
+2342,Cameron Johnson,2020-21,2.8,0.6,0.3,below average
+2348,Damian Jones,2020-21,2.2,0.3,0.7,below average
+2349,Derrick Jones Jr.,2020-21,2.2,0.6,0.9,below average
+2352,Tyus Jones,2020-21,1.7,0.9,0.1,below average
+2356,Frank Kaminsky,2020-21,3.2,0.3,0.4,below average
+2357,Luke Kennard,2020-21,2.3,0.4,0.1,below average
+2362,John Konchar,2020-21,2.2,0.7,0.2,below average
+2364,Luke Kornet,2020-21,1.7,0.1,1.0,below average
+2371,Jake Layman,2020-21,1.2,0.6,0.4,below average
+2374,Damion Lee,2020-21,2.8,0.7,0.1,below average
+2375,Saben Lee,2020-21,1.6,0.7,0.3,below average
+2376,Alex Len,2020-21,2.8,0.3,1.0,below average
+2380,Kira Lewis Jr.,2020-21,1.1,0.7,0.2,below average
+2383,Kevon Looney,2020-21,3.4,0.3,0.4,below average
+2385,Robin Lopez,2020-21,1.8,0.2,0.6,below average
+2389,Timothé Luwawu-Cabarrot,2020-21,1.7,0.6,0.1,below average
+2390,Trey Lyles,2020-21,3.3,0.3,0.0,below average
+2395,Terance Mann,2020-21,2.8,0.4,0.2,below average
+2400,Caleb Martin,2020-21,2.1,0.7,0.2,below average
+2401,Cody Martin,2020-21,2.1,0.7,0.2,below average
+2408,Wesley Matthews,2020-21,1.3,0.7,0.3,below average
+2415,Jalen McDaniels,2020-21,2.6,0.6,0.4,below average
+2426,Chimezie Metu,2020-21,2.3,0.4,0.5,below average
+2428,Darius Miller,2020-21,1.2,0.7,0.3,below average
+2431,Shake Milton,2020-21,1.8,0.6,0.3,below average
+2434,Malik Monk,2020-21,2.1,0.5,0.1,below average
+2438,Marcus Morris,2020-21,3.5,0.6,0.3,below average
+2439,Markieff Morris,2020-21,3.6,0.4,0.3,below average
+2440,Monte Morris,2020-21,1.8,0.7,0.3,below average
+2444,Mike Muscala,2020-21,3.2,0.2,0.3,below average
+2445,Svi Mykhailiuk,2020-21,2.1,0.8,0.2,below average
+2446,Abdel Nader,2020-21,2.3,0.4,0.4,below average
+2448,Aaron Nesmith,2020-21,2.2,0.3,0.2,below average
+2453,Jaylen Nowell,2020-21,1.8,0.5,0.3,below average
+2459,Jordan Nwora,2020-21,1.7,0.5,0.2,below average
+2465,Onyeka Okongwu,2020-21,2.0,0.5,0.7,below average
+2475,Jabari Parker,2020-21,2.5,0.1,0.4,below average
+2476,Eric Paschall,2020-21,2.5,0.3,0.2,below average
+2481,Cameron Payne,2020-21,2.1,0.6,0.3,below average
+2482,Elfrid Payton,2020-21,2.4,0.7,0.1,below average
+2498,Dwight Powell,2020-21,2.7,0.6,0.5,below average
+2501,Payton Pritchard,2020-21,1.9,0.6,0.1,below average
+2502,Immanuel Quickley,2020-21,1.8,0.5,0.2,below average
+2504,Chasson Randle,2020-21,1.8,0.5,0.1,below average
+2508,Paul Reed,2020-21,1.2,0.4,0.5,below average
+2514,Austin Rivers,2020-21,2.1,0.8,0.1,below average
+2516,Duncan Robinson,2020-21,3.4,0.6,0.3,below average
+2518,Jerome Robinson,2020-21,2.0,0.7,0.4,below average
+2522,Rajon Rondo,2020-21,2.0,0.8,0.1,below average
+2531,Dario Šarić,2020-21,2.9,0.6,0.1,below average
+2532,Tomáš Satoranský,2020-21,1.9,0.7,0.2,below average
+2534,Mike Scott,2020-21,2.1,0.5,0.3,below average
+2537,Landry Shamet,2020-21,1.7,0.5,0.2,below average
+2552,Lamar Stevens,2020-21,1.8,0.4,0.3,below average
+2555,Edmond Sumner,2020-21,1.4,0.6,0.2,below average
+2558,Jeff Teague,2020-21,1.3,0.6,0.2,below average
+2562,Brodric Thomas,2020-21,1.4,0.5,0.3,below average
+2581,Denzel Valentine,2020-21,2.8,0.5,0.1,below average
+2585,Devin Vassell,2020-21,2.4,0.7,0.3,below average
+2589,Dean Wade,2020-21,2.8,0.6,0.3,below average
+2590,Moritz Wagner,2020-21,2.6,0.6,0.4,below average
+2592,Lonnie Walker IV,2020-21,2.4,0.5,0.3,below average
+2594,Brad Wanamaker,2020-21,1.4,0.7,0.2,below average
+2597,Yuta Watanabe,2020-21,2.5,0.5,0.4,below average
+2602,Coby White,2020-21,3.7,0.6,0.2,below average
+2607,Grant Williams,2020-21,2.1,0.5,0.4,below average
+2609,Lou Williams,2020-21,1.8,0.7,0.1,below average
+2613,D.J. Wilson,2020-21,2.6,0.3,0.5,below average
+2614,Dylan Windler,2020-21,2.8,0.6,0.4,below average
+0,Álex Abrines,2016-17,1.0,0.5,0.1,poor
+3,Arron Afflalo,2016-17,1.9,0.3,0.1,poor
+11,Alan Anderson,2016-17,0.7,0.1,0.0,poor
+17,Joel Anthony,2016-17,1.2,0.1,0.3,poor
+21,D.J. Augustin,2016-17,1.3,0.4,0.0,poor
+22,Luke Babbitt,2016-17,1.9,0.3,0.2,poor
+24,Wade Baldwin,2016-17,1.1,0.5,0.2,poor
+25,Leandro Barbosa,2016-17,1.3,0.5,0.1,poor
+26,J.J. Barea,2016-17,2.1,0.4,0.0,poor
+30,Brandon Bass,2016-17,1.7,0.3,0.2,poor
+36,Malik Beasley,2016-17,0.5,0.3,0.0,poor
+39,DeAndre' Bembry,2016-17,1.2,0.2,0.1,poor
+41,Anthony Bennett,2016-17,2.3,0.2,0.1,poor
+43,Dāvis Bertāns,2016-17,1.1,0.3,0.4,poor
+51,Joel Bolomboy,2016-17,1.1,0.1,0.2,poor
+57,Aaron Brooks,2016-17,0.8,0.4,0.1,poor
+59,Bobby Brown,2016-17,0.2,0.0,0.0,poor
+61,Nicolás Brussino,2016-17,1.3,0.3,0.1,poor
+63,Trey Burke,2016-17,0.7,0.2,0.1,poor
+66,Bruno Caboclo,2016-17,0.6,0.2,0.1,poor
+67,José Calderón,2016-17,1.4,0.3,0.0,poor
+69,Isaiah Canaan,2016-17,1.1,0.6,0.0,poor
+79,Rakeem Christmas,2016-17,1.0,0.1,0.2,poor
+80,Semaj Christon,2016-17,1.1,0.4,0.1,poor
+81,Ian Clark,2016-17,1.3,0.5,0.1,poor
+83,Norris Cole,2016-17,0.8,0.6,0.0,poor
+85,Nick Collison,2016-17,1.1,0.1,0.1,poor
+87,Pat Connaughton,2016-17,1.1,0.2,0.1,poor
+88,Quinn Cook,2016-17,0.4,0.3,0.0,poor
+98,Troy Daniels,2016-17,1.2,0.3,0.1,poor
+100,Deyonta Davis,2016-17,1.1,0.1,0.5,poor
+104,Malcolm Delaney,2016-17,1.5,0.5,0.0,poor
+109,Boris Diaw,2016-17,1.5,0.2,0.1,poor
+116,Mike Dunleavy,2016-17,1.8,0.3,0.1,poor
+120,Henry Ellenson,2016-17,1.7,0.1,0.1,poor
+125,Tyler Ennis,2016-17,0.7,0.5,0.0,poor
+127,Dante Exum,2016-17,1.5,0.3,0.2,poor
+131,Kay Felder,2016-17,0.9,0.4,0.2,poor
+136,Bryn Forbes,2016-17,0.6,0.0,0.0,poor
+148,Michael Gbinije,2016-17,0.1,0.0,0.0,poor
+149,Alonzo Gee,2016-17,0.8,0.4,0.1,poor
+152,Jonathan Gibson,2016-17,1.2,0.5,0.0,poor
+156,Archie Goodwin,2016-17,1.4,0.3,0.3,poor
+160,Treveon Graham,2016-17,0.6,0.2,0.0,poor
+165,Gerald Green,2016-17,1.4,0.2,0.1,poor
+170,A.J. Hammons,2016-17,1.3,0.0,0.6,poor
+183,Udonis Haslem,2016-17,1.8,0.4,0.1,poor
+195,Jordan Hill,2016-17,0.9,0.1,0.0,poor
+197,Darrun Hilliard,2016-17,0.8,0.3,0.1,poor
+206,Marcelo Huertas,2016-17,1.0,0.4,0.1,poor
+218,Pierre Jackson,2016-17,1.0,0.3,0.0,poor
+222,Richard Jefferson,2016-17,2.2,0.3,0.1,poor
+235,Damian Jones,2016-17,1.4,0.1,0.4,poor
+237,James Jones,2016-17,0.7,0.1,0.2,poor
+243,Ryan Kelly,2016-17,1.1,0.3,0.3,poor
+246,Brandon Knight,2016-17,1.7,0.5,0.1,poor
+249,Mindaugas Kuzminskas,2016-17,1.2,0.4,0.2,poor
+252,Nicolás Laprovíttola,2016-17,0.5,0.2,0.1,poor
+256,Jake Layman,2016-17,0.5,0.3,0.1,poor
+269,Kevon Looney,2016-17,1.5,0.3,0.3,poor
+277,Sheldon Mac,2016-17,1.0,0.3,0.1,poor
+280,Thon Maker,2016-17,1.3,0.2,0.5,poor
+286,Patrick McCaw,2016-17,1.1,0.5,0.2,poor
+289,Chris McCullough,2016-17,0.6,0.1,0.1,poor
+291,Doug McDermott,2016-17,2.4,0.2,0.1,poor
+295,Jordan McRae,2016-17,0.9,0.2,0.2,poor
+299,Jordan Mickey,2016-17,0.8,0.1,0.2,poor
+302,Mike Miller,2016-17,1.8,0.1,0.0,poor
+311,Anthony Morrow,2016-17,0.4,0.5,0.0,poor
+315,Shabazz Muhammad,2016-17,1.7,0.3,0.1,poor
+316,Dejounte Murray,2016-17,0.9,0.2,0.2,poor
+320,Shabazz Napier,2016-17,1.0,0.6,0.0,poor
+324,Raul Neto,2016-17,0.7,0.5,0.1,poor
+325,Georges Niang,2016-17,0.7,0.1,0.0,poor
+326,Andrew Nicholson,2016-17,1.2,0.4,0.2,poor
+334,Johnny O'Bryant,2016-17,0.9,0.0,0.1,poor
+336,Daniel Ochefu,2016-17,0.9,0.1,0.0,poor
+340,Arinze Onuaku,2016-17,0.5,0.0,0.1,poor
+346,Tony Parker,2016-17,1.7,0.5,0.0,poor
+352,Cameron Payne,2016-17,1.5,0.5,0.1,poor
+355,Paul Pierce*,2016-17,1.9,0.2,0.2,poor
+356,Marshall Plumlee,2016-17,1.3,0.2,0.2,poor
+358,Miles Plumlee,2016-17,1.3,0.4,0.3,poor
+359,Jakob Poeltl,2016-17,1.6,0.3,0.4,poor
+366,Ronnie Price,2016-17,0.6,0.8,0.1,poor
+368,Tim Quarterman,2016-17,0.6,0.1,0.2,poor
+369,Chasson Randle,2016-17,1.0,0.3,0.1,poor
+375,Malachi Richardson,2016-17,0.9,0.2,0.0,poor
+378,Brian Roberts,2016-17,0.8,0.2,0.0,poor
+387,Damjan Rudež,2016-17,0.4,0.3,0.0,poor
+393,Tomáš Satoranský,2016-17,1.0,0.5,0.1,poor
+396,Mike Scott,2016-17,1.5,0.2,0.2,poor
+398,Wayne Selden,2016-17,1.1,0.4,0.1,poor
+399,Kevin Séraphin,2016-17,2.1,0.1,0.4,poor
+400,Ramon Sessions,2016-17,1.2,0.5,0.1,poor
+404,Kyle Singler,2016-17,1.3,0.2,0.2,poor
+411,Tiago Splitter,2016-17,1.8,0.1,0.1,poor
+415,Diamond Stone,2016-17,0.7,0.0,0.1,poor
+416,Rodney Stuckey,2016-17,2.0,0.4,0.0,poor
+417,Jared Sullinger,2016-17,1.5,0.4,0.1,poor
+421,Mirza Teletović,2016-17,2.2,0.2,0.2,poor
+437,Beno Udrih,2016-17,1.3,0.3,0.0,poor
+439,Jarrod Uthoff,2016-17,1.6,0.2,0.4,poor
+442,Fred VanVleet,2016-17,1.0,0.4,0.1,poor
+443,Anderson Varejão,2016-17,1.1,0.2,0.2,poor
+445,Rashad Vaughn,2016-17,1.1,0.5,0.2,poor
+448,Sasha Vujačić,2016-17,1.1,0.3,0.0,poor
+454,C.J. Watson,2016-17,1.2,0.7,0.0,poor
+455,Briante Weber,2016-17,0.9,0.6,0.1,poor
+458,Okaro White,2016-17,1.6,0.3,0.3,poor
+462,C.J. Wilcox,2016-17,0.4,0.1,0.0,poor
+465,Derrick Williams,2016-17,2.2,0.3,0.1,poor
+470,Kyle Wiltjer,2016-17,0.4,0.2,0.1,poor
+473,Christian Wood,2016-17,1.2,0.2,0.5,poor
+474,Metta World Peace,2016-17,0.6,0.4,0.1,poor
+477,James Young,2016-17,0.7,0.3,0.1,poor
+478,Joe Young,2016-17,0.5,0.1,0.0,poor
+482,Tyler Zeller,2016-17,1.6,0.1,0.4,poor
+483,Stephen Zimmerman,2016-17,1.3,0.1,0.3,poor
+486,Álex Abrines,2017-18,1.2,0.5,0.1,poor
+490,Arron Afflalo,2017-18,1.2,0.1,0.2,poor
+494,Kadeem Allen,2017-18,0.4,0.2,0.1,poor
+495,Tony Allen,2017-18,1.2,0.5,0.1,poor
+497,Justin Anderson,2017-18,1.8,0.4,0.2,poor
+504,Ryan Arcidiacono,2017-18,1.0,0.5,0.0,poor
+506,Darrell Arthur,2017-18,0.6,0.4,0.2,poor
+507,Jamel Artis,2017-18,2.3,0.1,0.2,poor
+508,Ömer Aşık,2017-18,2.1,0.1,0.2,poor
+510,Luke Babbitt,2017-18,1.8,0.2,0.1,poor
+511,Dwayne Bacon,2017-18,2.3,0.3,0.0,poor
+513,Wade Baldwin,2017-18,1.0,0.3,0.1,poor
+523,Malik Beasley,2017-18,0.9,0.2,0.1,poor
+532,Jabari Bird,2017-18,1.0,0.2,0.1,poor
+536,Antonio Blakeney,2017-18,1.5,0.4,0.1,poor
+547,Tony Bradley,2017-18,0.8,0.0,0.0,poor
+550,Aaron Brooks,2017-18,0.3,0.2,0.0,poor
+554,Bobby Brown,2017-18,0.4,0.2,0.0,poor
+556,Lorenzo Brown,2017-18,1.0,0.4,0.0,poor
+560,Thomas Bryant,2017-18,0.9,0.1,0.1,poor
+565,Dwight Buycks,2017-18,1.0,0.7,0.1,poor
+566,Bruno Caboclo,2017-18,1.3,0.3,0.3,poor
+567,José Calderón,2017-18,1.2,0.5,0.0,poor
+577,Tyler Cavanaugh,2017-18,2.1,0.2,0.1,poor
+582,Ian Clark,2017-18,1.6,0.4,0.1,poor
+584,Gian Clavell,2017-18,0.9,0.3,0.0,poor
+585,Antonius Cleveland,2017-18,0.6,0.4,0.3,poor
+590,Nick Collison,2017-18,0.9,0.0,0.0,poor
+592,Pat Connaughton,2017-18,1.5,0.3,0.3,poor
+593,Quinn Cook,2017-18,2.2,0.4,0.0,poor
+595,Jack Cooley,2017-18,2.3,0.1,0.0,poor
+601,Jamal Crawford,2017-18,1.0,0.5,0.1,poor
+606,Troy Daniels,2017-18,1.5,0.3,0.1,poor
+611,Sam Dekker,2017-18,1.8,0.3,0.1,poor
+613,Matthew Dellavedova,2017-18,1.3,0.4,0.0,poor
+619,Tyler Dorsey,2017-18,2.0,0.3,0.1,poor
+620,Damyean Dotson,2017-18,1.7,0.3,0.0,poor
+624,Larry Drew II,2017-18,0.0,0.0,0.0,poor
+630,Henry Ellenson,2017-18,1.9,0.1,0.0,poor
+641,Kay Felder,2017-18,0.9,0.2,0.1,poor
+644,Terrance Ferguson,2017-18,0.5,0.4,0.2,poor
+647,Bryn Forbes,2017-18,1.2,0.4,0.0,poor
+655,Langston Galloway,2017-18,1.4,0.6,0.1,poor
+660,Marcus Georges-Hunt,2017-18,0.2,0.1,0.0,poor
+668,Treveon Graham,2017-18,1.3,0.5,0.0,poor
+691,Udonis Haslem,2017-18,0.5,0.0,0.1,poor
+692,Nigel Hayes,2017-18,2.0,0.2,0.3,poor
+697,Juancho Hernangómez,2017-18,1.4,0.2,0.1,poor
+700,Isaiah Hicks,2017-18,1.7,0.1,0.2,poor
+705,Darrun Hilliard,2017-18,0.5,0.1,0.0,poor
+708,John Holland,2017-18,0.8,0.3,0.1,poor
+730,Demetrius Jackson,2017-18,0.5,0.3,0.1,poor
+737,Richard Jefferson,2017-18,0.8,0.1,0.1,poor
+741,Brice Johnson,2017-18,1.2,0.5,0.3,poor
+742,Dakari Johnson,2017-18,0.6,0.2,0.3,poor
+750,Damian Jones,2017-18,0.6,0.1,0.2,poor
+751,Derrick Jones Jr.,2017-18,0.9,0.2,0.7,poor
+752,Jalen Jones,2017-18,1.6,0.3,0.1,poor
+759,Sean Kilpatrick,2017-18,1.6,0.3,0.1,poor
+761,Furkan Korkmaz,2017-18,0.6,0.1,0.1,poor
+769,Shane Larkin,2017-18,1.4,0.5,0.0,poor
+770,Joffrey Lauvergne,2017-18,2.0,0.2,0.1,poor
+772,Jake Layman,2017-18,0.3,0.2,0.1,poor
+773,T.J. Leaf,2017-18,1.0,0.1,0.1,poor
+779,Meyers Leonard,2017-18,1.8,0.2,0.0,poor
+791,Timothé Luwawu-Cabarrot,2017-18,1.1,0.2,0.1,poor
+795,Josh Magette,2017-18,0.9,0.4,0.1,poor
+810,Chris McCullough,2017-18,0.9,0.0,0.3,poor
+811,Doug McDermott,2017-18,2.0,0.2,0.2,poor
+813,Rodney McGruder,2017-18,1.2,0.4,0.2,poor
+815,Alfonzo McKinnie,2017-18,0.4,0.1,0.1,poor
+818,Jodie Meeks,2017-18,1.4,0.4,0.1,poor
+823,Darius Miller,2017-18,1.8,0.3,0.2,poor
+824,Malcolm Miller,2017-18,0.7,0.1,0.1,poor
+830,Malik Monk,2017-18,0.9,0.3,0.1,poor
+843,Shabazz Muhammad,2017-18,1.2,0.2,0.1,poor
+848,Abdel Nader,2017-18,1.2,0.3,0.2,poor
+852,Raul Neto,2017-18,1.0,0.3,0.1,poor
+853,Georges Niang,2017-18,0.7,0.2,0.0,poor
+854,Joakim Noah,2017-18,1.1,0.3,0.3,poor
+861,Johnny O'Bryant,2017-18,1.8,0.3,0.2,poor
+864,Semi Ojeleye,2017-18,1.7,0.3,0.1,poor
+870,Cedi Osman,2017-18,1.7,0.4,0.0,poor
+874,Georgios Papagiannis,2017-18,1.4,0.2,0.4,poor
+876,Tony Parker,2017-18,1.6,0.5,0.0,poor
+880,Brandon Paul,2017-18,1.0,0.4,0.1,poor
+885,Gary Payton II,2017-18,1.3,0.3,0.1,poor
+887,London Perrantes,2017-18,0.2,0.1,0.1,poor
+888,Alec Peters,2017-18,1.5,0.1,0.1,poor
+889,Marshall Plumlee,2017-18,1.6,0.0,0.1,poor
+893,Quincy Pondexter,2017-18,0.8,0.3,0.1,poor
+898,Norman Powell,2017-18,1.5,0.5,0.2,poor
+899,Alex Poythress,2017-18,0.4,0.1,0.0,poor
+902,Rodney Purvis,2017-18,1.6,0.2,0.2,poor
+903,Zhou Qi,2017-18,0.9,0.1,0.8,poor
+913,Malachi Richardson,2017-18,1.1,0.4,0.0,poor
+917,Glenn Robinson III,2017-18,1.1,0.6,0.0,poor
+919,Derrick Rose,2017-18,0.9,0.3,0.2,poor
+931,Wayne Selden,2017-18,1.1,0.5,0.1,poor
+932,Ramon Sessions,2017-18,1.1,0.5,0.1,poor
+938,Kobi Simmons,2017-18,1.1,0.6,0.2,poor
+939,Kyle Singler,2017-18,0.8,0.1,0.0,poor
+944,Jason Smith,2017-18,1.1,0.1,0.4,poor
+948,Nik Stauskas,2017-18,1.5,0.2,0.1,poor
+951,Julyan Stone,2017-18,1.2,0.2,0.1,poor
+953,Caleb Swanigan,2017-18,1.4,0.2,0.1,poor
+955,Isaiah Taylor,2017-18,1.1,0.5,0.1,poor
+958,Mirza Teletović,2017-18,2.0,0.4,0.1,poor
+963,Isaiah Thomas,2017-18,1.6,0.5,0.1,poor
+964,Lance Thomas,2017-18,1.8,0.4,0.2,poor
+978,Rashad Vaughn,2017-18,0.6,0.2,0.1,poor
+986,Derrick Walton,2017-18,0.9,0.4,0.2,poor
+989,Travis Wear,2017-18,2.2,0.2,0.3,poor
+990,James Webb III,2017-18,1.6,0.1,0.0,poor
+994,Andrew White,2017-18,2.0,0.2,0.1,poor
+995,Derrick White,2017-18,1.2,0.2,0.2,poor
+997,Isaiah Whitehead,2017-18,1.4,0.5,0.1,poor
+1001,Damien Wilkins,2017-18,0.6,0.1,0.1,poor
+1009,D.J. Wilson,2017-18,0.4,0.1,0.0,poor
+1012,Jeff Withey,2017-18,1.0,0.0,0.3,poor
+1016,Guerschon Yabusele,2017-18,1.1,0.1,0.2,poor
+1018,Joe Young,2017-18,1.0,0.3,0.0,poor
+1019,Nick Young,2017-18,1.3,0.5,0.1,poor
+1024,Ante Žižić,2017-18,1.1,0.1,0.4,poor
+1025,Ivica Zubac,2017-18,1.8,0.2,0.3,poor
+1026,Álex Abrines,2018-19,1.4,0.5,0.2,poor
+1027,Quincy Acy,2018-19,2.2,0.1,0.4,poor
+1028,Jaylen Adams,2018-19,1.4,0.4,0.1,poor
+1031,Deng Adel,2018-19,0.8,0.1,0.2,poor
+1032,DeVaughn Akoon-Purcell,2018-19,0.4,0.3,0.0,poor
+1034,Rawle Alkins,2018-19,1.5,0.1,0.0,poor
+1035,Grayson Allen,2018-19,0.5,0.2,0.2,poor
+1041,Ryan Anderson,2018-19,1.4,0.2,0.0,poor
+1051,Dwayne Bacon,2018-19,1.9,0.3,0.1,poor
+1053,Ron Baker,2018-19,0.7,0.4,0.1,poor
+1054,Wade Baldwin,2018-19,0.8,0.1,0.1,poor
+1062,Jerryd Bayless,2018-19,1.5,0.5,0.1,poor
+1072,Dairis Bertāns,2018-19,0.6,0.1,0.0,poor
+1078,Antonio Blakeney,2018-19,1.7,0.2,0.2,poor
+1085,Isaac Bonga,2018-19,0.7,0.4,0.2,poor
+1093,Isaiah Briscoe,2018-19,1.8,0.3,0.1,poor
+1094,Ryan Broekhoff,2018-19,1.3,0.1,0.1,poor
+1097,MarShon Brooks,2018-19,1.1,0.3,0.1,poor
+1100,Lorenzo Brown,2018-19,1.0,0.5,0.2,poor
+1102,Troy Brown Jr.,2018-19,2.1,0.4,0.1,poor
+1106,Trey Burke,2018-19,1.2,0.6,0.1,poor
+1108,Deonte Burton,2018-19,0.8,0.2,0.3,poor
+1111,José Calderón,2018-19,1.0,0.3,0.1,poor
+1113,Isaiah Canaan,2018-19,1.7,0.5,0.1,poor
+1124,Tyler Cavanaugh,2018-19,0.5,0.0,0.0,poor
+1128,Chris Chiozza,2018-19,0.4,0.1,0.1,poor
+1131,Ian Clark,2018-19,1.3,0.4,0.1,poor
+1139,Quinn Cook,2018-19,1.8,0.3,0.0,poor
+1144,Jamal Crawford,2018-19,1.2,0.5,0.2,poor
+1148,Seth Curry,2018-19,1.3,0.5,0.2,poor
+1150,Troy Daniels,2018-19,1.2,0.5,0.1,poor
+1158,Matthew Dellavedova,2018-19,1.5,0.3,0.0,poor
+1161,Marcus Derrickson,2018-19,0.5,0.0,0.1,poor
+1163,Hamidou Diallo,2018-19,1.2,0.4,0.2,poor
+1168,Tyler Dorsey,2018-19,1.8,0.3,0.0,poor
+1182,Drew Eubanks,2018-19,1.2,0.1,0.2,poor
+1183,Jacob Evans,2018-19,0.6,0.2,0.1,poor
+1184,Jawun Evans,2018-19,1.4,0.4,0.0,poor
+1186,Dante Exum,2018-19,1.2,0.3,0.1,poor
+1189,Cristiano Felício,2018-19,2.3,0.2,0.1,poor
+1190,Raymond Felton,2018-19,0.9,0.3,0.2,poor
+1191,Terrance Ferguson,2018-19,1.5,0.5,0.2,poor
+1192,Yogi Ferrell,2018-19,1.4,0.5,0.1,poor
+1197,Melvin Frazier,2018-19,0.2,0.1,0.0,poor
+1201,Channing Frye,2018-19,1.3,0.2,0.1,poor
+1204,Langston Galloway,2018-19,1.5,0.5,0.1,poor
+1214,Brandon Goodwin,2018-19,0.1,0.0,0.0,poor
+1218,Devonte' Graham,2018-19,1.2,0.5,0.0,poor
+1229,Daniel Hamilton,2018-19,1.9,0.3,0.1,poor
+1235,Devin Harris,2018-19,1.5,0.5,0.2,poor
+1239,Andrew Harrison,2018-19,0.8,0.2,0.1,poor
+1242,Isaiah Hartenstein,2018-19,0.9,0.3,0.4,poor
+1243,Udonis Haslem,2018-19,2.4,0.0,0.0,poor
+1255,Aaron Holiday,2018-19,1.2,0.4,0.3,poor
+1279,Frank Jackson,2018-19,1.8,0.4,0.0,poor
+1285,Amile Jefferson,2018-19,1.3,0.3,0.3,poor
+1286,John Jenkins,2018-19,1.2,0.0,0.1,poor
+1288,Alize Johnson,2018-19,1.1,0.1,0.2,poor
+1290,B.J. Johnson,2018-19,0.9,0.3,0.0,poor
+1298,Jalen Jones,2018-19,1.4,0.6,0.1,poor
+1309,Brandon Knight,2018-19,1.3,0.5,0.1,poor
+1317,Skal Labissière,2018-19,1.5,0.2,0.3,poor
+1321,T.J. Leaf,2018-19,1.4,0.2,0.3,poor
+1322,Courtney Lee,2018-19,1.3,0.6,0.1,poor
+1323,Damion Lee,2018-19,1.8,0.4,0.0,poor
+1328,Jon Leuer,2018-19,1.7,0.3,0.1,poor
+1339,Jordan Loyd,2018-19,0.7,0.0,0.0,poor
+1341,Timothé Luwawu-Cabarrot,2018-19,1.7,0.4,0.2,poor
+1342,Tyler Lydon,2018-19,0.4,0.1,0.0,poor
+1346,Daryl Macon,2018-19,1.3,0.1,0.0,poor
+1352,Jarell Martin,2018-19,1.5,0.1,0.2,poor
+1353,Frank Mason III,2018-19,1.0,0.4,0.1,poor
+1361,Doug McDermott,2018-19,1.2,0.2,0.1,poor
+1365,Ben McLemore,2018-19,0.7,0.3,0.2,poor
+1367,Jodie Meeks,2018-19,1.4,0.1,0.1,poor
+1370,Chimezie Metu,2018-19,0.9,0.2,0.1,poor
+1374,Malcolm Miller,2018-19,0.4,0.1,0.1,poor
+1380,Naz Mitrou-Long,2018-19,0.4,0.1,0.1,poor
+1390,Johnathan Motley,2018-19,1.5,0.2,0.1,poor
+1393,Džanan Musa,2018-19,0.4,0.2,0.0,poor
+1395,Svi Mykhailiuk,2018-19,0.6,0.3,0.0,poor
+1396,Abdel Nader,2018-19,1.7,0.3,0.2,poor
+1399,Raul Neto,2018-19,1.5,0.4,0.1,poor
+1400,Georges Niang,2018-19,1.3,0.2,0.1,poor
+1405,James Nunnally,2018-19,0.3,0.1,0.0,poor
+1410,Semi Ojeleye,2018-19,1.1,0.2,0.1,poor
+1420,Tony Parker,2018-19,1.2,0.4,0.1,poor
+1422,Patrick Patterson,2018-19,1.7,0.3,0.2,poor
+1428,Theo Pinson,2018-19,1.8,0.3,0.0,poor
+1430,Miles Plumlee,2018-19,1.3,0.3,0.2,poor
+1432,Quincy Pondexter,2018-19,0.7,0.2,0.0,poor
+1441,Chasson Randle,2018-19,0.9,0.5,0.1,poor
+1444,Davon Reed,2018-19,0.4,0.1,0.0,poor
+1445,Cameron Reynolds,2018-19,1.4,0.3,0.1,poor
+1447,Malachi Richardson,2018-19,0.5,0.0,0.0,poor
+1450,Duncan Robinson,2018-19,1.1,0.3,0.0,poor
+1451,Glenn Robinson III,2018-19,1.1,0.3,0.2,poor
+1452,Jerome Robinson,2018-19,1.2,0.3,0.1,poor
+1461,Brandon Sampson,2018-19,0.9,0.6,0.2,poor
+1470,Landry Shamet,2018-19,1.4,0.5,0.1,poor
+1477,Anfernee Simons,2018-19,0.5,0.1,0.0,poor
+1482,Jason Smith,2018-19,1.8,0.2,0.4,poor
+1484,Tony Snell,2018-19,1.7,0.4,0.2,poor
+1487,Nik Stauskas,2018-19,1.6,0.3,0.1,poor
+1490,Edmond Sumner,2018-19,0.7,0.5,0.2,poor
+1491,Caleb Swanigan,2018-19,2.2,0.3,0.0,poor
+1495,Miloš Teodosić,2018-19,0.9,0.2,0.1,poor
+1496,Jared Terrell,2018-19,0.4,0.2,0.1,poor
+1499,Isaiah Thomas,2018-19,0.7,0.4,0.1,poor
+1500,Khyri Thomas,2018-19,0.6,0.3,0.2,poor
+1504,Sindarius Thornwell,2018-19,0.6,0.2,0.1,poor
+1507,Gary Trent Jr.,2018-19,0.7,0.1,0.1,poor
+1512,Ekpe Udoh,2018-19,1.2,0.2,0.6,poor
+1515,Jarred Vanderbilt,2018-19,0.9,0.4,0.1,poor
+1520,Moritz Wagner,2018-19,1.6,0.3,0.3,poor
+1523,Lonnie Walker IV,2018-19,1.0,0.4,0.2,poor
+1525,Tyrone Wallace,2018-19,1.3,0.3,0.1,poor
+1526,Brad Wanamaker,2018-19,1.1,0.3,0.1,poor
+1529,Yuta Watanabe,2018-19,1.8,0.3,0.1,poor
+1530,Thomas Welsh,2018-19,0.4,0.0,0.0,poor
+1537,C.J. Williams,2018-19,0.5,0.4,0.0,poor
+1548,Guerschon Yabusele,2018-19,0.7,0.2,0.2,poor
+1560,Nickeil Alexander-Walker,2019-20,1.6,0.4,0.2,poor
+1561,Grayson Allen,2019-20,2.0,0.3,0.1,poor
+1563,Kadeem Allen,2019-20,0.7,0.5,0.2,poor
+1565,Justin Anderson,2019-20,2.0,0.0,0.6,poor
+1570,Thanasis Antetokounmpo,2019-20,0.6,0.4,0.1,poor
+1573,Ryan Arcidiacono,2019-20,1.6,0.5,0.1,poor
+1581,J.J. Barea,2019-20,1.5,0.2,0.1,poor
+1592,Marco Belinelli,2019-20,1.6,0.2,0.0,poor
+1593,Jordan Bell,2019-20,1.8,0.1,0.3,poor
+1606,Jonah Bolden,2019-20,0.9,0.4,0.3,poor
+1608,Jordan Bone,2019-20,0.4,0.1,0.0,poor
+1617,Ignas Brazdeikis,2019-20,0.3,0.0,0.1,poor
+1621,Oshae Brissett,2019-20,0.9,0.2,0.1,poor
+1626,Charlie Brown Jr.,2019-20,0.2,0.2,0.2,poor
+1628,Moses Brown,2019-20,1.2,0.1,0.1,poor
+1631,Jalen Brunson,2019-20,2.0,0.4,0.1,poor
+1634,Trey Burke,2019-20,1.0,0.5,0.1,poor
+1636,Deonte Burton,2019-20,1.3,0.2,0.3,poor
+1641,Vlatko Čančar,2019-20,0.4,0.1,0.1,poor
+1643,DeMarre Carroll,2019-20,1.8,0.3,0.2,poor
+1650,Tyson Chandler,2019-20,1.6,0.2,0.3,poor
+1656,Gary Clark,2019-20,1.7,0.1,0.5,poor
+1659,Nic Claxton,2019-20,1.7,0.1,0.5,poor
+1660,Chris Clemons,2019-20,0.8,0.3,0.2,poor
+1661,Antonius Cleveland,2019-20,0.5,0.1,0.3,poor
+1662,Amir Coffey,2019-20,0.7,0.3,0.1,poor
+1667,Quinn Cook,2019-20,0.9,0.3,0.0,poor
+1668,Tyler Cook,2019-20,0.6,0.2,0.0,poor
+1670,Allen Crabbe,2019-20,1.8,0.4,0.1,poor
+1677,Troy Daniels,2019-20,0.9,0.2,0.1,poor
+1682,Matthew Dellavedova,2019-20,1.0,0.4,0.0,poor
+1684,Cheick Diallo,2019-20,2.1,0.2,0.3,poor
+1691,Damyean Dotson,2019-20,1.7,0.5,0.1,poor
+1696,Jared Dudley,2019-20,1.0,0.3,0.1,poor
+1698,Carsen Edwards,2019-20,1.1,0.3,0.1,poor
+1700,Wayne Ellington,2019-20,1.7,0.4,0.1,poor
+1704,Jacob Evans,2019-20,1.1,0.4,0.4,poor
+1705,Dante Exum,2019-20,1.6,0.4,0.2,poor
+1709,Terrance Ferguson,2019-20,0.9,0.5,0.3,poor
+1711,Yogi Ferrell,2019-20,0.9,0.4,0.1,poor
+1713,Bryn Forbes,2019-20,1.8,0.5,0.0,poor
+1716,Melvin Frazier,2019-20,0.4,0.5,0.1,poor
+1717,Michael Frazier,2019-20,0.7,0.2,0.0,poor
+1718,Tim Frazier,2019-20,0.9,0.5,0.1,poor
+1721,Wenyen Gabriel,2019-20,1.0,0.4,0.2,poor
+1733,Brandon Goodwin,2019-20,1.8,0.4,0.1,poor
+1737,Treveon Graham,2019-20,1.8,0.4,0.1,poor
+1744,Javonte Green,2019-20,1.4,0.5,0.2,poor
+1747,Marko Guduric,2019-20,1.3,0.3,0.2,poor
+1750,Devon Hall,2019-20,0.5,0.4,0.1,poor
+1772,Kevin Hervey,2019-20,1.1,0.1,0.1,poor
+1777,Jaylen Hoard,2019-20,1.4,0.4,0.0,poor
+1800,Frank Jackson,2019-20,1.0,0.3,0.1,poor
+1803,Justin Jackson,2019-20,2.0,0.2,0.2,poor
+1805,Justin James,2019-20,0.7,0.2,0.3,poor
+1807,Amile Jefferson,2019-20,0.7,0.1,0.2,poor
+1808,DaQuan Jeffries,2019-20,1.2,0.3,0.1,poor
+1809,Ty Jerome,2019-20,1.3,0.5,0.1,poor
+1810,Alize Johnson,2019-20,1.9,0.2,0.1,poor
+1811,B.J. Johnson,2019-20,1.2,0.3,0.0,poor
+1815,Stanley Johnson,2019-20,1.2,0.2,0.2,poor
+1816,Tyler Johnson,2019-20,1.5,0.4,0.2,poor
+1823,Mfiondu Kabengele,2019-20,0.8,0.2,0.2,poor
+1827,Michael Kidd-Gilchrist,2019-20,2.1,0.1,0.2,poor
+1828,Louis King,2019-20,0.9,0.2,0.0,poor
+1830,Brandon Knight,2019-20,1.5,0.4,0.1,poor
+1832,John Konchar,2019-20,1.5,0.4,0.2,poor
+1835,Kyle Korver,2019-20,1.8,0.4,0.2,poor
+1840,Romeo Langford,2019-20,0.8,0.3,0.3,poor
+1842,Vic Law,2019-20,1.1,0.3,0.0,poor
+1844,T.J. Leaf,2019-20,1.7,0.4,0.1,poor
+1853,Nassir Little,2019-20,1.6,0.3,0.3,poor
+1859,Timothé Luwawu-Cabarrot,2019-20,2.1,0.4,0.1,poor
+1863,Josh Magette,2019-20,0.6,0.4,0.1,poor
+1866,Terance Mann,2019-20,1.1,0.3,0.1,poor
+1874,Garrison Mathews,2019-20,1.0,0.4,0.1,poor
+1881,Doug McDermott,2019-20,2.1,0.2,0.1,poor
+1890,Chimezie Metu,2019-20,1.2,0.2,0.3,poor
+1894,Malcolm Miller,2019-20,0.5,0.2,0.1,poor
+1900,Adam Mokoka,2019-20,0.3,0.4,0.0,poor
+1905,Juwan Morgan,2019-20,0.9,0.0,0.1,poor
+1909,Johnathan Motley,2019-20,0.5,0.2,0.0,poor
+1914,Džanan Musa,2019-20,1.6,0.4,0.0,poor
+1915,Mike Muscala,2019-20,2.0,0.2,0.3,poor
+1920,Raul Neto,2019-20,0.9,0.4,0.1,poor
+1922,Georges Niang,2019-20,1.7,0.3,0.1,poor
+1926,Jaylen Nowell,2019-20,0.7,0.2,0.1,poor
+1933,Semi Ojeleye,2019-20,1.7,0.3,0.1,poor
+1935,Elie Okobo,2019-20,1.3,0.4,0.1,poor
+1940,Miye Oni,2019-20,1.2,0.4,0.2,poor
+1949,Patrick Patterson,2019-20,2.0,0.1,0.1,poor
+1956,Theo Pinson,2019-20,1.3,0.5,0.1,poor
+1959,Vincent Poirier,2019-20,1.4,0.1,0.4,poor
+1982,Justin Robinson,2019-20,0.4,0.0,0.1,poor
+1996,Admiral Schofield,2019-20,1.2,0.2,0.1,poor
+2001,Landry Shamet,2019-20,1.8,0.4,0.2,poor
+2005,Chris Silva,2019-20,1.5,0.2,0.5,poor
+2007,Anfernee Simons,2019-20,1.8,0.4,0.1,poor
+2008,Alen Smailagić,2019-20,1.2,0.2,0.3,poor
+2013,Zhaire Smith,2019-20,0.3,0.4,0.0,poor
+2017,Edmond Sumner,2019-20,1.1,0.5,0.3,poor
+2023,Isaiah Thomas,2019-20,1.4,0.3,0.2,poor
+2024,Khyri Thomas,2019-20,0.0,0.4,0.0,poor
+2025,Lance Thomas,2019-20,1.6,0.0,0.0,poor
+2026,Matt Thomas,2019-20,1.3,0.2,0.0,poor
+2034,Allonzo Trier,2019-20,1.0,0.1,0.2,poor
+2036,Rayjon Tucker,2019-20,0.9,0.1,0.1,poor
+2039,Jarrod Uthoff,2019-20,0.6,0.1,0.0,poor
+2042,Jarred Vanderbilt,2019-20,0.5,0.3,0.1,poor
+2044,Gabe Vincent,2019-20,0.6,0.6,0.0,poor
+2047,Dean Wade,2019-20,1.3,0.2,0.3,poor
+2052,Tyrone Wallace,2019-20,1.4,0.5,0.1,poor
+2053,Derrick Walton,2019-20,0.5,0.3,0.0,poor
+2057,Yuta Watanabe,2019-20,0.7,0.3,0.1,poor
+2059,Paul Watson,2019-20,1.5,0.4,0.1,poor
+2060,Quinndary Weatherspoon,2019-20,0.5,0.3,0.1,poor
+2072,Nigel Williams-Goss,2019-20,0.4,0.3,0.1,poor
+2074,D.J. Wilson,2019-20,2.2,0.1,0.1,poor
+2090,Ty-Shon Alexander,2020-21,0.5,0.0,0.1,poor
+2097,Kostas Antetokounmpo,2020-21,1.0,0.1,0.3,poor
+2098,Thanasis Antetokounmpo,2020-21,1.2,0.4,0.2,poor
+2102,Ryan Arcidiacono,2020-21,1.4,0.2,0.0,poor
+2104,D.J. Augustin,2020-21,1.3,0.5,0.0,poor
+2107,Udoka Azubuike,2020-21,0.6,0.1,0.3,poor
+2117,Keita Bates-Diop,2020-21,1.3,0.4,0.2,poor
+2129,Tyler Bey,2020-21,0.6,0.0,0.1,poor
+2135,Keljin Blevins,2020-21,0.4,0.1,0.0,poor
+2138,Bol Bol,2020-21,0.8,0.1,0.3,poor
+2140,Jordan Bone,2020-21,1.4,0.1,0.0,poor
+2141,Isaac Bonga,2020-21,1.2,0.3,0.2,poor
+2147,Jarrell Brantley,2020-21,0.6,0.3,0.1,poor
+2157,Charlie Brown Jr.,2020-21,1.6,0.4,0.2,poor
+2166,Trey Burke,2020-21,0.7,0.6,0.1,poor
+2170,Devontae Cacok,2020-21,1.0,0.3,0.2,poor
+2173,Vlatko Čančar,2020-21,1.0,0.3,0.0,poor
+2174,Devin Cannady,2020-21,0.6,0.6,0.1,poor
+2176,Vernon Carey Jr.,2020-21,1.1,0.1,0.3,poor
+2177,Jevon Carter,2020-21,1.3,0.5,0.2,poor
+2182,Chris Chiozza,2020-21,1.0,0.3,0.3,poor
+2184,Gary Clark,2020-21,2.1,0.3,0.2,poor
+2188,Amir Coffey,2020-21,0.8,0.2,0.0,poor
+2192,Quinn Cook,2020-21,0.7,0.2,0.0,poor
+2193,Tyler Cook,2020-21,2.1,0.3,0.1,poor
+2201,Nate Darling,2020-21,0.0,0.0,0.1,poor
+2207,Matthew Dellavedova,2020-21,1.4,0.3,0.1,poor
+2216,Damyean Dotson,2020-21,1.9,0.3,0.1,poor
+2217,Devon Dotson,2020-21,0.3,0.4,0.0,poor
+2222,Jared Dudley,2020-21,1.4,0.1,0.1,poor
+2226,Carsen Edwards,2020-21,0.7,0.2,0.0,poor
+2227,CJ Elleby,2020-21,0.7,0.2,0.1,poor
+2229,Wayne Ellington,2020-21,1.6,0.4,0.2,poor
+2236,Cristiano Felício,2020-21,0.9,0.2,0.0,poor
+2237,Terrance Ferguson,2020-21,0.1,0.1,0.0,poor
+2238,Bruno Fernando,2020-21,1.9,0.1,0.1,poor
+2243,Bryn Forbes,2020-21,1.4,0.3,0.0,poor
+2244,Trent Forrest,2020-21,1.1,0.3,0.1,poor
+2247,Robert Franks,2020-21,1.1,0.4,0.4,poor
+2254,Langston Galloway,2020-21,0.9,0.2,0.0,poor
+2262,Anthony Gill,2020-21,1.3,0.4,0.2,poor
+2265,Brandon Goodwin,2020-21,1.3,0.4,0.0,poor
+2273,Javonte Green,2020-21,1.1,0.7,0.1,poor
+2275,Josh Green,2020-21,1.3,0.4,0.1,poor
+2277,Kyle Guy,2020-21,1.0,0.2,0.0,poor
+2282,Josh Hall,2020-21,2.5,0.2,0.0,poor
+2290,Jalen Harris,2020-21,1.2,0.6,0.0,poor
+2293,Shaquille Harrison,2020-21,1.2,0.5,0.1,poor
+2306,Nate Hinton,2020-21,0.4,0.3,0.1,poor
+2311,Rondae Hollis-Jefferson,2020-21,1.4,0.2,0.4,poor
+2313,Rodney Hood,2020-21,1.5,0.4,0.1,poor
+2318,Markus Howard,2020-21,0.5,0.1,0.0,poor
+2320,Elijah Hughes,2020-21,0.4,0.1,0.1,poor
+2329,Wes Iwundu,2020-21,1.8,0.4,0.1,poor
+2330,Frank Jackson,2020-21,1.8,0.4,0.0,poor
+2333,Justin Jackson,2020-21,1.8,0.4,0.1,poor
+2335,Justin James,2020-21,0.6,0.2,0.1,poor
+2340,Isaiah Joe,2020-21,0.7,0.3,0.1,poor
+2346,Tyler Johnson,2020-21,1.8,0.4,0.0,poor
+2350,Mason Jones,2020-21,1.5,0.2,0.0,poor
+2351,Tre Jones,2020-21,0.4,0.2,0.0,poor
+2355,Mfiondu Kabengele,2020-21,1.2,0.2,0.3,poor
+2360,Nathan Knight,2020-21,1.4,0.3,0.3,poor
+2361,Kevin Knox,2020-21,1.2,0.3,0.1,poor
+2365,Rodions Kurucs,2020-21,0.9,0.4,0.2,poor
+2367,Anthony Lamb,2020-21,1.8,0.3,0.2,poor
+2369,Romeo Langford,2020-21,1.3,0.3,0.3,poor
+2372,T.J. Leaf,2020-21,0.7,0.3,0.1,poor
+2382,Nassir Little,2020-21,2.0,0.1,0.3,poor
+2392,Thon Maker,2020-21,1.3,0.3,0.5,poor
+2394,Karim Mané,2020-21,1.3,0.0,0.2,poor
+2396,Nico Mannion,2020-21,1.3,0.5,0.0,poor
+2397,Boban Marjanović,2020-21,2.5,0.1,0.2,poor
+2402,Jeremiah Martin,2020-21,0.6,0.6,0.2,poor
+2403,Kelan Martin,2020-21,1.7,0.3,0.3,poor
+2406,Garrison Mathews,2020-21,1.1,0.5,0.1,poor
+2407,Dakota Mathias,2020-21,0.8,0.1,0.4,poor
+2409,Tyrese Maxey,2020-21,1.5,0.4,0.2,poor
+2410,Skylar Mays,2020-21,0.8,0.4,0.1,poor
+2416,Doug McDermott,2020-21,2.4,0.3,0.1,poor
+2417,Sean McDermott,2020-21,0.7,0.1,0.2,poor
+2419,Rodney McGruder,2020-21,0.9,0.5,0.1,poor
+2420,Alfonzo McKinnie,2020-21,0.8,0.2,0.0,poor
+2422,Ben McLemore,2020-21,1.6,0.4,0.2,poor
+2423,Nicolò Melli,2020-21,2.1,0.3,0.1,poor
+2425,Sam Merrill,2020-21,0.8,0.3,0.0,poor
+2429,Patty Mills,2020-21,1.4,0.6,0.0,poor
+2433,Adam Mokoka,2020-21,0.3,0.1,0.1,poor
+2435,E'Twaun Moore,2020-21,1.1,0.6,0.2,poor
+2437,Juwan Morgan,2020-21,0.7,0.1,0.0,poor
+2441,Mychal Mulder,2020-21,0.9,0.2,0.2,poor
+2450,Georges Niang,2020-21,2.1,0.3,0.1,poor
+2451,Zeke Nnaji,2020-21,1.2,0.2,0.1,poor
+2454,Frank Ntilikina,2020-21,0.8,0.5,0.1,poor
+2456,James Nunnally,2020-21,0.8,0.0,0.0,poor
+2461,Semi Ojeleye,2020-21,2.1,0.3,0.0,poor
+2462,Jahlil Okafor,2020-21,1.6,0.2,0.2,poor
+2467,KZ Okpala,2020-21,1.3,0.3,0.3,poor
+2471,Miye Oni,2020-21,1.1,0.2,0.1,poor
+2473,Daniel Oturu,2020-21,0.9,0.1,0.2,poor
+2478,Patrick Patterson,2020-21,1.5,0.4,0.2,poor
+2483,Gary Payton II,2020-21,0.9,0.6,0.1,poor
+2484,Norvel Pelle,2020-21,1.0,0.1,0.7,poor
+2485,Reggie Perry,2020-21,1.8,0.2,0.2,poor
+2489,Vincent Poirier,2020-21,0.8,0.0,0.3,poor
+2491,Jordan Poole,2020-21,1.5,0.5,0.2,poor
+2492,Jontay Porter,2020-21,0.9,0.3,0.1,poor
+2503,Jahmi'us Ramsey,2020-21,0.6,0.3,0.1,poor
+2507,J.J. Redick,2020-21,1.4,0.3,0.1,poor
+2511,Nick Richards,2020-21,0.4,0.0,0.0,poor
+2513,Grant Riller,2020-21,0.1,0.1,0.0,poor
+2517,Glenn Robinson III,2020-21,1.5,0.2,0.1,poor
+2519,Justin Robinson,2020-21,0.7,0.3,0.0,poor
+2529,Luka Šamanić,2020-21,1.6,0.2,0.2,poor
+2530,JaKarr Sampson,2020-21,1.7,0.1,0.5,poor
+2540,Chris Silva,2020-21,1.3,0.1,0.4,poor
+2542,Anfernee Simons,2020-21,2.0,0.3,0.1,poor
+2543,Deividas Sirvydis,2020-21,1.5,0.1,0.0,poor
+2544,Alen Smailagić,2020-21,0.7,0.2,0.3,poor
+2548,Jalen Smith,2020-21,1.1,0.0,0.2,poor
+2549,Tony Snell,2020-21,2.0,0.3,0.2,poor
+2551,Cassius Stanley,2020-21,0.5,0.0,0.1,poor
+2554,Max Strus,2020-21,0.9,0.3,0.1,poor
+2560,Tyrell Terry,2020-21,0.5,0.5,0.0,poor
+2565,Matt Thomas,2020-21,0.8,0.1,0.0,poor
+2567,Sindarius Thornwell,2020-21,0.7,0.6,0.1,poor
+2569,Killian Tillie,2020-21,1.0,0.3,0.4,poor
+2571,Anthony Tolliver,2020-21,0.6,0.3,0.2,poor
+2572,Obi Toppin,2020-21,1.8,0.3,0.2,poor
+2574,Axel Toupane,2020-21,0.8,0.3,0.4,poor
+2578,Rayjon Tucker,2020-21,0.7,0.1,0.0,poor
+2586,Gabe Vincent,2020-21,0.9,0.4,0.0,poor
+2598,Tremont Waters,2020-21,0.6,0.6,0.0,poor
+2599,Paul Watson,2020-21,1.5,0.2,0.1,poor
+2600,Quinndary Weatherspoon,2020-21,0.4,0.4,0.1,poor
+2616,Cassius Winston,2020-21,0.4,0.1,0.0,poor
+2619,Robert Woodard II,2020-21,0.9,0.0,0.2,poor
