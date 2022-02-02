@@ -1,4 +1,4 @@
-![nba_league]([images/nba.jpeg](https://github.com/abeituni/NBA_analysis/blob/main/Dashboard/Images/nba.jpeg))
+![nba_league](https://github.com/abeituni/NBA_analysis/blob/main/Dashboard/Images/nba.jpeg)
 # **NBA Analysis - Segment 3**
 A shared repository for the final project: NBA Performance Analysis.
 
@@ -25,20 +25,22 @@ We hope to find out which NBA players have the most similar stats spanning acros
 
 ## Dashboard
 We have included a link to our visualization & analysis for our Advanced Stats Model below. 
-[Advanced Statistics - Tableau Visualization (https://public.tableau.com/app/profile/jacob.steinfeld/viz/NBA_16436804554500/advanced_stats?publish=yes)
+[Advanced Statistics - Tableau Visualization] (https://public.tableau.com/app/profile/jacob.steinfeld/viz/NBA_16436804554500/advanced_stats?publish=yes)
+
+![tableau_screenshot](https://github.com/abeituni/NBA_analysis/blob/main/Dashboard/Images/tableau_nba_visual.png)
 
 ## Machine Learning
 
 ## UPDATE - Segment 3
 
 1) Description of preliminary data preprocessing
-   -Same as segment 2
+   - Same as segment 2
 2) Description of feature engineering & feature selection
-   -Decided to use PCA for each learning model we are working on
+   - Decided to use PCA for each learning model we are working on
 3) Description of how data was split
-   -We split the data into 4 models we'd work on; Traditional, Advanced, Shooting & Defensive Stats
+   - We split the data into 4 models we'd work on; Traditional, Advanced, Shooting & Defensive Stats
 4) Explanation of model choice
-   -We had tons of data to work with from our original data sets, so we decided to split them up into 4 unsupervised machine learning models to drill down on the data we were working with. 
+   - We had tons of data to work with from our original data sets, so we decided to split them up into 4 unsupervised machine learning models to drill down on the data we were working with. 
 5) Explanation of changes in model choice
    - Last week we did not have the 4 models finalized. We have done so this week and they are all complete minus the Defensive Stats model.
 6) Description of how model training has been going
