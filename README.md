@@ -1,4 +1,4 @@
-![nba_league]([[images/nba.jpeg](https://github.com/abeituni/NBA_analysis/blob/main/Dashboard/Images/nba.jpeg)])
+![nba_league]([images/nba.jpeg](https://github.com/abeituni/NBA_analysis/blob/main/Dashboard/Images/nba.jpeg))
 # **NBA Analysis - Segment 3**
 A shared repository for the final project: NBA Performance Analysis.
 
