@@ -1,9 +1,13 @@
 ![nba_league](https://github.com/abeituni/NBA_analysis/blob/main/Dashboard/Images/nba.jpeg)
-# **NBA Analysis - Segment 3**
+# **NBA Analysis - Segment 4**
 A shared repository for the final project: NBA Performance Analysis.
+
+### Tableau Link
+[NBA Player Analysis: Seasons 2016-2021](https://public.tableau.com/app/profile/amir.bei/viz/NBAPlayerAnalysis2016-2021/NBAStats?publish=yes)
 
 ## Presentation 
 Our presenation is hosted on [Google Slides](https://docs.google.com/presentation/d/1L4YRwSEaInupFLXlQvdWhKHDKyJHGeozT8aQ3ug04TQ/edit?usp=sharing).
+
 ##### *Topic*
 A combination of NBA season averages and advanced stats from 5 seasons were clustered using unsupervised machine learning. We want to visualize how NBA players can be grouped according to their stats and performance.
 
@@ -12,11 +16,17 @@ With the high interest we have in basketball and all the available data we have 
 
 ##### *Description of source of data*
 - The data is gathered from [Basketball Reference](http://basketball-reference.com/)
-- We used the NBA player stats and advanced stats; specifically season averages per game. 
+- Data was pulled from Per-Game Averages & Advanced Statistics for each NBA Season.
+- There were a total of 32 columns of statistics, with 2,625 rows of data.
+- Each row of data represents the average season’s performance of a player. 
 
 
 ##### *Question that we hope to answer*
-We hope to find out which NBA players have the most similar stats spanning across seasons from 2016 through 2021.
+- How can we use an unsupervised machine learning models to change the way we categorize players’ performances?
+- How would our models group players based off specific statistical categories?
+- How would our Traditional & Advanced Statistical Models Compare to each other? Would one model be more accurate than the other?
+- Would there be a consistency in player rankings throughout various statistical models?
+
 
 
 ## Github
@@ -33,7 +43,7 @@ We have included a link to our visualization & analysis for our Advanced Stats M
 
 ## Machine Learning
 
-## UPDATE - Segment 3
+## UPDATE - Segment 4
 
 1) Description of preliminary data preprocessing
    - Same as segment 2
